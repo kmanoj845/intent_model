@@ -1,0 +1,373 @@
+sentence,intent,language
+Buy diesel,petrol_payment,en
+diesel oil buy,petrol_payment,en
+Buy petrol,petrol_payment,en
+Buy uFill,petrol_payment,en
+uFill voucher buy,petrol_payment,en
+Buy you Fill,petrol_payment,en
+Buy you Fill voucher,petrol_payment,en
+uFil buy,petrol_payment,en
+Buy uFil voucher,petrol_payment,en
+Voucher for diesel,petrol_payment,en
+diesel oil Voucher,petrol_payment,en
+Voucher for petrol,petrol_payment,en
+You Fill service,petrol_payment,en
+uFill service voucher,petrol_payment,en
+uFil service buy,petrol_payment,en
+Pay for diesel,petrol_payment,en
+Payment for diesel oil,petrol_payment,en
+Make payment for petrol,petrol_payment,en
+Pay for uFill,petrol_payment,en
+uFill voucher payment,petrol_payment,en
+you Fill payment,petrol_payment,en
+Pay for you Fill voucher,petrol_payment,en
+Make payment for uFil,petrol_payment,en
+Buy diesel through upi,petrol_payment,en
+Use upi for diesel oil payment,petrol_payment,en
+Buy petrol using upi balance,petrol_payment,en
+Upi account to Buy uFill,petrol_payment,en
+uFill voucher buy using upi account,petrol_payment,en
+Upi balance to Buy you Fill,petrol_payment,en
+Make upi payment for you Fill voucher,petrol_payment,en
+Pay from upi uFil buy,petrol_payment,en
+Buy uFil voucher payment from upi,petrol_payment,en
+Pay for diesel through upi,petrol_payment,en
+Upi pay for diesel oil Voucher,petrol_payment,en
+You Fill service from upi,petrol_payment,en
+Upi payment for uFill service voucher,petrol_payment,en
+uFil service buy using upi,petrol_payment,en
+"Need diesel voucher, fifty nine litre",petrol_payment,en
+"Thirty one litre diesel voucher, please",petrol_payment,en
+Voucher for twenty three litre petrol,petrol_payment,en
+Twenty five litre diesel voucher,petrol_payment,en
+One hundred twenty nine liter diesel voucher,petrol_payment,en
+Buy forty one litre diesel voucher,petrol_payment,en
+"Fuel voucher, fifty four liter  petrol",petrol_payment,en
+"buy a fifty five liter diesel voucher, please",petrol_payment,en
+Twelve liter ufill voucher,petrol_payment,en
+You fill voucher for thirteen liter oil,petrol_payment,en
+Ufill voucher fifteen liter petrol,petrol_payment,en
+"Pay for diesel voucher, fifty nine  litre",petrol_payment,en
+"Upi payment for thirty one litre diesel voucher, please",petrol_payment,en
+Pay from upi Voucher for twenty eight liter petrol,petrol_payment,en
+Twenty seven liter diesel voucher payment using upi,petrol_payment,en
+Using upi pay for one hunderd and ten litre diesel voucher,petrol_payment,en
+Buy forty three litre diesel voucher through  upi payment,petrol_payment,en
+"Pay from upi balance for Fuel voucher, fifty six liter  petrol",petrol_payment,en
+"Pay using upi account to buy a nineteen litre diesel voucher, please",petrol_payment,en
+Buy eleven liter ufill voucher through upi balance,petrol_payment,en
+You fill voucher for twenty liter oil using upi pay,petrol_payment,en
+Use upi account for Ufill voucher fifteen liter petrol,petrol_payment,en
+"Hi, I would like to purchase a voucher for twenty eight liters of diesel, please",petrol_payment,en
+I need to buy a voucher for twenty nine litres of diesel for my upcoming road trip,petrol_payment,en
+any vouchers available for petrol? like to fill up my tank,petrol_payment,en
+would like to purchase a voucher for twenty liters of diesel for my work commute,petrol_payment,en
+"I'm going on a long drive this weekend, can I purchase a voucher for eight litres of diesel?",petrol_payment,en
+buy a voucher for ten liters of diesel to use in my farming equipment,petrol_payment,en
+Do you sell fuel vouchers? I need to purchase one for thirty liters of petrol for my motorcycle,petrol_payment,en
+Need a twenty nine Liter diesel voucher right now,petrol_payment,en
+Voucher for petrol to fill up my tank,petrol_payment,en
+Urgently need a thirty six Litre diesel voucher,petrol_payment,en
+"Planning a road trip, need tenLiter diesel voucher",petrol_payment,en
+Buy a thirty sevenLitre diesel voucher as soon as possible,petrol_payment,en
+"May I get a fifty three Liter petrol voucher, please?",petrol_payment,en
+like to purchase a forty two Liter diesel voucher,petrol_payment,en
+"Voucher for petrol, as a gift for my brother",petrol_payment,en
+I need to buy a seventeen Litre diesel voucher ,petrol_payment,en
+Can I purchase a thirty three liter diesel voucher,petrol_payment,en
+"Petrol ufill voucher, rupees nine ",petrol_payment,en
+"Fuel you fill voucher, rupee seven  petrol",petrol_payment,en
+"Ufil Voucher, seven rupee  diesel, low",petrol_payment,en
+Can I get a fuel voucher for rupees two  worth of petrol?,petrol_payment,en
+"Low on fuel, buying a nine rupees diesel through uFill voucher ",petrol_payment,en
+Please provide a seven rupee  petrol voucher through you Fill,petrol_payment,en
+Can I buy a two rupes  voucher through uFil,petrol_payment,en
+want to gift a rs five  diesel voucher for a family member road trip,petrol_payment,en
+"Low on fuel, buying rupes four  petrol voucher",petrol_payment,en
+Can I buy a rupes eight petrol voucher as a gift?,petrol_payment,en
+I want to buy a rupees six  diesel voucher ,petrol_payment,en
+Please provide a rupee four  petrol voucher,petrol_payment,en
+"Low on fuel, require rupee six  petrol voucher",petrol_payment,en
+Please provide a one rupee  petrol voucher,petrol_payment,en
+Can I get a five rupee  petrol voucher?,petrol_payment,en
+Can I buy a fuel voucher for rupees four worth of petrol? I need to top up my car,petrol_payment,en
+"Hi, can I get a voucher for rupees seven  worth of petrol? My tank is running low",petrol_payment,en
+Buy diesel,petrol_payment,en
+diesel oil buy,petrol_payment,en
+Buy petrol,petrol_payment,en
+Buy uFill,petrol_payment,en
+uFill voucher buy,petrol_payment,en
+Buy you Fill,petrol_payment,en
+Buy you Fill voucher,petrol_payment,en
+uFil buy,petrol_payment,en
+Buy uFil voucher,petrol_payment,en
+Voucher for diesel,petrol_payment,en
+diesel oil Voucher,petrol_payment,en
+Voucher for petrol,petrol_payment,en
+You Fill service,petrol_payment,en
+uFill service voucher,petrol_payment,en
+uFil service buy,petrol_payment,en
+Pay for diesel,petrol_payment,en
+Payment for diesel oil,petrol_payment,en
+Make payment for petrol,petrol_payment,en
+Pay for uFill,petrol_payment,en
+uFill voucher payment,petrol_payment,en
+you Fill payment,petrol_payment,en
+Pay for you Fill voucher,petrol_payment,en
+Make payment for uFil,petrol_payment,en
+Buy diesel through upi,petrol_payment,en
+Use upi for diesel oil payment,petrol_payment,en
+Buy petrol using upi balance,petrol_payment,en
+Upi account to Buy uFill,petrol_payment,en
+uFill voucher buy using upi account,petrol_payment,en
+Upi balance to Buy you Fill,petrol_payment,en
+Make upi payment for you Fill voucher,petrol_payment,en
+Pay from upi uFil buy,petrol_payment,en
+Buy uFil voucher payment from upi,petrol_payment,en
+Pay for diesel through upi,petrol_payment,en
+Upi pay for diesel oil Voucher,petrol_payment,en
+You Fill service from upi,petrol_payment,en
+Upi payment for uFill service voucher,petrol_payment,en
+uFil service buy using upi,petrol_payment,en
+"Need diesel voucher, fifty nine litre",petrol_payment,en
+"Thirty one litre diesel voucher, please",petrol_payment,en
+Voucher for twenty three litre petrol,petrol_payment,en
+Twenty five litre diesel voucher,petrol_payment,en
+One hundred twenty nine liter diesel voucher,petrol_payment,en
+Buy forty one litre diesel voucher,petrol_payment,en
+"Fuel voucher, fifty four liter  petrol",petrol_payment,en
+"buy a fifty five liter diesel voucher, please",petrol_payment,en
+Twelve liter ufill voucher,petrol_payment,en
+You fill voucher for thirteen liter oil,petrol_payment,en
+Ufill voucher fifteen liter petrol,petrol_payment,en
+"Pay for diesel voucher, fifty nine  litre",petrol_payment,en
+"Upi payment for thirty one litre diesel voucher, please",petrol_payment,en
+Pay from upi Voucher for twenty eight liter petrol,petrol_payment,en
+Twenty seven liter diesel voucher payment using upi,petrol_payment,en
+Using upi pay for one hunderd and ten litre diesel voucher,petrol_payment,en
+Buy forty three litre diesel voucher through  upi payment,petrol_payment,en
+"Pay from upi balance for Fuel voucher, fifty six liter  petrol",petrol_payment,en
+"Pay using upi account to buy a nineteen litre diesel voucher, please",petrol_payment,en
+Buy eleven liter ufill voucher through upi balance,petrol_payment,en
+You fill voucher for twenty liter oil using upi pay,petrol_payment,en
+Use upi account for Ufill voucher fifteen liter petrol,petrol_payment,en
+"Hi, I would like to purchase a voucher for twenty eight liters of diesel, please",petrol_payment,en
+I need to buy a voucher for twenty nine litres of diesel for my upcoming road trip,petrol_payment,en
+any vouchers available for petrol? like to fill up my tank,petrol_payment,en
+would like to purchase a voucher for twenty liters of diesel for my work commute,petrol_payment,en
+"I'm going on a long drive this weekend, can I purchase a voucher for eight litres of diesel?",petrol_payment,en
+buy a voucher for ten liters of diesel to use in my farming equipment,petrol_payment,en
+Do you sell fuel vouchers? I need to purchase one for thirty liters of petrol for my motorcycle,petrol_payment,en
+Need a twenty nine Liter diesel voucher right now,petrol_payment,en
+Voucher for petrol to fill up my tank,petrol_payment,en
+Urgently need a thirty six Litre diesel voucher,petrol_payment,en
+"Planning a road trip, need tenLiter diesel voucher",petrol_payment,en
+Buy a thirty sevenLitre diesel voucher as soon as possible,petrol_payment,en
+"May I get a fifty three Liter petrol voucher, please?",petrol_payment,en
+like to purchase a forty two Liter diesel voucher,petrol_payment,en
+"Voucher for petrol, as a gift for my brother",petrol_payment,en
+I need to buy a seventeen Litre diesel voucher ,petrol_payment,en
+Can I purchase a thirty three liter diesel voucher,petrol_payment,en
+"Petrol ufill voucher, rs one ",petrol_payment,en
+"Fuel you fill voucher, rupee nine  petrol",petrol_payment,en
+"Ufil Voucher, two rupee  diesel, low",petrol_payment,en
+Can I get a fuel voucher for rupees four  worth of petrol?,petrol_payment,en
+"Low on fuel, buying a four ruppes diesel through uFill voucher ",petrol_payment,en
+Please provide a rupes one  petrol voucher through you Fill,petrol_payment,en
+Can I buy a nine rupes  voucher through uFil,petrol_payment,en
+want to gift a six rupee  diesel voucher for a family member road trip,petrol_payment,en
+"Low on fuel, buying three rs  petrol voucher",petrol_payment,en
+Can I buy a ruppes five petrol voucher as a gift?,petrol_payment,en
+I want to buy a rs seven  diesel voucher ,petrol_payment,en
+Please provide a three ruppes  petrol voucher,petrol_payment,en
+"Low on fuel, require ruppes four  petrol voucher",petrol_payment,en
+Please provide a eight rupes  petrol voucher,petrol_payment,en
+Can I get a rupees eight  petrol voucher?,petrol_payment,en
+Can I buy a fuel voucher for rs two worth of petrol? I need to top up my car,petrol_payment,en
+"Hi, can I get a voucher for seven rs  worth of petrol? My tank is running low",petrol_payment,en
+Buy diesel,petrol_payment,en
+diesel oil buy,petrol_payment,en
+Buy petrol,petrol_payment,en
+Buy uFill,petrol_payment,en
+uFill voucher buy,petrol_payment,en
+Buy you Fill,petrol_payment,en
+Buy you Fill voucher,petrol_payment,en
+uFil buy,petrol_payment,en
+Buy uFil voucher,petrol_payment,en
+Voucher for diesel,petrol_payment,en
+diesel oil Voucher,petrol_payment,en
+Voucher for petrol,petrol_payment,en
+You Fill service,petrol_payment,en
+uFill service voucher,petrol_payment,en
+uFil service buy,petrol_payment,en
+Pay for diesel,petrol_payment,en
+Payment for diesel oil,petrol_payment,en
+Make payment for petrol,petrol_payment,en
+Pay for uFill,petrol_payment,en
+uFill voucher payment,petrol_payment,en
+you Fill payment,petrol_payment,en
+Pay for you Fill voucher,petrol_payment,en
+Make payment for uFil,petrol_payment,en
+Buy diesel through upi,petrol_payment,en
+Use upi for diesel oil payment,petrol_payment,en
+Buy petrol using upi balance,petrol_payment,en
+Upi account to Buy uFill,petrol_payment,en
+uFill voucher buy using upi account,petrol_payment,en
+Upi balance to Buy you Fill,petrol_payment,en
+Make upi payment for you Fill voucher,petrol_payment,en
+Pay from upi uFil buy,petrol_payment,en
+Buy uFil voucher payment from upi,petrol_payment,en
+Pay for diesel through upi,petrol_payment,en
+Upi pay for diesel oil Voucher,petrol_payment,en
+You Fill service from upi,petrol_payment,en
+Upi payment for uFill service voucher,petrol_payment,en
+uFil service buy using upi,petrol_payment,en
+"Need diesel voucher, fifty nine litre",petrol_payment,en
+"Thirty one litre diesel voucher, please",petrol_payment,en
+Voucher for twenty three litre petrol,petrol_payment,en
+Twenty five litre diesel voucher,petrol_payment,en
+One hundred twenty nine liter diesel voucher,petrol_payment,en
+Buy forty one litre diesel voucher,petrol_payment,en
+"Fuel voucher, fifty four liter  petrol",petrol_payment,en
+"buy a fifty five liter diesel voucher, please",petrol_payment,en
+Twelve liter ufill voucher,petrol_payment,en
+You fill voucher for thirteen liter oil,petrol_payment,en
+Ufill voucher fifteen liter petrol,petrol_payment,en
+"Pay for diesel voucher, fifty nine  litre",petrol_payment,en
+"Upi payment for thirty one litre diesel voucher, please",petrol_payment,en
+Pay from upi Voucher for twenty eight liter petrol,petrol_payment,en
+Twenty seven liter diesel voucher payment using upi,petrol_payment,en
+Using upi pay for one hunderd and ten litre diesel voucher,petrol_payment,en
+Buy forty three litre diesel voucher through  upi payment,petrol_payment,en
+"Pay from upi balance for Fuel voucher, fifty six liter  petrol",petrol_payment,en
+"Pay using upi account to buy a nineteen litre diesel voucher, please",petrol_payment,en
+Buy eleven liter ufill voucher through upi balance,petrol_payment,en
+You fill voucher for twenty liter oil using upi pay,petrol_payment,en
+Use upi account for Ufill voucher fifteen liter petrol,petrol_payment,en
+"Hi, I would like to purchase a voucher for twenty eight liters of diesel, please",petrol_payment,en
+I need to buy a voucher for twenty nine litres of diesel for my upcoming road trip,petrol_payment,en
+any vouchers available for petrol? like to fill up my tank,petrol_payment,en
+would like to purchase a voucher for twenty liters of diesel for my work commute,petrol_payment,en
+"I'm going on a long drive this weekend, can I purchase a voucher for eight litres of diesel?",petrol_payment,en
+buy a voucher for ten liters of diesel to use in my farming equipment,petrol_payment,en
+Do you sell fuel vouchers? I need to purchase one for thirty liters of petrol for my motorcycle,petrol_payment,en
+Need a twenty nine Liter diesel voucher right now,petrol_payment,en
+Voucher for petrol to fill up my tank,petrol_payment,en
+Urgently need a thirty six Litre diesel voucher,petrol_payment,en
+"Planning a road trip, need tenLiter diesel voucher",petrol_payment,en
+Buy a thirty sevenLitre diesel voucher as soon as possible,petrol_payment,en
+"May I get a fifty three Liter petrol voucher, please?",petrol_payment,en
+like to purchase a forty two Liter diesel voucher,petrol_payment,en
+"Voucher for petrol, as a gift for my brother",petrol_payment,en
+I need to buy a seventeen Litre diesel voucher ,petrol_payment,en
+Can I purchase a thirty three liter diesel voucher,petrol_payment,en
+"Petrol ufill voucher, ruppes seven ",petrol_payment,en
+"Fuel you fill voucher, rs six  petrol",petrol_payment,en
+"Ufil Voucher, rs five  diesel, low",petrol_payment,en
+Can I get a fuel voucher for one rs  worth of petrol?,petrol_payment,en
+"Low on fuel, buying a rupees three diesel through uFill voucher ",petrol_payment,en
+Please provide a two rupes  petrol voucher through you Fill,petrol_payment,en
+Can I buy a three rs  voucher through uFil,petrol_payment,en
+want to gift a rupees two  diesel voucher for a family member road trip,petrol_payment,en
+"Low on fuel, buying rupees one  petrol voucher",petrol_payment,en
+Can I buy a rupees six petrol voucher as a gift?,petrol_payment,en
+I want to buy a nine rupee  diesel voucher ,petrol_payment,en
+Please provide a eight rupee  petrol voucher,petrol_payment,en
+"Low on fuel, require rupee six  petrol voucher",petrol_payment,en
+Please provide a five ruppes  petrol voucher,petrol_payment,en
+Can I get a three rupees  petrol voucher?,petrol_payment,en
+Can I buy a fuel voucher for rupee three worth of petrol? I need to top up my car,petrol_payment,en
+"Hi, can I get a voucher for one rs  worth of petrol? My tank is running low",petrol_payment,en
+Buy diesel,petrol_payment,en
+diesel oil buy,petrol_payment,en
+Buy petrol,petrol_payment,en
+Buy uFill,petrol_payment,en
+uFill voucher buy,petrol_payment,en
+Buy you Fill,petrol_payment,en
+Buy you Fill voucher,petrol_payment,en
+uFil buy,petrol_payment,en
+Buy uFil voucher,petrol_payment,en
+Voucher for diesel,petrol_payment,en
+diesel oil Voucher,petrol_payment,en
+Voucher for petrol,petrol_payment,en
+You Fill service,petrol_payment,en
+uFill service voucher,petrol_payment,en
+uFil service buy,petrol_payment,en
+Pay for diesel,petrol_payment,en
+Payment for diesel oil,petrol_payment,en
+Make payment for petrol,petrol_payment,en
+Pay for uFill,petrol_payment,en
+uFill voucher payment,petrol_payment,en
+you Fill payment,petrol_payment,en
+Pay for you Fill voucher,petrol_payment,en
+Make payment for uFil,petrol_payment,en
+Buy diesel through upi,petrol_payment,en
+Use upi for diesel oil payment,petrol_payment,en
+Buy petrol using upi balance,petrol_payment,en
+Upi account to Buy uFill,petrol_payment,en
+uFill voucher buy using upi account,petrol_payment,en
+Upi balance to Buy you Fill,petrol_payment,en
+Make upi payment for you Fill voucher,petrol_payment,en
+Pay from upi uFil buy,petrol_payment,en
+Buy uFil voucher payment from upi,petrol_payment,en
+Pay for diesel through upi,petrol_payment,en
+Upi pay for diesel oil Voucher,petrol_payment,en
+You Fill service from upi,petrol_payment,en
+Upi payment for uFill service voucher,petrol_payment,en
+uFil service buy using upi,petrol_payment,en
+"Need diesel voucher, fifty nine litre",petrol_payment,en
+"Thirty one litre diesel voucher, please",petrol_payment,en
+Voucher for twenty three litre petrol,petrol_payment,en
+Twenty five litre diesel voucher,petrol_payment,en
+One hundred twenty nine liter diesel voucher,petrol_payment,en
+Buy forty one litre diesel voucher,petrol_payment,en
+"Fuel voucher, fifty four liter  petrol",petrol_payment,en
+"buy a fifty five liter diesel voucher, please",petrol_payment,en
+Twelve liter ufill voucher,petrol_payment,en
+You fill voucher for thirteen liter oil,petrol_payment,en
+Ufill voucher fifteen liter petrol,petrol_payment,en
+"Pay for diesel voucher, fifty nine  litre",petrol_payment,en
+"Upi payment for thirty one litre diesel voucher, please",petrol_payment,en
+Pay from upi Voucher for twenty eight liter petrol,petrol_payment,en
+Twenty seven liter diesel voucher payment using upi,petrol_payment,en
+Using upi pay for one hunderd and ten litre diesel voucher,petrol_payment,en
+Buy forty three litre diesel voucher through  upi payment,petrol_payment,en
+"Pay from upi balance for Fuel voucher, fifty six liter  petrol",petrol_payment,en
+"Pay using upi account to buy a nineteen litre diesel voucher, please",petrol_payment,en
+Buy eleven liter ufill voucher through upi balance,petrol_payment,en
+You fill voucher for twenty liter oil using upi pay,petrol_payment,en
+Use upi account for Ufill voucher fifteen liter petrol,petrol_payment,en
+"Hi, I would like to purchase a voucher for twenty eight liters of diesel, please",petrol_payment,en
+I need to buy a voucher for twenty nine litres of diesel for my upcoming road trip,petrol_payment,en
+any vouchers available for petrol? like to fill up my tank,petrol_payment,en
+would like to purchase a voucher for twenty liters of diesel for my work commute,petrol_payment,en
+"I'm going on a long drive this weekend, can I purchase a voucher for eight litres of diesel?",petrol_payment,en
+buy a voucher for ten liters of diesel to use in my farming equipment,petrol_payment,en
+Do you sell fuel vouchers? I need to purchase one for thirty liters of petrol for my motorcycle,petrol_payment,en
+Need a twenty nine Liter diesel voucher right now,petrol_payment,en
+Voucher for petrol to fill up my tank,petrol_payment,en
+Urgently need a thirty six Litre diesel voucher,petrol_payment,en
+"Planning a road trip, need tenLiter diesel voucher",petrol_payment,en
+Buy a thirty sevenLitre diesel voucher as soon as possible,petrol_payment,en
+"May I get a fifty three Liter petrol voucher, please?",petrol_payment,en
+like to purchase a forty two Liter diesel voucher,petrol_payment,en
+"Voucher for petrol, as a gift for my brother",petrol_payment,en
+I need to buy a seventeen Litre diesel voucher ,petrol_payment,en
+Can I purchase a thirty three liter diesel voucher,petrol_payment,en
+"Petrol ufill voucher, rs one ",petrol_payment,en
+"Fuel you fill voucher, nine rupees  petrol",petrol_payment,en
+"Ufil Voucher, rs eight  diesel, low",petrol_payment,en
+Can I get a fuel voucher for rupes five  worth of petrol?,petrol_payment,en
+"Low on fuel, buying a rupees five diesel through uFill voucher ",petrol_payment,en
+Please provide a rs five  petrol voucher through you Fill,petrol_payment,en
+Can I buy a eight rupes  voucher through uFil,petrol_payment,en
+want to gift a rupes four  diesel voucher for a family member road trip,petrol_payment,en
+"Low on fuel, buying eight rupees  petrol voucher",petrol_payment,en
+Can I buy a rupes four petrol voucher as a gift?,petrol_payment,en
+I want to buy a rupee one  diesel voucher ,petrol_payment,en
+Please provide a three rs  petrol voucher,petrol_payment,en
+"Low on fuel, require seven ruppes  petrol voucher",petrol_payment,en
+Please provide a eight ruppes  petrol voucher,petrol_payment,en
+Can I get a rupees eight  petrol voucher?,petrol_payment,en
+Can I buy a fuel voucher for rupee three worth of petrol? I need to top up my car,petrol_payment,en
+"Hi, can I get a voucher for three rupees  worth of petrol? My tank is running low",petrol_payment,en

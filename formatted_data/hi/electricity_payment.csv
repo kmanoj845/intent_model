@@ -1,0 +1,2496 @@
+sentence,intent,language
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+<<<<<<< HEAD
+एस के एम पी डबल्यू आर रुरल का बिजली का बिल जमा करना।,electricity_payment,hi
+हिमांचल प्रादेश स्टेटे एलेक्ट्रिसिटी बॉर्ड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है टोर पॉवर सुरत का ।,electricity_payment,hi
+पावर बिल जमा करना है कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना सी एच डी का ।,electricity_payment,hi
+गिफ़्ट पॉवर कम्पनी लिमिटेड का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना टी एस ई सी एल का ।,electricity_payment,hi
+एन ई एस सी ओ का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है कोता एलेक्ट्रिसिटी डिस्ट्रिब्यूशन लिमिटेड का।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+एम ई पी डी सी एल के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड के ।,electricity_payment,hi
+गिफ़्ट पॉवर कम्पनी लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है बी के ई एस एल पावर बिल का।,electricity_payment,hi
+बी एस ई एस यामुना पॉवर लिमिटेड का बिल भरना है।,electricity_payment,hi
+एम पी पशिम क्षेत्रा विद्यूत वितरन पावर बिल जमा करना है।,electricity_payment,hi
+जोधापुर विद्यूत वित्रण निगाम लिमिटेड बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन का ।,electricity_payment,hi
+जे यू एस सी ओ पावर बिल जमा करवाना है।,electricity_payment,hi
+ताता पॉवर देल्ही बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो बेस्कॉम बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है के एस ई बी एल ने वो  भरना है ।,electricity_payment,hi
+मेघालया पॉवर डिस्ट्रिब्यूशन कॉरपोरेशन लिमिटेड बिल सेटल करना है,electricity_payment,hi
+सिक्कीम पॉवर अर्बन का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है यामुना पॉवर लिमिटेड पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. ए पी ई पी डी सी एल,electricity_payment,hi
+सी एस पी डी सी एल कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो टी ए टी ए पी डबल्यू आर डी ई एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है उत्तार हरयाणा बीजली वित्रण निगाम ने उसे जमा कराना है।,electricity_payment,hi
+डी डी ई डी का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है सी एस पी डी सी एल से  वो सेटल करना है।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एन पी सी एल नोईडा पॉवर को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। डबल्यू बी एस ई डी सी एल का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+सात पाँच नौ सात का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है तीन तीन आठ तीन,electricity_payment,hi
+"बिलिंग यूनिट चार छः तीन छः का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट सात चार जिरो तीन का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर नौ तीन दो चार का ।,electricity_payment,hi
+यूनिट नंबर नौ आठ दो सात का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है जिरो एक छः आठ।,electricity_payment,hi
+बी यू नंबर सात तीन चार तीन का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है दो नौ आठ चार का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है चार आठ नौ एक,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है छः छः सात एक,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर आठ एक आठ एक है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर जिरो पाँच सात नौ,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर छः आठ पाँच नौ का ।,electricity_payment,hi
+बिलिंग यूनिट एक दो चार सात का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट छः शून्य चार शून्य के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है जिरो पाँच तीन एक,electricity_payment,hi
+"बी  यू नंबर आठ छः दो पाँच का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर पाँच आठ सात सात का एस के एम पी डबल्यू आर रुरल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है एन बी पी डी सी एल ने उसे जमा कराना है। बी  यू नंबर है  नौ पाँच छः आठ,electricity_payment,hi
+जोधापुर विद्यूत वित्रण निगाम लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर एक दो आठ तीन का,electricity_payment,hi
+बिजली का जो बिल ड्यू है यू पी पी सी एल रुरल से बिलिंग यूनिट नंबर छः नौ छः एक के लिए वो सेटल करना है।,electricity_payment,hi
+बी ई एस टी का बिल जिसका बी यू नंबर है एक जिरो शून्य चार जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर आठ चार जिरो चार के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है बेस्त को ।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन के बी यू नंबर तीन पाँच पाँच एक के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर सात पाँच छः दो के पावर बिल का भुगतान करना है डी ओ पी एन के ।,electricity_payment,hi
+टोर पॉवर सुरत के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट पाँच दो नौ तीन,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+जामशेदपुर यूटीलिटीज का बिजली का बिल जमा करना।,electricity_payment,hi
+बैंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है विस्को का ।,electricity_payment,hi
+पावर बिल जमा करना है उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना नार्थ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का ।,electricity_payment,hi
+एम एस ई डी सी एल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना यू जी वी सी एल का ।,electricity_payment,hi
+कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है एम एस ई डी सी एल का।,electricity_payment,hi
+टी नैब के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+दक्षिन गुजरत वीज कम्पनी लिमिटेड के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड के ।,electricity_payment,hi
+दक्षिन गुजरत वीज कम्पनी लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है जीओए एलेक्ट्रिसिटी डीपार्टमेंट पावर बिल का।,electricity_payment,hi
+लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट का बिल भरना है।,electricity_payment,hi
+सी एच डी पावर बिल जमा करना है।,electricity_payment,hi
+ताता पॉवर मुम्बई बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो एस ओ यू टी एच सी ओ का ।,electricity_payment,hi
+नेसको पावर बिल जमा करवाना है।,electricity_payment,hi
+पी जी वी सी एल बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो एम ई एस सी ओ एम बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है टी सी ई डी ने वो  भरना है ।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन बिल सेटल करना है,electricity_payment,hi
+एस के एम पी डबल्यू आर अर्बन का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है एन पी सी एल नोईडा पॉवर पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. एस एन डी एल नगपुर,electricity_payment,hi
+उत्तार हरयाणा बीजली वित्रण निगाम कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो सेसकॉम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है एन पी सी एल ने उसे जमा कराना है।,electricity_payment,hi
+के ई डी एल का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है टी एस ई सी एल से  वो सेटल करना है।,electricity_payment,hi
+ए पी एस पी डी सी एल का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है डबल्यू बी एस ई डी सी एल ओ बी को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। दक्षिन हरयाणा बीजली वित्रण निगाम का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+सात पाँच सात आठ का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है छः तीन छः एक,electricity_payment,hi
+"बिलिंग यूनिट तीन आठ जीरो तीन का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट शून्य पाँच नौ नौ का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर पाँच चार सात नौ का ।,electricity_payment,hi
+यूनिट नंबर दो तीन छः पाँच का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है पाँच नौ छः तीन।,electricity_payment,hi
+बी यू नंबर तीन पाँच सात सात का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है छः पाँच दो छः का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है पाँच दो शून्य नौ,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है ज़ीरो तीन पाँच सात,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर सात आठ नौ पाँच है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर छः ज़ीरो छः चार,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर तीन नौ तीन छः का ।,electricity_payment,hi
+बिलिंग यूनिट चार दो पाँच दो का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट तीन पाँच सात जिरो के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है सात दो एक छः,electricity_payment,hi
+"बी  यू नंबर दो दो चार तीन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर तीन आठ ज़ीरो एक का गवर्नमेन्ट ओफ पुदुचेरी एलेक्ट्रिसिटी डीपार्टमेंट  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टी ओ आर पी डबल्यू आर बी एच आई ने उसे जमा कराना है। बी  यू नंबर है  पाँच आठ आठ आठ,electricity_payment,hi
+पी ई डी एम का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर दो नौ एक नौ का,electricity_payment,hi
+बिजली का जो बिल ड्यू है एस के एम पी डबल्यू आर रुरल से बिलिंग यूनिट नंबर जीरो आठ शून्य आठ के लिए वो सेटल करना है।,electricity_payment,hi
+पी ई डी एम का बिल जिसका बी यू नंबर है एक पाँच पाँच आठ जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर एक दो एक सात के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है जे वी वी एन एल को ।,electricity_payment,hi
+के डी एच पी सी पी एल के बी यू नंबर नौ पाँच आठ सात के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर चार ज़ीरो सात दो के पावर बिल का भुगतान करना है अडानी एलेक्ट्रिसिटी मुम्बई लिमिटेड के ।,electricity_payment,hi
+टी सीईसीएल के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट तीन आठ चार छः,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन का बिजली का बिल जमा करना।,electricity_payment,hi
+कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है टी ओ आर पी डबल्यू आर एस यू आर का ।,electricity_payment,hi
+पावर बिल जमा करना है एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना डीपार्टमेंट ओफ पॉवर नगालैंड का ।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना एन पी सी एल नोईडा पॉवर का ।,electricity_payment,hi
+जूस्को का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है जूस्को का।,electricity_payment,hi
+यामुना पॉवर लिमिटेड के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+टोर पॉवर के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है एस ओ यू टी एच सी ओ के ।,electricity_payment,hi
+टी पी ए डी एल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है टी सी ई डी पावर बिल का।,electricity_payment,hi
+कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का बिल भरना है।,electricity_payment,hi
+हेसकॉम पावर बिल जमा करना है।,electricity_payment,hi
+टी नैब बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टोर पॉवर भिवांडी का ।,electricity_payment,hi
+एम पी पी के वी वी सी एल पावर बिल जमा करवाना है।,electricity_payment,hi
+बी ई एस सी ओ एम बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो एस एन डी एल नगपुर बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है अजमीर विद्यूत वित्रण निगाम लिमिटेड ने वो  भरना है ।,electricity_payment,hi
+कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन बिल सेटल करना है,electricity_payment,hi
+एम पी पुर्व क्षेत्रा विद्यूत वितरन रुरल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. उत्तार हरयाणा बीजली वित्रण निगाम,electricity_payment,hi
+पी जी वी सी एल कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है एच पी एस ई बी ने उसे जमा कराना है।,electricity_payment,hi
+एच ई एस सी ओ एम का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है डबल्यू ई एस सी ओ से  वो सेटल करना है।,electricity_payment,hi
+जे यू एस सी ओ का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। जे के पी डी डी का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+छः नौ नौ नौ का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है चार चार आठ छः,electricity_payment,hi
+"बिलिंग यूनिट नौ ज़ीरो सात शून्य का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट चार दो चार पाँच का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर एक दो पाँच छः का ।,electricity_payment,hi
+यूनिट नंबर आठ एक पाँच आठ का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है चार एक दो जीरो।,electricity_payment,hi
+बी यू नंबर चार नौ ज़ीरो दो का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है ज़िरो एक एक शून्य का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है आठ दो ज़ीरो दो,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है जिरो आठ नौ दो,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर दो सात नौ शून्य है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर दो पाँच शून्य सात,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर सात नौ आठ तीन का ।,electricity_payment,hi
+बिलिंग यूनिट पाँच एक सात दो का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट जीरो तीन तीन नौ के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है ज़िरो आठ छः तीन,electricity_payment,hi
+"बी  यू नंबर एक चार चार ज़ीरो का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर आठ चार नौ पाँच का जे डी वी वी एन एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है केसको ने उसे जमा कराना है। बी  यू नंबर है  आठ दो चार चार,electricity_payment,hi
+टी ओ आर पी डबल्यू आर बी एच आई का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर सात आठ आठ नौ का,electricity_payment,hi
+बिजली का जो बिल ड्यू है जोधापुर विद्यूत वित्रण निगाम लिमिटेड से बिलिंग यूनिट नंबर तीन तीन छः छः के लिए वो सेटल करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल रुरल का बिल जिसका बी यू नंबर है जिरो तीन छः शून्य जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर दो तीन एक चार के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टी सेड को ।,electricity_payment,hi
+इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड के बी यू नंबर एक जीरो एक चार के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर आठ पाँच सात पाँच के पावर बिल का भुगतान करना है ए वी वी एन एल के ।,electricity_payment,hi
+पी ई डी एम के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट दो जीरो पाँच छः,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+के एस ई बी एल का बिजली का बिल जमा करना।,electricity_payment,hi
+एम एस ई डी सी एल बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है डी जी वी सी एल का ।,electricity_payment,hi
+पावर बिल जमा करना है एम पी पी के वी वी सी एल अर्बन का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एन बी पी डी सी एल का ।,electricity_payment,hi
+टी ए टी ए पी डबल्यू आर डी ई एल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना बेस्त का ।,electricity_payment,hi
+टॉरेंट पॉवर भिवांडी का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है डबल्यू ई एस सी ओ का।,electricity_payment,hi
+बेस्त के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+टी नैब के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है डी एन एच के ।,electricity_payment,hi
+छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है टॉरेंट पॉवर भिवांडी पावर बिल का।,electricity_payment,hi
+लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट का बिल भरना है।,electricity_payment,hi
+वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड पावर बिल जमा करना है।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर बी एच आई बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का ।,electricity_payment,hi
+सी एस पी डी सी एल पावर बिल जमा करवाना है।,electricity_payment,hi
+पी ई डी एम बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो एम पी मध्या क्षेत्रा विद्यूत वितरन बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ ने वो  भरना है ।,electricity_payment,hi
+टोर पॉवर भिवांडी बिल सेटल करना है,electricity_payment,hi
+सिक्कीम पॉवर रुरल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है नार्थ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. बेस्कॉम,electricity_payment,hi
+एम पी पशिम क्षेत्रा विद्यूत वितरन कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो डीपार्टमेंट ओफ पॉवर नगालैंड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टी पी अजमीर डिस्ट्रिब्यूशन लिमिटेड ने उसे जमा कराना है।,electricity_payment,hi
+पी एस पी सी एल का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है दक्षिन हरयाणा बीजली वित्रण निगाम से  वो सेटल करना है।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। कनपुर एलेक्ट्रिसिटी सपलाई कम्पनी का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एक सात एक पाँच का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है एक चार तीन नौ,electricity_payment,hi
+"बिलिंग यूनिट आठ सात दो छः का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट एक छः नौ पाँच का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर आठ पाँच दो ज़िरो का ।,electricity_payment,hi
+यूनिट नंबर सात एक आठ आठ का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है सात दो आठ आठ।,electricity_payment,hi
+बी यू नंबर दो दो पाँच छः का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है तीन छः चार तीन का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है ज़ीरो आठ एक एक,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है जीरो तीन आठ सात,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर आठ तीन ज़िरो शून्य है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर नौ छः चार दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर पाँच तीन छः छः का ।,electricity_payment,hi
+बिलिंग यूनिट आठ पाँच दो चार का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट शून्य नौ तीन सात के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है पाँच पाँच छः चार,electricity_payment,hi
+"बी  यू नंबर नौ दो ज़िरो चार का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर एक चार आठ सात का सी एस पी डी सी एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टी ओ आर पी डबल्यू आर बी एच आई ने उसे जमा कराना है। बी  यू नंबर है  नौ सात नौ तीन,electricity_payment,hi
+भारतपुर एलेक्ट्रिसिटी सर्विसेज लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर सात छः तीन एक का,electricity_payment,hi
+बिजली का जो बिल ड्यू है सी ई एस सी से बिलिंग यूनिट नंबर चार छः सात सात के लिए वो सेटल करना है।,electricity_payment,hi
+नेव देल्ही म्यूनिसिपल कौंसिल एलेक्ट्रिसिटी का बिल जिसका बी यू नंबर है चार पाँच आठ तीन जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर जीरो शून्य नौ नौ के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एम ई पी डी सी एल को ।,electricity_payment,hi
+विस्को के बी यू नंबर दो दो चार छः के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर छः तीन तीन छः के पावर बिल का भुगतान करना है सिक्कीम पॉवर रुरल के ।,electricity_payment,hi
+के ई एस सी ओ के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट एक चार पाँच तीन,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल का बिजली का बिल जमा करना।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर ए जी आर बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है एम पी मध्या क्षेत्रा विद्यूत वितरन का ।,electricity_payment,hi
+पावर बिल जमा करना है एन डी एम सी एलेक्ट्रिसिटी का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना डबल्यू बी एस ई डी सी एल का ।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन का ।,electricity_payment,hi
+एम ई पी डी सी एल का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है एस एन डी एल का।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बी एस ई एस के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है टॉरेंट पॉवर सुरत के ।,electricity_payment,hi
+टी सीईसीएल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है टी ए टी ए पी डबल्यू आर एम यू एम पावर बिल का।,electricity_payment,hi
+टॉरेंट पॉवर अहमेदाबाद का बिल भरना है।,electricity_payment,hi
+विस्को पावर बिल जमा करना है।,electricity_payment,hi
+टोर पॉवर भिवांडी बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टी पी वैस्टर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड का ।,electricity_payment,hi
+एस ओ यू टी एच सी ओ पावर बिल जमा करवाना है।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो टोर पॉवर अहमेदाबाद बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है मंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड ने वो  भरना है ।,electricity_payment,hi
+अडानी एलेक्ट्रिसिटी बिल सेटल करना है,electricity_payment,hi
+पॉवर एंड एलेक्ट्रिसिटी डीपार्टमेंट मिजोराम का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. सेसकॉम,electricity_payment,hi
+के एस ई बी एल कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो एम पी एम के वी वी सी एल अर्बन  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड ने उसे जमा कराना है।,electricity_payment,hi
+केरला स्टेटे एलेक्ट्रिसिटी बॉर्ड लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है साउदर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड से  वो सेटल करना है।,electricity_payment,hi
+त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टी ए टी ए पी डबल्यू आर डी ई एल को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। एच ई एस सी ओ एम का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+पाँच पाँच छः आठ का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है छः पाँच तीन पाँच,electricity_payment,hi
+"बिलिंग यूनिट नौ आठ चार जीरो का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट सात एक छः तीन का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर छः दो दो एक का ।,electricity_payment,hi
+यूनिट नंबर एक एक चार सात का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है तीन तीन चार एक।,electricity_payment,hi
+बी यू नंबर दो नौ नौ नौ का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है चार सात छः तीन का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है दो सात जिरो दो,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है दो जिरो एक नौ,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर दो चार आठ नौ है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर चार नौ दो दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर चार नौ सात ज़ीरो का ।,electricity_payment,hi
+बिलिंग यूनिट छः छः शून्य सात का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट शून्य तीन आठ एक के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है ज़िरो शून्य पाँच शून्य,electricity_payment,hi
+"बी  यू नंबर पाँच एक सात आठ का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर दो दो सात एक का विस्को  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है डबल्यू ई एस सी ओ ने उसे जमा कराना है। बी  यू नंबर है  दो एक पाँच छः,electricity_payment,hi
+कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर जिरो छः चार दो का,electricity_payment,hi
+बिजली का जो बिल ड्यू है सिक्कीम पॉवर रुरल से बिलिंग यूनिट नंबर दो ज़ीरो शून्य सात के लिए वो सेटल करना है।,electricity_payment,hi
+तामिल नाडू एलेक्ट्रिसिटी बॉर्ड का बिल जिसका बी यू नंबर है सात तीन छः ज़ीरो जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर जिरो दो पाँच शून्य के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टॉरेंट पॉवर भिवांडी को ।,electricity_payment,hi
+बेस्कॉम के बी यू नंबर पाँच एक एक तीन के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर एक आठ नौ पाँच के पावर बिल का भुगतान करना है कनपुर एलेक्ट्रिसिटी सपलाई कम्पनी के ।,electricity_payment,hi
+के ई डी एल के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट छः नौ सात पाँच,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+उत्तार हरयाणा बीजली वित्रण निगाम का बिजली का बिल जमा करना।,electricity_payment,hi
+साउदर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है एम पी एम के वी वी सी एल अर्बन का ।,electricity_payment,hi
+पावर बिल जमा करना है विस्को का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना जोधापुर विद्यूत वित्रण निगाम लिमिटेड का ।,electricity_payment,hi
+एच ई एस सी ओ एम का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना टी ओ आर पी डबल्यू आर ए जी आर का ।,electricity_payment,hi
+टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है डबल्यू बी एस ई डी सी एल का।,electricity_payment,hi
+एम पी एम के वी वी सी एल अर्बन के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है टोर पॉवर अहमेदाबाद के ।,electricity_payment,hi
+सिक्कीम पॉवर रुरल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है थ्रिसुर कॉरपोरेशन एलेक्ट्रिसिटी डीपार्टमेंट पावर बिल का।,electricity_payment,hi
+नेसको का बिल भरना है।,electricity_payment,hi
+वैस्ट बेंगल एलेक्ट्रिसिटी पावर बिल जमा करना है।,electricity_payment,hi
+पी वाइ ई बी बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का ।,electricity_payment,hi
+तामिल नाडू एलेक्ट्रिसिटी बॉर्ड पावर बिल जमा करवाना है।,electricity_payment,hi
+सी ई एस यू बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है बी ई एस टी मुम्बई ने वो  भरना है ।,electricity_payment,hi
+एन ई एस सी ओ बिल सेटल करना है,electricity_payment,hi
+जी ई एस सी ओ एम का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है टी पी वैस्टर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. पुंजाब स्टेटे पॉवर कॉरपोरेशन लिमिटेड,electricity_payment,hi
+बी ई एस टी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो डी एन एच पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है दक्षिन गुजरत वीज कम्पनी लिमिटेड ने उसे जमा कराना है।,electricity_payment,hi
+गिफ़्ट पॉवर कम्पनी लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है टोर पॉवर से  वो सेटल करना है।,electricity_payment,hi
+एस के एम पी डबल्यू आर अर्बन का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एन पी सी एल को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बी एस ई एस यामुना पॉवर लिमिटेड का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+आठ दो दो ज़ीरो का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है चार छः दो नौ,electricity_payment,hi
+"बिलिंग यूनिट सात आठ दो नौ का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट दो चार नौ जिरो का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर छः सात चार नौ का ।,electricity_payment,hi
+यूनिट नंबर तीन तीन नौ सात का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है पाँच चार चार दो।,electricity_payment,hi
+बी यू नंबर आठ आठ पाँच नौ का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है तीन ज़िरो नौ पाँच का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है छः दो पाँच एक,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है नौ एक तीन चार,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर दो नौ जिरो एक है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर नौ पाँच दो छः,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर छः आठ सात नौ का ।,electricity_payment,hi
+बिलिंग यूनिट तीन दो सात नौ का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट एक पाँच ज़ीरो छः के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है दो सात तीन नौ,electricity_payment,hi
+"बी  यू नंबर एक जीरो चार तीन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर नौ दो शून्य एक का अडानी एलेक्ट्रिसिटी  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन ने उसे जमा कराना है। बी  यू नंबर है  सात एक चार ज़ीरो,electricity_payment,hi
+उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर दो पाँच ज़ीरो दो का,electricity_payment,hi
+बिजली का जो बिल ड्यू है यू जी वी सी एल से बिलिंग यूनिट नंबर आठ शून्य शून्य पाँच के लिए वो सेटल करना है।,electricity_payment,hi
+हिमांचल प्रादेश स्टेटे एलेक्ट्रिसिटी बॉर्ड का बिल जिसका बी यू नंबर है छः छः पाँच तीन जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर नौ छः एक दो के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है जे बी वी एन एल को ।,electricity_payment,hi
+एन पी सी एल नोईडा पॉवर के बी यू नंबर चार पाँच तीन सात के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर नौ दो छः तीन के पावर बिल का भुगतान करना है टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड के ।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट छः दो ज़िरो आठ,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+टी पी वैस्टर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है अडानी एलेक्ट्रिसिटी का ।,electricity_payment,hi
+पावर बिल जमा करना है हुब्ली एलेक्ट्रिसिटी सपलाई कम्पनी लिमिटेड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना पी ई डी एम का ।,electricity_payment,hi
+टी पाडल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना सी ई एस यू का ।,electricity_payment,hi
+टॉरेंट पॉवर का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ का।,electricity_payment,hi
+डी एच बी वी एन के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+ए वी वी एन एल के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है सी एच डी के ।,electricity_payment,hi
+एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड पावर बिल का।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी का बिल भरना है।,electricity_payment,hi
+उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड पावर बिल जमा करना है।,electricity_payment,hi
+वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो ताता पॉवर देल्ही का ।,electricity_payment,hi
+बी एस ई एस पावर बिल जमा करवाना है।,electricity_payment,hi
+महाराष्ट्रा स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो टी पी वैस्टर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है ए पी डी सी एल ने वो  भरना है ।,electricity_payment,hi
+एस के एम पी डबल्यू आर रुरल बिल सेटल करना है,electricity_payment,hi
+डीपार्टमेंट ओफ पॉवर गवर्नमेन्ट ओफ अरूणाचल प्रादेश का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है डबल्यू बी एस ई डी सी एल ओ बी पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी ए टी ए पी डबल्यू आर डी ई एल,electricity_payment,hi
+टॉरेंट पॉवर भिवांडी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो उत्तार हरयाणा बीजली वित्रण निगाम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है के ई डी एल ने उसे जमा कराना है।,electricity_payment,hi
+कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है एन पी सी एल से  वो सेटल करना है।,electricity_payment,hi
+पुंजाब स्टेटे पॉवर कॉरपोरेशन लिमिटेड का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है पी जी वी सी एल को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। एम ई पी डी सी एल का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+तीन एक तीन सात का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है पाँच तीन छः एक,electricity_payment,hi
+"बिलिंग यूनिट आठ तीन एक आठ का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट नौ जिरो शून्य शून्य का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर पाँच नौ दो आठ का ।,electricity_payment,hi
+यूनिट नंबर चार आठ नौ आठ का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है नौ छः चार एक।,electricity_payment,hi
+बी यू नंबर दो तीन छः चार का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है छः चार आठ एक का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है आठ एक पाँच सात,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है छः चार नौ दो,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर पाँच छः एक दो है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर दो चार आठ छः,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर चार ज़ीरो सात छः का ।,electricity_payment,hi
+बिलिंग यूनिट ज़िरो नौ आठ छः का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट चार चार एक पाँच के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है जिरो सात तीन शून्य,electricity_payment,hi
+"बी  यू नंबर दो पाँच पाँच पाँच का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर तीन सात दो छः का सी ई एस सी ओ एम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है एन पी सी एल ने उसे जमा कराना है। बी  यू नंबर है  तीन जिरो आठ दो,electricity_payment,hi
+कनपुर एलेक्ट्रिसिटी सपलाई कम्पनी का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर नौ आठ छः पाँच का,electricity_payment,hi
+बिजली का जो बिल ड्यू है विस्को से बिलिंग यूनिट नंबर दो दो सात नौ के लिए वो सेटल करना है।,electricity_payment,hi
+मेघालया पॉवर डिस्ट्रिब्यूशन कॉरपोरेशन लिमिटेड का बिल जिसका बी यू नंबर है पाँच ज़ीरो नौ छः जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर आठ दो दो तीन के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है अडानी एलेक्ट्रिसिटी को ।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन के बी यू नंबर चार नौ आठ चार के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर तीन पाँच एक पाँच के पावर बिल का भुगतान करना है भारतपुर एलेक्ट्रिसिटी सर्विसेज लिमिटेड के ।,electricity_payment,hi
+जोधापुर विद्यूत वित्रण निगाम लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट दो दो नौ सात,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+सिक्कीम पॉवर रुरल का बिजली का बिल जमा करना।,electricity_payment,hi
+हेसकॉम बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ का ।,electricity_payment,hi
+पावर बिल जमा करना है यू पी पी सी एल अर्बन का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना अडानी एलेक्ट्रिसिटी मुम्बई लिमिटेड का ।,electricity_payment,hi
+कानन देवान हील्स प्लांटेशनों कम्पनी प्राईवेट लिमिटेड का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना बी एस ई एस यामुना पॉवर लिमिटेड का ।,electricity_payment,hi
+इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है सी ई एस सी का।,electricity_payment,hi
+टोर पॉवर अहमेदाबाद के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है चामुण्डेश्वरी एलेक्ट्रिसिटी सपलाई कोर्प लिमिटेड के ।,electricity_payment,hi
+टी सीईसीएल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है जे डी वी वी एन एल पावर बिल का।,electricity_payment,hi
+टॉरेंट पॉवर सुरत का बिल भरना है।,electricity_payment,hi
+एम ई पी डी सी एल पावर बिल जमा करना है।,electricity_payment,hi
+अरूणाचल पॉवर बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो एम पी एम के वी वी सी एल अर्बन का ।,electricity_payment,hi
+एन ई एस सी ओ पावर बिल जमा करवाना है।,electricity_payment,hi
+यू पी पी सी एल रुरल बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है गवर्नमेन्ट ओफ पुदुचेरी एलेक्ट्रिसिटी डीपार्टमेंट ने वो  भरना है ।,electricity_payment,hi
+यू पी पी सी एल अर्बन बिल सेटल करना है,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. जी ई डी,electricity_payment,hi
+थ्रिसुर कॉरपोरेशन एलेक्ट्रिसिटी डीपार्टमेंट कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो ए वी वी एन एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है उत्तार प्रादेश पॉवर कोर्प लिमिटेड रुरल ने उसे जमा कराना है।,electricity_payment,hi
+डब्लूबीएसईडी क्लॉब का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है पी एस पी सी एल से  वो सेटल करना है।,electricity_payment,hi
+जी ई डी का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+चार दो आठ एक का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है एक तीन छः आठ,electricity_payment,hi
+"बिलिंग यूनिट चार आठ जीरो एक का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट चार आठ आठ सात का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर चार पाँच नौ दो का ।,electricity_payment,hi
+यूनिट नंबर चार आठ छः एक का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है दो चार आठ पाँच।,electricity_payment,hi
+बी यू नंबर तीन एक नौ आठ का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है पाँच छः दो शून्य का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है छः आठ छः आठ,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है एक पाँच ज़िरो पाँच,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर छः पाँच पाँच चार है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर आठ छः आठ सात,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर आठ छः छः चार का ।,electricity_payment,hi
+बिलिंग यूनिट एक पाँच छः चार का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट ज़ीरो एक एक तीन के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है दो तीन तीन पाँच,electricity_payment,hi
+"बी  यू नंबर पाँच नौ आठ शून्य का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर नौ तीन दो ज़िरो का उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है यामुना पॉवर लिमिटेड ने उसे जमा कराना है। बी  यू नंबर है  चार नौ छः पाँच,electricity_payment,hi
+एस एन डी एल नगपुर का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर पाँच जीरो तीन पाँच का,electricity_payment,hi
+बिजली का जो बिल ड्यू है एन पी सी एल से बिलिंग यूनिट नंबर शून्य शून्य चार शून्य के लिए वो सेटल करना है।,electricity_payment,hi
+जे बी वी एन एल का बिल जिसका बी यू नंबर है नौ ज़ीरो सात एक जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर दो जिरो आठ एक के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एस एन डी एल नगपुर को ।,electricity_payment,hi
+केरला स्टेटे एलेक्ट्रिसिटी बॉर्ड लिमिटेड के बी यू नंबर जीरो एक नौ छः के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर आठ एक छः पाँच के पावर बिल का भुगतान करना है जे बी वी एन एल के ।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट दो सात सात एक,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+एस के एम पी डबल्यू आर अर्बन का बिजली का बिल जमा करना।,electricity_payment,hi
+हेसकॉम बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है बी एस ई एस यामुना पॉवर लिमिटेड का ।,electricity_payment,hi
+पावर बिल जमा करना है जेस्कॉम का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एन पी सी एल का ।,electricity_payment,hi
+टोर पॉवर का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना यू पी पी सी एल रुरल का ।,electricity_payment,hi
+के डी एच पी सी पी एल का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है अजमीर विद्यूत वित्रण निगाम लिमिटेड का।,electricity_payment,hi
+डी जी वी सी एल के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+वैस्ट बेंगल एलेक्ट्रिसिटी के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है यू एच बी वी एन के ।,electricity_payment,hi
+पुंजाब स्टेटे पॉवर कॉरपोरेशन लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है यू एच बी वी एन पावर बिल का।,electricity_payment,hi
+टी एन ई बी का बिल भरना है।,electricity_payment,hi
+हेसकॉम पावर बिल जमा करना है।,electricity_payment,hi
+के ई डी एल बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो गुलबर्ग एलेक्ट्रिसिटी सपलाई कम्पनी लिमिटेड का ।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड पावर बिल जमा करवाना है।,electricity_payment,hi
+टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो केरला स्टेटे एलेक्ट्रिसिटी बॉर्ड लिमिटेड बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है जम्मु एंड काश्मीर पॉवर डेवेलपमेंट डीपार्टमेंट ने वो  भरना है ।,electricity_payment,hi
+इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड बिल सेटल करना है,electricity_payment,hi
+थ्रिसुर कॉरपोरेशन एलेक्ट्रिसिटी डीपार्टमेंट का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है के डी एच पी सी पी एल पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. बी ई एस टी,electricity_payment,hi
+अजमीर विद्यूत वित्रण निगाम लिमिटेड कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है ए पी एस पी डी सी एल ने उसे जमा कराना है।,electricity_payment,hi
+पी वाइ ई बी का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है टॉरेंट पॉवर अग्रा से  वो सेटल करना है।,electricity_payment,hi
+साऊथ को का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एम पी पुर्व क्षेत्रा विद्यूत वितरन रुरल को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। उत्तार गुजरत वीज कम्पनी लिमिटेड का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+नौ छः चार चार का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है सात एक दो छः,electricity_payment,hi
+"बिलिंग यूनिट दो दो नौ तीन का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट ज़ीरो शून्य छः एक का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर तीन चार चार नौ का ।,electricity_payment,hi
+यूनिट नंबर छः छः नौ सात का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है चार तीन पाँच छः।,electricity_payment,hi
+बी यू नंबर सात एक नौ चार का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है दो तीन एक आठ का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है पाँच पाँच चार छः,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है चार सात एक छः,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर एक नौ चार पाँच है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर दो तीन तीन शून्य,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर पाँच ज़ीरो छः शून्य का ।,electricity_payment,hi
+बिलिंग यूनिट छः तीन जीरो तीन का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट ज़ीरो नौ नौ चार के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है एक पाँच चार ज़ीरो,electricity_payment,hi
+"बी  यू नंबर छः दो नौ एक का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर आठ आठ छः एक का बेस्त  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है वैस्ट बेंगल एलेक्ट्रिसिटी ने उसे जमा कराना है। बी  यू नंबर है  तीन जीरो दो सात,electricity_payment,hi
+डीपार्टमेंट ओफ पॉवर नगालैंड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर आठ चार पाँच सात का,electricity_payment,hi
+बिजली का जो बिल ड्यू है एन डी एम सी एलेक्ट्रिसिटी से बिलिंग यूनिट नंबर सात दो पाँच आठ के लिए वो सेटल करना है।,electricity_payment,hi
+साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का बिल जिसका बी यू नंबर है आठ नौ सात दो जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर सात छः छः दो के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है डी डी ई डी को ।,electricity_payment,hi
+उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड के बी यू नंबर नौ आठ सात छः के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर आठ पाँच एक नौ के पावर बिल का भुगतान करना है कोता एलेक्ट्रिसिटी डिस्ट्रिब्यूशन लिमिटेड के ।,electricity_payment,hi
+एस एन डी एल के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट तीन नौ दो दो,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+दक्षिन गुजरत वीज कम्पनी लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+वैस्ट बेंगल स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है सी ई एस यू का ।,electricity_payment,hi
+पावर बिल जमा करना है डीपार्टमेंट ओफ पॉवर नगालैंड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एम पी एम के वी वी सी एल रुरल का ।,electricity_payment,hi
+सिक्कीम पॉवर रुरल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना टोर पॉवर सुरत का ।,electricity_payment,hi
+ए पी ई पी डी सी एल का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है मैस्कॉम का।,electricity_payment,hi
+सिक्कीम पॉवर अर्बन के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+सेसकॉम के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है मेघालया पॉवर डिस्ट्रिब्यूशन कॉरपोरेशन लिमिटेड के ।,electricity_payment,hi
+जे डी वी वी एन एल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है विस्को पावर बिल का।,electricity_payment,hi
+के ई डी एल का बिल भरना है।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर ए एच एम पावर बिल जमा करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो विस्को का ।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल पावर बिल जमा करवाना है।,electricity_payment,hi
+डी एच बी वी एन बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो टॉरेंट पॉवर अग्रा बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है एम पी पुर्व क्षेत्रा विद्यूत वितरन ने वो  भरना है ।,electricity_payment,hi
+टोर पॉवर भिवांडी बिल सेटल करना है,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. नेव देल्ही म्यूनिसिपल कौंसिल एलेक्ट्रिसिटी,electricity_payment,hi
+टी सीईसीएल कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो एस ओ यू टी एच सी ओ  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है पी एस पी सी एल ने उसे जमा कराना है।,electricity_payment,hi
+छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है नेव देल्ही म्यूनिसिपल कौंसिल एलेक्ट्रिसिटी से  वो सेटल करना है।,electricity_payment,hi
+उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है गिफ़्ट पॉवर कम्पनी लिमिटेड को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। ए पी डी सी एल का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+छः दो नौ एक का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है सात चार तीन पाँच,electricity_payment,hi
+"बिलिंग यूनिट एक जीरो एक छः का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट पाँच आठ सात तीन का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर नौ आठ जीरो आठ का ।,electricity_payment,hi
+यूनिट नंबर नौ तीन नौ एक का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है आठ चार तीन एक।,electricity_payment,hi
+बी यू नंबर आठ आठ पाँच पाँच का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है सात चार नौ चार का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है छः सात नौ नौ,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है एक ज़िरो पाँच तीन,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर आठ दो दो जिरो है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर सात पाँच आठ आठ,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर पाँच छः छः तीन का ।,electricity_payment,hi
+बिलिंग यूनिट चार दो ज़ीरो छः का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट छः एक दो सात के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है जीरो आठ छः तीन,electricity_payment,hi
+"बी  यू नंबर एक एक नौ सात का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर नौ छः दो सात का पी ई डी एम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है झारखण्ड बीजली वित्रण निगाम लिमिटेड ने उसे जमा कराना है। बी  यू नंबर है  पाँच आठ पाँच ज़िरो,electricity_payment,hi
+कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर पाँच दो छः दो का,electricity_payment,hi
+बिजली का जो बिल ड्यू है डी एच बी वी एन से बिलिंग यूनिट नंबर दो आठ पाँच दो के लिए वो सेटल करना है।,electricity_payment,hi
+अरूणाचल पॉवर का बिल जिसका बी यू नंबर है तीन चार एक आठ जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर सात चार पाँच पाँच के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है डी एच बी वी एन को ।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन के बी यू नंबर एक तीन चार सात के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर आठ नौ छः तीन के पावर बिल का भुगतान करना है डबल्यू बी एस ई डी सी एल के ।,electricity_payment,hi
+डीपार्टमेंट ओफ पॉवर नगालैंड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट नौ दो छः दो,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+अडानी एलेक्ट्रिसिटी का बिजली का बिल जमा करना।,electricity_payment,hi
+के एस ई बी एल बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है पॉवर एंड एलेक्ट्रिसिटी डीपार्टमेंट मिजोराम का ।,electricity_payment,hi
+पावर बिल जमा करना है टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट का ।,electricity_payment,hi
+टी पी ए डी एल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना एस बी पी डी सी एल का ।,electricity_payment,hi
+सी एच डी का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है मेघालया पॉवर डिस्ट्रिब्यूशन कॉरपोरेशन लिमिटेड का।,electricity_payment,hi
+लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+हिमांचल प्रादेश स्टेटे एलेक्ट्रिसिटी बॉर्ड के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड के ।,electricity_payment,hi
+एच ई एस सी ओ एम के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल पावर बिल का।,electricity_payment,hi
+साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का बिल भरना है।,electricity_payment,hi
+टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड पावर बिल जमा करना है।,electricity_payment,hi
+एच पी एस ई बी बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो डबल्यू ई एस सी ओ का ।,electricity_payment,hi
+एस बी पी डी सी एल पावर बिल जमा करवाना है।,electricity_payment,hi
+सी एच डी बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो थ्रिसुर कॉरपोरेशन एलेक्ट्रिसिटी डीपार्टमेंट बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है डबल्यू बी एस ई डी सी एल ओ बी ने वो  भरना है ।,electricity_payment,hi
+जीओए एलेक्ट्रिसिटी डीपार्टमेंट बिल सेटल करना है,electricity_payment,hi
+टॉरेंट पॉवर का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है सिक्कीम पॉवर अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी पी ए डी एल,electricity_payment,hi
+जी ई डी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो टी ए टी ए पी डबल्यू आर एम यू एम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है डी जी वी सी एल ने उसे जमा कराना है।,electricity_payment,hi
+टोर पॉवर सुरत का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है डबल्यू बी एस ई डी सी एल ओ बी से  वो सेटल करना है।,electricity_payment,hi
+टी पी साउदर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है बी ई एस सी ओ एम को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। ताता पॉवर मुम्बई का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+तीन छः दो पाँच का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है आठ ज़ीरो चार सात,electricity_payment,hi
+"बिलिंग यूनिट आठ दो आठ आठ का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट सात छः सात सात का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर छः आठ छः एक का ।,electricity_payment,hi
+यूनिट नंबर आठ एक छः तीन का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है शून्य पाँच एक नौ।,electricity_payment,hi
+बी यू नंबर छः दो एक पाँच का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है दो पाँच ज़िरो पाँच का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है दो आठ नौ आठ,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है नौ सात आठ सात,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर तीन एक नौ एक है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर नौ जीरो तीन पाँच,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर एक सात छः एक का ।,electricity_payment,hi
+बिलिंग यूनिट एक नौ तीन सात का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट चार नौ छः नौ के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है एक पाँच दो सात,electricity_payment,hi
+"बी  यू नंबर दो आठ जीरो छः का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर तीन नौ सात नौ का असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है के ई डी एल ने उसे जमा कराना है। बी  यू नंबर है  तीन पाँच दो नौ,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर छः आठ सात छः का,electricity_payment,hi
+बिजली का जो बिल ड्यू है असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड से बिलिंग यूनिट नंबर ज़ीरो चार चार चार के लिए वो सेटल करना है।,electricity_payment,hi
+एम पी एम के वी वी सी एल रुरल का बिल जिसका बी यू नंबर है आठ पाँच छः एक जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर ज़ीरो पाँच तीन आठ के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है उत्तार प्रादेश पॉवर कोर्प लिमिटेड रुरल को ।,electricity_payment,hi
+मंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड के बी यू नंबर छः चार छः पाँच के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर तीन तीन एक नौ के पावर बिल का भुगतान करना है यामुना पॉवर लिमिटेड के ।,electricity_payment,hi
+हिमांचल प्रादेश स्टेटे एलेक्ट्रिसिटी बॉर्ड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट छः एक चार छः,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+एन बी पी डी सी एल बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है नेव देल्ही म्यूनिसिपल कौंसिल एलेक्ट्रिसिटी का ।,electricity_payment,hi
+पावर बिल जमा करना है एम पी एम के वी वी सी एल अर्बन का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना डबल्यू ई एस सी ओ का ।,electricity_payment,hi
+उत्तार हरयाणा बीजली वित्रण निगाम का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना के डी एच पी सी पी एल का ।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का।,electricity_payment,hi
+डी ओ पी एन के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है के ई एस सी ओ के ।,electricity_payment,hi
+जम्मु एंड काश्मीर पॉवर डेवेलपमेंट डीपार्टमेंट के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है डी जी वी सी एल पावर बिल का।,electricity_payment,hi
+डी एन एच का बिल भरना है।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल पावर बिल जमा करना है।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो यू पी पी सी एल रुरल का ।,electricity_payment,hi
+जोधापुर विद्यूत वित्रण निगाम लिमिटेड पावर बिल जमा करवाना है।,electricity_payment,hi
+ए वी वी एन एल बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो सिक्कीम पॉवर अर्बन बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है टोर पॉवर सुरत ने वो  भरना है ।,electricity_payment,hi
+पी जी वी सी एल बिल सेटल करना है,electricity_payment,hi
+टॉरेंट पॉवर अहमेदाबाद का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है सिक्कीम पॉवर अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी पी अजमीर डिस्ट्रिब्यूशन लिमिटेड,electricity_payment,hi
+एन डी एम सी एलेक्ट्रिसिटी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो एम पी पशिम क्षेत्रा विद्यूत वितरन  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है जम्मु एंड काश्मीर पॉवर डेवेलपमेंट डीपार्टमेंट ने उसे जमा कराना है।,electricity_payment,hi
+छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है एच ई एस सी ओ एम से  वो सेटल करना है।,electricity_payment,hi
+सी ई एस सी ओ एम का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है केसको को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। एस ओ यू टी एच सी ओ का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+चार सात सात ज़िरो का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है दो पाँच दो चार,electricity_payment,hi
+"बिलिंग यूनिट नौ तीन चार एक का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट चार सात छः नौ का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर दो तीन चार चार का ।,electricity_payment,hi
+यूनिट नंबर एक दो एक शून्य का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है दो छः नौ पाँच।,electricity_payment,hi
+बी यू नंबर पाँच आठ नौ शून्य का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है आठ आठ सात आठ का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है पाँच पाँच चार तीन,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है ज़िरो आठ चार सात,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर छः नौ नौ एक है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर दो चार शून्य आठ,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर पाँच आठ छः पाँच का ।,electricity_payment,hi
+बिलिंग यूनिट आठ एक चार छः का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट पाँच चार शून्य तीन के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है चार दो सात आठ,electricity_payment,hi
+"बी  यू नंबर जीरो शून्य तीन तीन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर सात सात छः पाँच का मैस्कॉम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है जी ई एस सी ओ एम ने उसे जमा कराना है। बी  यू नंबर है  पाँच दो तीन सात,electricity_payment,hi
+हेसकॉम का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर एक जीरो छः पाँच का,electricity_payment,hi
+बिजली का जो बिल ड्यू है एम पी पुर्व क्षेत्रा विद्यूत वितरन रुरल से बिलिंग यूनिट नंबर पाँच सात पाँच दो के लिए वो सेटल करना है।,electricity_payment,hi
+डी ओ पी एन का बिल जिसका बी यू नंबर है एक चार पाँच पाँच जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर आठ एक चार नौ के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एम ई पी डी सी एल को ।,electricity_payment,hi
+अरूणाचल पॉवर के बी यू नंबर पाँच दो नौ सात के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर पाँच पाँच तीन सात के पावर बिल का भुगतान करना है कनपुर एलेक्ट्रिसिटी सपलाई कम्पनी के ।,electricity_payment,hi
+साउदर्न पॉवर डिस्ट्रिब्यूशन को आप लिमिटेड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट नौ छः एक एक,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+के ई एस सी ओ का बिजली का बिल जमा करना।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है महाराष्ट्रा स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड का ।,electricity_payment,hi
+पावर बिल जमा करना है बेस्कॉम का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना पी ई डी एम का ।,electricity_payment,hi
+एन पी सी एल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना महाराष्ट्रा स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड का ।,electricity_payment,hi
+नेसको का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है मेघालया पॉवर डिस्ट्रिब्यूशन कॉरपोरेशन लिमिटेड का।,electricity_payment,hi
+अरूणाचल पॉवर के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+के एस ई बी एल के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है अरूणाचल पॉवर के ।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर ए जी आर के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है टी ओ आर पी डबल्यू आर पावर बिल का।,electricity_payment,hi
+यू एच बी वी एन का बिल भरना है।,electricity_payment,hi
+एन पी सी एल नोईडा पॉवर पावर बिल जमा करना है।,electricity_payment,hi
+एम पी एम के वी वी सी एल रुरल बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टोर पॉवर का ।,electricity_payment,hi
+उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड पावर बिल जमा करवाना है।,electricity_payment,hi
+टॉरेंट पॉवर बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो एच ई एस सी ओ एम बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है यू पी पी सी एल रुरल ने वो  भरना है ।,electricity_payment,hi
+टॉरेंट पॉवर अग्रा बिल सेटल करना है,electricity_payment,hi
+सी एस पी डी सी एल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है यू पी पी सी एल अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. एम ई एस सी ओ एम,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो टॉरेंट पॉवर सुरत  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टोर पॉवर ने उसे जमा कराना है।,electricity_payment,hi
+सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है ए वी वी एन एल से  वो सेटल करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है यू पी पी सी एल अर्बन को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिकानेर एलेक्ट्रिसिटी सपलाई लिमिटेड का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+सात पाँच दो एक का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है दो छः एक नौ,electricity_payment,hi
+"बिलिंग यूनिट एक चार पाँच सात का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट दो एक आठ छः का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर दो नौ पाँच तीन का ।,electricity_payment,hi
+यूनिट नंबर आठ आठ नौ छः का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है तीन पाँच नौ पाँच।,electricity_payment,hi
+बी यू नंबर तीन पाँच छः चार का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है जिरो छः तीन तीन का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है एक दो सात आठ,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है सात छः एक सात,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर तीन दो छः दो है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर तीन चार आठ छः,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर नौ आठ छः दो का ।,electricity_payment,hi
+बिलिंग यूनिट चार सात पाँच नौ का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट तीन पाँच दो नौ के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है चार सात आठ सात,electricity_payment,hi
+"बी  यू नंबर आठ सात दो सात का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर छः एक शून्य तीन का मध्या गुजरत वीज कम्पनी लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है नेव देल्ही म्यूनिसिपल कौंसिल एलेक्ट्रिसिटी ने उसे जमा कराना है। बी  यू नंबर है  चार आठ ज़ीरो तीन,electricity_payment,hi
+टी एस ई सी एल का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर ज़िरो एक तीन शून्य का,electricity_payment,hi
+बिजली का जो बिल ड्यू है जेस्कॉम से बिलिंग यूनिट नंबर ज़ीरो नौ नौ पाँच के लिए वो सेटल करना है।,electricity_payment,hi
+डी एन एच पी डी सी एल का बिल जिसका बी यू नंबर है एक आठ आठ दो जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर सात चार तीन दो के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एन पी सी एल नोईडा पॉवर को ।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन के बी यू नंबर ज़ीरो चार छः तीन के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर पाँच आठ सात चार के पावर बिल का भुगतान करना है टी पाडल के ।,electricity_payment,hi
+विस्को के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट सात छः एक छः,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+मध्या गुजरत वीज कम्पनी लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+एस एन डी एल नगपुर बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है एस एन डी एल नगपुर का ।,electricity_payment,hi
+पावर बिल जमा करना है बी ई एस एल का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एम पी पी के वी वी सी एल अर्बन का ।,electricity_payment,hi
+पी एस पी सी एल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना यू एच बी वी एन का ।,electricity_payment,hi
+पी वाइ ई बी का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है टी सेड का।,electricity_payment,hi
+टोर पॉवर अहमेदाबाद के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+एच ई एस सी ओ एम के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है साउदर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड के ।,electricity_payment,hi
+टोर पॉवर सुरत के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है बी के ई एस एल पावर बिल का।,electricity_payment,hi
+उत्तार प्रादेश पॉवर कोर्प लिमिटेड अर्बन का बिल भरना है।,electricity_payment,hi
+बी ई एस टी पावर बिल जमा करना है।,electricity_payment,hi
+जे डी वी वी एन एल बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टोर पॉवर अहमेदाबाद का ।,electricity_payment,hi
+सी एच डी पावर बिल जमा करवाना है।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो मध्या गुजरत वीज कम्पनी लिमिटेड बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट ने वो  भरना है ।,electricity_payment,hi
+मध्या गुजरत वीज कम्पनी लिमिटेड बिल सेटल करना है,electricity_payment,hi
+पी ई डी एम का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है एम पी एम के वी वी सी एल अर्बन पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी ए टी ए पी डबल्यू आर डी ई एल,electricity_payment,hi
+विस्को कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो एम पी पी के वी वी सी एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टॉरेंट पॉवर ने उसे जमा कराना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है साउदर्न पॉवर डिस्ट्रिब्यूशन को आप लिमिटेड से  वो सेटल करना है।,electricity_payment,hi
+अडानी एलेक्ट्रिसिटी मुम्बई लिमिटेड का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है एन बी पी डी सी एल को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। टी पाडल का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एक पाँच एक छः का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है सात सात दो पाँच,electricity_payment,hi
+"बिलिंग यूनिट एक तीन पाँच सात का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट सात सात शून्य शून्य का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर छः शून्य छः छः का ।,electricity_payment,hi
+यूनिट नंबर एक आठ सात आठ का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है एक सात चार आठ।,electricity_payment,hi
+बी यू नंबर दो सात एक तीन का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है नौ सात जीरो एक का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है दो ज़िरो नौ शून्य,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है तीन आठ ज़ीरो छः,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर सात सात पाँच जिरो है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर जिरो दो दो आठ,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर दो एक ज़िरो चार का ।,electricity_payment,hi
+बिलिंग यूनिट दो पाँच एक छः का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट पाँच ज़ीरो तीन एक के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है दो सात पाँच पाँच,electricity_payment,hi
+"बी  यू नंबर सात एक सात आठ का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर सात चार एक जिरो का पी ई डी एम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड ने उसे जमा कराना है। बी  यू नंबर है  छः तीन एक आठ,electricity_payment,hi
+टोर पॉवर भिवांडी का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर छः चार नौ दो का,electricity_payment,hi
+बिजली का जो बिल ड्यू है छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड से बिलिंग यूनिट नंबर चार तीन एक शून्य के लिए वो सेटल करना है।,electricity_payment,hi
+यामुना पॉवर लिमिटेड का बिल जिसका बी यू नंबर है एक आठ छः तीन जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर तीन छः सात आठ के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है दामन एंड दियू एलेक्ट्रिसिटी को ।,electricity_payment,hi
+सिक्कीम पॉवर रुरल के बी यू नंबर नौ ज़ीरो दो नौ के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर सात छः तीन चार के पावर बिल का भुगतान करना है डीपार्टमेंट ओफ पॉवर गवर्नमेन्ट ओफ अरूणाचल प्रादेश के ।,electricity_payment,hi
+टी पी ए डी एल के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट तीन दो सात नौ,electricity_payment,hi
+=======
+टी सीईसीएल का बिजली का बिल जमा करना।,electricity_payment,hi
+एस के एम पी डबल्यू आर अर्बन बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है टोर पॉवर का ।,electricity_payment,hi
+पावर बिल जमा करना है टी ओ आर पी डबल्यू आर ए एच एम का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एम पी मध्या क्षेत्रा विद्यूत वितरन रुरल का ।,electricity_payment,hi
+यू पी पी सी एल रुरल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना जी ई एस सी ओ एम का ।,electricity_payment,hi
+एन ई एस सी ओ का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है सिक्कीम पॉवर रुरल का।,electricity_payment,hi
+बी एस ई एस राजधनी पॉवर लिमिटेड के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+सी ई एस यू के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है दक्षिन गुजरत वीज कम्पनी लिमिटेड के ।,electricity_payment,hi
+टी पी आर एम जी के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड पावर बिल का।,electricity_payment,hi
+ताता पॉवर मुम्बई का बिल भरना है।,electricity_payment,hi
+टी सी ई डी पावर बिल जमा करना है।,electricity_payment,hi
+तामिल नाडू एलेक्ट्रिसिटी बॉर्ड बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो बी ई एस टी का ।,electricity_payment,hi
+एम पी पशिम क्षेत्रा विद्यूत वितरन पावर बिल जमा करवाना है।,electricity_payment,hi
+टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो नेसको बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है टी ओ आर पी डबल्यू आर ए जी आर ने वो  भरना है ।,electricity_payment,hi
+एस ओ यू टी एच सी ओ बिल सेटल करना है,electricity_payment,hi
+एम पी पी के वी वी सी एल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है जे वी वी एन एल पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी पी रीन्यूएबल्स माईक्रोग्रिड लिमिटेड,electricity_payment,hi
+टी पी अजमीर डिस्ट्रिब्यूशन लिमिटेड कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो दक्षिन हरयाणा बीजली वित्रण निगाम  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है यू पी सी एल ने उसे जमा कराना है।,electricity_payment,hi
+मंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है जैपुर विद्यूत वित्रण निगाम से  वो सेटल करना है।,electricity_payment,hi
+एम ई एस सी ओ एम का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है उत्तार हरयाणा बीजली वित्रण निगाम को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। पी जी वी सी एल का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+सात चार आठ ज़िरो का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है पाँच आठ दो जीरो,electricity_payment,hi
+"बिलिंग यूनिट एक दो छः शून्य का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट दो एक तीन पाँच का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर नौ शून्य चार छः का ।,electricity_payment,hi
+यूनिट नंबर तीन चार तीन छः का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है आठ छः छः पाँच।,electricity_payment,hi
+बी यू नंबर नौ नौ छः चार का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है पाँच छः नौ आठ का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है सात आठ आठ दो,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है आठ चार आठ पाँच,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर जीरो तीन नौ दो है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर नौ पाँच आठ सात,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर दो आठ आठ एक का ।,electricity_payment,hi
+बिलिंग यूनिट शून्य एक पाँच छः का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट तीन पाँच आठ सात के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है दो दो एक नौ,electricity_payment,hi
+"बी  यू नंबर छः पाँच सात एक का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर एक एक छः नौ का यू एच बी वी एन  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है डी एन एच ने उसे जमा कराना है। बी  यू नंबर है  दो पाँच पाँच छः,electricity_payment,hi
+एलेक्ट्रिसिटी डीपार्टमेंट चंदीगढ़ का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर पाँच चार छः आठ का,electricity_payment,hi
+बिजली का जो बिल ड्यू है हिमांचल प्रादेश स्टेटे एलेक्ट्रिसिटी बॉर्ड से बिलिंग यूनिट नंबर चार छः चार पाँच के लिए वो सेटल करना है।,electricity_payment,hi
+साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का बिल जिसका बी यू नंबर है ज़िरो दो दो पाँच जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर जीरो नौ नौ आठ के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है मंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड को ।,electricity_payment,hi
+डी जी वी सी एल के बी यू नंबर एक एक जीरो एक के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर एक आठ एक जीरो के पावर बिल का भुगतान करना है सी एच डी के ।,electricity_payment,hi
+एस के एम पी डबल्यू आर अर्बन के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट सात नौ नौ दो,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+थ्रिसुर कॉरपोरेशन एलेक्ट्रिसिटी डीपार्टमेंट बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है जूस्को का ।,electricity_payment,hi
+पावर बिल जमा करना है इस्टर्न पॉवर डिस्ट्रिब्यूशन को आप लिमिटेड का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड का ।,electricity_payment,hi
+यामुना पॉवर लिमिटेड का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना हेसकॉम का ।,electricity_payment,hi
+छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है बी एस ई एस राजधनी पॉवर लिमिटेड का।,electricity_payment,hi
+एन ई एस सी ओ के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+साऊथ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है भारतपुर एलेक्ट्रिसिटी सर्विसेज लिमिटेड के ।,electricity_payment,hi
+हेसकॉम के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है डी एन एच पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड पावर बिल का।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन का बिल भरना है।,electricity_payment,hi
+डी डी ई डी पावर बिल जमा करना है।,electricity_payment,hi
+एम पी पी के वी वी सी एल अर्बन बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टी पी वैस्टर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड का ।,electricity_payment,hi
+टॉरेंट पॉवर अग्रा पावर बिल जमा करवाना है।,electricity_payment,hi
+बेस्कॉम बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो टी ओ आर पी डबल्यू आर एस यू आर बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है मंगलूर एलेक्ट्रिसिटी सपलाई को लिमिटेड ने वो  भरना है ।,electricity_payment,hi
+के ई डी एल बिल सेटल करना है,electricity_payment,hi
+एस के एम पी डबल्यू आर रुरल का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है नेसको पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. एम पी एम के वी वी सी एल रुरल,electricity_payment,hi
+टी ए टी ए पी डबल्यू आर एम यू एम कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो उत्तराखण्ड पॉवर कॉरपोरेशन लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टी सी ई डी ने उसे जमा कराना है।,electricity_payment,hi
+लक्ष्द्वीप एलेक्ट्रिसिटी डीपार्टमेंट का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है डी एच बी वी एन से  वो सेटल करना है।,electricity_payment,hi
+टी सी ई डी का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है सी ई एस सी को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। पी वाइ ई बी का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+जिरो आठ दो पाँच का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है तीन सात तीन ज़िरो,electricity_payment,hi
+"बिलिंग यूनिट तीन एक आठ एक का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट चार छः दो दो का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर चार सात पाँच पाँच का ।,electricity_payment,hi
+यूनिट नंबर छः चार सात तीन का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है पाँच जीरो दो सात।,electricity_payment,hi
+बी यू नंबर चार छः नौ नौ का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है सात दो सात सात का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है एक चार तीन एक,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है तीन तीन पाँच एक,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर चार नौ जिरो चार है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर एक चार नौ ज़ीरो,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर जिरो तीन सात सात का ।,electricity_payment,hi
+बिलिंग यूनिट एक चार पाँच सात का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट सात एक पाँच छः के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है तीन तीन दो आठ,electricity_payment,hi
+"बी  यू नंबर एक तीन ज़िरो छः का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर एक आठ छः छः का त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है टी पी साउदर्न ओडीशा डिस्ट्रिब्यूशन लिमिटेड ने उसे जमा कराना है। बी  यू नंबर है  पाँच दो नौ जिरो,electricity_payment,hi
+उत्तार हरयाणा बीजली वित्रण निगाम का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर आठ सात आठ एक का,electricity_payment,hi
+बिजली का जो बिल ड्यू है एस एन डी एल से बिलिंग यूनिट नंबर दो आठ तीन एक के लिए वो सेटल करना है।,electricity_payment,hi
+यू पी पी सी एल अर्बन का बिल जिसका बी यू नंबर है तीन सात आठ दो जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर नौ दो दो शून्य के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टी पी सेन्ट्रल ओडीशा डिस्ट्रिब्यूशन लिमिटेड को ।,electricity_payment,hi
+टी एस ई सी एल के बी यू नंबर पाँच दो एक ज़िरो के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर पाँच छः तीन छः के पावर बिल का भुगतान करना है बी ई एस टी के ।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर बी एच आई के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट नौ एक चार सात,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+भारतपुर एलेक्ट्रिसिटी सर्विसेज लिमिटेड का बिजली का बिल जमा करना।,electricity_payment,hi
+टी ओ आर पी डबल्यू आर एस यू आर बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है एम पी एम के वी वी सी एल अर्बन का ।,electricity_payment,hi
+पावर बिल जमा करना है पी एस पी सी एल का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना बी ई एस सी ओ एम का ।,electricity_payment,hi
+यू पी पी सी एल रुरल का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना बी ई एस टी का ।,electricity_payment,hi
+जे यू एस सी ओ का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है टी ओ आर पी डबल्यू आर का।,electricity_payment,hi
+टी ए टी ए पी डबल्यू आर एम यू एम के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बेस्त के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है छत्तिसगढ़ स्टेटे पॉवर डिस्ट्रिब्यूशन को लिमिटेड के ।,electricity_payment,hi
+बी ई एस टी मुम्बई के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है उत्तार प्रादेश पॉवर कोर्प लिमिटेड रुरल पावर बिल का।,electricity_payment,hi
+डीपार्टमेंट ओफ पॉवर नगालैंड का बिल भरना है।,electricity_payment,hi
+बी एस ई एस पावर बिल जमा करना है।,electricity_payment,hi
+ए वी वी एन एल बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो टी ओ आर पी डबल्यू आर ए जी आर का ।,electricity_payment,hi
+झारखण्ड बीजली वित्रण निगाम लिमिटेड पावर बिल जमा करवाना है।,electricity_payment,hi
+डबल्यू बी एस ई डी सी एल ओ बी बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो टॉरेंट पॉवर सुरत बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है एन पी सी एल नोईडा पॉवर ने वो  भरना है ।,electricity_payment,hi
+डबल्यू ई एस सी ओ बिल सेटल करना है,electricity_payment,hi
+टॉरेंट पॉवर अग्रा का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है कनपुर एलेक्ट्रिसिटी सपलाई कम्पनी पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. यू जी वी सी एल,electricity_payment,hi
+एच पी एस ई बी कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो टी एस ई सी एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है बी एस ई एस ने उसे जमा कराना है।,electricity_payment,hi
+एम ई पी डी सी एल का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है टी ए टी ए पी डबल्यू आर एम यू एम से  वो सेटल करना है।,electricity_payment,hi
+एस एन डी एल नगपुर का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है इस्टर्न पॉवर डिस्ट्रिब्यूशन सी ओ ए पी लिमिटेड को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। एम ई एस सी ओ एम का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+छः एक चार तीन का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है एक छः आठ छः,electricity_payment,hi
+"बिलिंग यूनिट सात छः पाँच छः का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट ज़ीरो दो आठ पाँच का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर सात छः एक दो का ।,electricity_payment,hi
+यूनिट नंबर आठ पाँच जीरो नौ का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है पाँच चार दो सात।,electricity_payment,hi
+बी यू नंबर पाँच नौ नौ ज़िरो का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है पाँच नौ एक छः का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है आठ आठ चार पाँच,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है नौ नौ आठ नौ,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर दो दो ज़ीरो पाँच है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर आठ नौ एक ज़ीरो,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर एक तीन आठ दो का ।,electricity_payment,hi
+बिलिंग यूनिट नौ सात चार नौ का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट आठ दो ज़िरो चार के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है ज़ीरो शून्य आठ सात,electricity_payment,hi
+"बी  यू नंबर एक आठ नौ पाँच का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर एक चार सात पाँच का बी ई एस एल  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है कैलकटा इलैक्ट्रिक सपलाई कॉरपोरेशन ने उसे जमा कराना है। बी  यू नंबर है  चार ज़िरो नौ चार,electricity_payment,hi
+गुलबर्ग एलेक्ट्रिसिटी सपलाई कम्पनी लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर सात तीन आठ एक का,electricity_payment,hi
+बिजली का जो बिल ड्यू है टॉरेंट पॉवर अहमेदाबाद से बिलिंग यूनिट नंबर आठ दो सात नौ के लिए वो सेटल करना है।,electricity_payment,hi
+त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड का बिल जिसका बी यू नंबर है चार चार पाँच दो जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर आठ आठ आठ पाँच के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है टॉरेंट पॉवर भिवांडी को ।,electricity_payment,hi
+गवर्नमेन्ट ओफ पुदुचेरी एलेक्ट्रिसिटी डीपार्टमेंट के बी यू नंबर शून्य तीन आठ पाँच के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर सात छः तीन एक के पावर बिल का भुगतान करना है बी एस ई एस राजधनी पॉवर लिमिटेड के ।,electricity_payment,hi
+जे डी वी वी एन एल के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट छः चार दो तीन,electricity_payment,hi
+विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है,electricity_payment,hi
+बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का,electricity_payment,hi
+"पावर बिल भरना है, प्लीज",electricity_payment,hi
+बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें,electricity_payment,hi
+पावर बिल जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेन्ट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+बिजली बिल का पेमेन्ट करना है।,electricity_payment,hi
+पेमेंट करना है पावर बिल का।,electricity_payment,hi
+मेरा बिजली का बिल भर दो।,electricity_payment,hi
+पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है।,electricity_payment,hi
+पेमेन्ट करवा दो इलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो इलेक्ट्रिसिटी बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल आया है वो  भरना है ।,electricity_payment,hi
+बिल सेटल करना है बिजली का।,electricity_payment,hi
+बिल पे करना है बिजली का।,electricity_payment,hi
+पे कर दो पावर बिल।,electricity_payment,hi
+बिजली बिल का पेमेन्ट,electricity_payment,hi
+बिजली बिल का भुगतान,electricity_payment,hi
+जमा करना है बिजली का बिल,electricity_payment,hi
+बिजली के बिल का पेमेन्ट,electricity_payment,hi
+बिजली के बिल का भुगतान,electricity_payment,hi
+पे करो बिजली का बिल,electricity_payment,hi
+पे करो पावर बिल,electricity_payment,hi
+पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल,electricity_payment,hi
+पे करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+पेमेंट करवा दो एलेक्ट्रिसिटी बिल का,electricity_payment,hi
+यू पी आई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यू पी आई से,electricity_payment,hi
+"यू पी आई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यू पी आई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यू पी आई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यू पी आई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यू पी आई से,electricity_payment,hi
+यू पी आई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से विद्युत् बिल जमा करना है,electricity_payment,hi
+विद्युत् बिल भरना है यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई खाते से बिजली का बिल जमा करना,electricity_payment,hi
+बिल भरना है बिजली का यूपीआई से,electricity_payment,hi
+"यूपीआई से पावर बिल भरना है, प्लीज",electricity_payment,hi
+यूपीआई बैलेन्स से बिजली बिल का भुगतान करना है,electricity_payment,hi
+पावर बिल का भुगतान करना है यूपीआई बैलेन्स से,electricity_payment,hi
+बिजली बिल के भुगतान की तिथि आ रही है यूपीआई खाते  से,electricity_payment,hi
+कृपया बिजली बिल जमा कर दें यूपीआई से,electricity_payment,hi
+यूपीआई से पावर बिल जमा करना है।,electricity_payment,hi
+यूपीआई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यूपीआई बैलेंस से,electricity_payment,hi
+यूपीआई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यूपीआई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यूपीआई खाते से,electricity_payment,hi
+यूपीआई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यूपीआई से,electricity_payment,hi
+यू पी आई से पे करो बिजली का बिल,electricity_payment,hi
+पेमेंट करो पावर बिल यू पी आई बैलेंस से,electricity_payment,hi
+यू पी आई बैलेन्स से पे करो इलेक्ट्रिसिटी  का बिल,electricity_payment,hi
+पेमेंट करो इलेक्ट्रिसिटी बिल यू पी आई बैलेन्स से,electricity_payment,hi
+पेमेन्ट करो एलेक्ट्रिसिटी का बिल यू पी आई खाते से,electricity_payment,hi
+यू पी आई खाते से पेमेन्ट करो एलेक्ट्रिसिटी बिल,electricity_payment,hi
+पेमेन्ट करवा दो एलेक्ट्रिसिटी बिल का यू पी आई से,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+बिजली का जो बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+एलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है।,electricity_payment,hi
+एलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी का बिल ड्यू है वो सेटल करना है।,electricity_payment,hi
+टी एस ई सी एल का बिजली का बिल जमा करना।,electricity_payment,hi
+एम पी मध्या क्षेत्रा विद्यूत वितरन अर्बन बिजली बिल भरना है,electricity_payment,hi
+पावर बिल भरना है टी ओ आर पी डबल्यू आर ए जी आर का ।,electricity_payment,hi
+पावर बिल जमा करना है केसको का ।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल का पेमेंट करना एस एन डी एल का ।,electricity_payment,hi
+के ई एस सी ओ का इलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+एलेक्ट्रिसिटी  बिल का पेमेंट करना डी एन एच का ।,electricity_payment,hi
+के एस ई बी एल का एलेक्ट्रिसिटी बिल भरना है।,electricity_payment,hi
+बिल जमा करना है टी ए टी ए पी डबल्यू आर डी ई एल का।,electricity_payment,hi
+उत्तार हरयाणा बीजली वित्रण निगाम के बिजली बिल का पेमेंट करना है।,electricity_payment,hi
+सी एच डी के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+पावर बिल का भुगतान करना है बी के ई एस एल के ।,electricity_payment,hi
+एम पी पुर्व क्षेत्रा विद्यूत वितरन रुरल के बिजली बिल के भुगतान की तिथि आ रही है।,electricity_payment,hi
+पेमेंट करना है जे डी वी वी एन एल पावर बिल का।,electricity_payment,hi
+नार्थ बिहर पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड का बिल भरना है।,electricity_payment,hi
+बी ई एस सी ओ एम पावर बिल जमा करना है।,electricity_payment,hi
+पशिम गुजरत वीज कम्पनी लिमिटेड बिल जमा कर दो,electricity_payment,hi
+मेरा बिजली का बिल भर दो त्रिपुर एलेक्ट्रिसिटी कोर्प लिमिटेड का ।,electricity_payment,hi
+बी के ई एस एल पावर बिल जमा करवाना है।,electricity_payment,hi
+डी एन एच पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड बिल पे करना है।,electricity_payment,hi
+पेमेंट करवा दो यू पी पी सी एल अर्बन बिल का।,electricity_payment,hi
+इस महीने का जो बिजली बिल भेजा है महाराष्ट्रा स्टेटे एलेक्ट्रिसिटी डिस्ट्रिब्यूशन को लिमिटेड ने वो  भरना है ।,electricity_payment,hi
+डी एन एच पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड बिल सेटल करना है,electricity_payment,hi
+जे के पी डी डी का बिल पे करना है।,electricity_payment,hi
+पेमेंट करना है यू पी पी सी एल रुरल पावर बिल का,electricity_payment,hi
+बिजली का बिल भरना है. टी ओ आर पी डबल्यू आर ए एच एम,electricity_payment,hi
+टॉरेंट पॉवर कनेक्शन के बिजली के बिल का पेमेंट करना है।,electricity_payment,hi
+"पे कर दो असाम पॉवर डिस्ट्रिब्यूशन कम्पनी लिमिटेड  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है पशिम गुजरत वीज कम्पनी लिमिटेड ने उसे जमा कराना है।,electricity_payment,hi
+मध्या गुजरत वीज कम्पनी लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है।,electricity_payment,hi
+बिजली का जो बिल ड्यू है जम्मु एंड काश्मीर पॉवर डेवेलपमेंट डीपार्टमेंट से  वो सेटल करना है।,electricity_payment,hi
+यामुना पॉवर लिमिटेड का बिल जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है डबल्यू ई एस सी ओ को ।,electricity_payment,hi
+पावर बिल जमा करने की लास्ट डेट आ रही है। बी ई एस टी का बिल भर दो लास्ट डेट से पहले,electricity_payment,hi
+पाँच तीन नौ पाँच का बिजली का बिल जमा करना।,electricity_payment,hi
+बिल भरना है बिजली का। बी यू नंबर है ज़ीरो नौ शून्य पाँच,electricity_payment,hi
+"बिलिंग यूनिट सात पाँच छः तीन का पावर बिल भरना है, प्लीज।",electricity_payment,hi
+कृपया बिजली बिल जमा कर दें बिलिंग यूनिट पाँच पाँच तीन सात का,electricity_payment,hi
+पावर बिल जमा करना है बिलिंग यूनिट नंबर दो दो पाँच छः का ।,electricity_payment,hi
+यूनिट नंबर जिरो नौ शून्य दो का इलेक्ट्रिसिटी बिल का पेमेंट करना।,electricity_payment,hi
+इलेक्ट्रिसिटी बिल भरना है जिसका बी यू नंबर है तीन आठ नौ दो।,electricity_payment,hi
+बी यू नंबर एक नौ दो तीन का बिल जमा करना है इलेक्ट्रिसिटी का।,electricity_payment,hi
+बिजली बिल का पेमेंट करना है पाँच शून्य आठ छः का ।,electricity_payment,hi
+पेमेंट करना है पावर बिल का। बिलिंग यूनिट नंबर है एक दो नौ पाँच,electricity_payment,hi
+बिजली बिल भरना है। उनका यूनिट नंबर है चार चार छः आठ,electricity_payment,hi
+पावर बिल जमा करना है। उनका बी यू नंबर ज़िरो चार चार आठ है,electricity_payment,hi
+इलेक्ट्रिसिटी बिल जमा कर दो. बी यू नंबर जीरो पाँच तीन छः,electricity_payment,hi
+मेरा बिजली का बिल भर दो इस बी यू नंबर सात छः सात एक का ।,electricity_payment,hi
+बिलिंग यूनिट आठ छः नौ तीन का पावर बिल जमा करवाना है।,electricity_payment,hi
+बिजली बिल पे करना है बिलिंग यूनिट पाँच तीन पाँच आठ के लिए,electricity_payment,hi
+इस महीने इलेक्ट्रिसिटी बिल कितना आया है वो जमा करना है। बिलिंग यूनिट है जिरो छः पाँच नौ,electricity_payment,hi
+"बी  यू नंबर सात जिरो आठ छः का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का, वह भरना है।",electricity_payment,hi
+"पे कर दो इस  बी यू नंबर तीन आठ छः जीरो का टोर पॉवर सुरत  बिल, प्लीज ।",electricity_payment,hi
+इस महीने जो बिल भेजा है सिक्कीम पॉवर अर्बन ने उसे जमा कराना है। बी  यू नंबर है  जीरो नौ सात छः,electricity_payment,hi
+पुंजाब स्टेटे पॉवर कॉरपोरेशन लिमिटेड का इलेक्ट्रिसिटी बिल ड्यू है इस महीने का वह भरना है। बिलिंग यूनिट नंबर तीन चार छः नौ का,electricity_payment,hi
+बिजली का जो बिल ड्यू है जम्मु एंड काश्मीर पॉवर डेवेलपमेंट डीपार्टमेंट से बिलिंग यूनिट नंबर नौ तीन सात ज़िरो के लिए वो सेटल करना है।,electricity_payment,hi
+टोर पॉवर भिवांडी का बिल जिसका बी यू नंबर है नौ छः आठ आठ जमा करना चाहता हूँ ड्यू डेट के पहले।,electricity_payment,hi
+बी यू नंबर शून्य आठ शून्य दो के बिजली बिल की ड्यू डेट आने वाली है। उसका पेमेंट करना है पॉवर एंड एलेक्ट्रिसिटी डीपार्टमेंट मिजोराम को ।,electricity_payment,hi
+ए पी एस पी डी सी एल के बी यू नंबर शून्य शून्य शून्य एक के बिजली के बिल का भुगतान करना है।,electricity_payment,hi
+बी यू नंबर तीन जिरो पाँच चार के पावर बिल का भुगतान करना है ए वी वी एन एल के ।,electricity_payment,hi
+तामिल नाडू एलेक्ट्रिसिटी बॉर्ड के बिजली बिल के भुगतान की तिथि आ रही है।  बिलिंग यूनिट नौ ज़िरो शून्य पाँच,electricity_payment,hi
+>>>>>>> 0ee03bbdf34ca250ca1a4079d508e2181150d6d7

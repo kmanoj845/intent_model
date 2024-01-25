@@ -1,0 +1,529 @@
+sentence,intent,language
+gas booking,gas_payment,en
+cylinder booking,gas_payment,en
+want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+payment of gas,gas_payment,en
+payment for gas,gas_payment,en
+gas payment,gas_payment,en
+Reserve LPG,gas_payment,en
+Book gas ,gas_payment,en
+Get cylinder ,gas_payment,en
+Order gas ,gas_payment,en
+Order gas cylinder,gas_payment,en
+Refill LPG ,gas_payment,en
+Refill gas ,gas_payment,en
+gas booking,gas_payment,en
+Do gas booking,gas_payment,en
+Book cylinder,gas_payment,en
+refill cylinder,gas_payment,en
+Refill lpg cylinder,gas_payment,en
+Book lpg cylinder,gas_payment,en
+Order gas cylinder online,gas_payment,en
+Refill gas cylinder delivery,gas_payment,en
+Book gas refill,gas_payment,en
+Request gas cylinder delivery,gas_payment,en
+Order home gas cylinder,gas_payment,en
+Book gas cylinder,gas_payment,en
+Arrange gas cylinder delivery,gas_payment,en
+Assist with cylinder booking,gas_payment,en
+Place gas cylinder order,gas_payment,en
+I need an LPG cylinder,gas_payment,en
+order a gas cylinder,gas_payment,en
+reserve a cylinder of gas,gas_payment,en
+book a gas cylinder,gas_payment,en
+Refill a gas cylinder for me,gas_payment,en
+Book cylinder of gas,gas_payment,en
+I would like to place an order for a gas cylinder,gas_payment,en
+Can I schedule a gas cylinder delivery?,gas_payment,en
+I need to book a gas refill for my cooking gas,gas_payment,en
+I want to order a gas cylinder for my home,gas_payment,en
+I need to arrange for a gas cylinder delivery at my residence,gas_payment,en
+Can you assist me with booking a gas cylinder refill?,gas_payment,en
+I'm looking to place an order for a gas cylinder for my kitchen,gas_payment,en
+requesting to book an LPG cylinder,gas_payment,en
+I need to arrange for a gas cylinder booking,gas_payment,en
+looking to get LPG cylinder refill,gas_payment,en
+Make booking for an LPG cylinder refill,gas_payment,en
+Reserve bharat LPG,gas_payment,en
+Book gas from indian oil corporation company,gas_payment,en
+Get jyothi gas private limited company cylinder ,gas_payment,en
+Order gas from indian gas,gas_payment,en
+Order gas cylinder from bharat,gas_payment,en
+Refill indane gas LPG ,gas_payment,en
+Refill hindustan petroleum corporation limited gas ,gas_payment,en
+indane gas booking,gas_payment,en
+Do bharat gas booking,gas_payment,en
+Book jyothi gas private limited cylinder,gas_payment,en
+refill cylinder from indian gas,gas_payment,en
+Order hindustan petroleum gas company cylinder online,gas_payment,en
+Refill gas cylinder from b p c l company,gas_payment,en
+order indane gas gas cylinder,gas_payment,en
+Request jyoti gas gas booking,gas_payment,en
+Refill jyothi gas private limited gas cylinder,gas_payment,en
+Refill h p gas booking,gas_payment,en
+Acquire hindustan petroleum gas cylinder,gas_payment,en
+jyoti gas gas booking,gas_payment,en
+Place order for bharat gas,gas_payment,en
+Reserve h p gas gas cylinder,gas_payment,en
+Book online b p c l gas,gas_payment,en
+Place order h p c l cylinder,gas_payment,en
+Book indane LPG,gas_payment,en
+Order bharat gas,gas_payment,en
+Book hindustan petroleum cylinder,gas_payment,en
+Refill bharat petroleum corporation limited gas,gas_payment,en
+request a booking for indane gas,gas_payment,en
+reserve a bharat gas gas cylinder,gas_payment,en
+I would like to reserve a hindustan petroleum gas cylinder,gas_payment,en
+"I'd like to reserve an bharat petroleum corporation limited gas cylinder, please",gas_payment,en
+Can I order an jyothi gas gas cylinder for delivery?,gas_payment,en
+I want to book an bharat gas gas cylinder,gas_payment,en
+Please help me schedule a gas cylinder from bharat,gas_payment,en
+I need to secure a gas cylinder from jyothi gas private limited,gas_payment,en
+How can I procure an bharat gas cylinder?,gas_payment,en
+I'm interested in reserving a gas cylinder with indane,gas_payment,en
+Let me know how I can book an bharat petroleum gas cylinder,gas_payment,en
+I wish to place a gas cylinder order with h p c l,gas_payment,en
+Kindly assist me in booking an bharat petroleum corporation limited gas cylinder,gas_payment,en
+Pay piped gas bill,gas_payment,en
+Pay for gas,gas_payment,en
+Settle gas bill payment,gas_payment,en
+Compensate for gas usage,gas_payment,en
+piped gas payment,gas_payment,en
+Clear gas bill dues,gas_payment,en
+Make gas payment,gas_payment,en
+Pay gas bill,gas_payment,en
+Pay for gas bill,gas_payment,en
+Make payment to settle gas bill,gas_payment,en
+Make Payment for gas bill,gas_payment,en
+Make Payment for piped gas,gas_payment,en
+Use upi to Pay piped gas bill,gas_payment,en
+Pay using upi balance for gas ,gas_payment,en
+Settle gas payment using upi account,gas_payment,en
+Compensate for gas usage from upi balance,gas_payment,en
+Use upi for piped gas payment,gas_payment,en
+From upi account Clear gas bill dues,gas_payment,en
+Upi balance to Make gas payment,gas_payment,en
+Using upi Pay gas bill,gas_payment,en
+Pay for gas from upi,gas_payment,en
+Make payment to settle gas bill from upi,gas_payment,en
+Make Payment from upi balance for gas bill,gas_payment,en
+Make Payment for piped gas from upi account,gas_payment,en
+Pay bhagyanagar gas limited gas bill,gas_payment,en
+Pay for vadodara gas bill,gas_payment,en
+Settle gas bill payment from gujarat gas,gas_payment,en
+Compensate for megha gas usage,gas_payment,en
+maharashtra natural gas payment,gas_payment,en
+Clear torrent gas bill ,gas_payment,en
+Make gas payment from gail india company,gas_payment,en
+Pay haryana city gas kapil chopra enterprise bill,gas_payment,en
+Pay for naveriya gas private limited,gas_payment,en
+Make payment to settle indian oil piped gas,gas_payment,en
+Make Payment for megha gas gas company,gas_payment,en
+Make Payment for u c p g p l gas company,gas_payment,en
+Use upi to Pay haryana city gas company bill,gas_payment,en
+Pay using upi balance for unique central piped gas gas,gas_payment,en
+Settle gail india payment using upi account,gas_payment,en
+Compensate for assam gas gas usage from upi balance,gas_payment,en
+Use upi for bhagyanagar gas gas payment,gas_payment,en
+From upi account Clear avantika gas dues,gas_payment,en
+Make payment to settle adani total gas bill from upi,gas_payment,en
+ Payment from upi balance for adani total gas bill,gas_payment,en
+Make Payment for rajasthan state gas limited gas bill from upi account,gas_payment,en
+gas booking,gas_payment,en
+cylinder booking,gas_payment,en
+want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+payment of gas,gas_payment,en
+payment for gas,gas_payment,en
+gas payment,gas_payment,en
+Reserve LPG,gas_payment,en
+Book gas ,gas_payment,en
+Get cylinder ,gas_payment,en
+Order gas ,gas_payment,en
+Order gas cylinder,gas_payment,en
+Refill LPG ,gas_payment,en
+Refill gas ,gas_payment,en
+gas booking,gas_payment,en
+Do gas booking,gas_payment,en
+Book cylinder,gas_payment,en
+refill cylinder,gas_payment,en
+Refill lpg cylinder,gas_payment,en
+Book lpg cylinder,gas_payment,en
+Order gas cylinder online,gas_payment,en
+Refill gas cylinder delivery,gas_payment,en
+Book gas refill,gas_payment,en
+Request gas cylinder delivery,gas_payment,en
+Order home gas cylinder,gas_payment,en
+Book gas cylinder,gas_payment,en
+Arrange gas cylinder delivery,gas_payment,en
+Assist with cylinder booking,gas_payment,en
+Place gas cylinder order,gas_payment,en
+I need an LPG cylinder,gas_payment,en
+order a gas cylinder,gas_payment,en
+reserve a cylinder of gas,gas_payment,en
+book a gas cylinder,gas_payment,en
+Refill a gas cylinder for me,gas_payment,en
+Book cylinder of gas,gas_payment,en
+I would like to place an order for a gas cylinder,gas_payment,en
+Can I schedule a gas cylinder delivery?,gas_payment,en
+I need to book a gas refill for my cooking gas,gas_payment,en
+I want to order a gas cylinder for my home,gas_payment,en
+I need to arrange for a gas cylinder delivery at my residence,gas_payment,en
+Can you assist me with booking a gas cylinder refill?,gas_payment,en
+I'm looking to place an order for a gas cylinder for my kitchen,gas_payment,en
+requesting to book an LPG cylinder,gas_payment,en
+I need to arrange for a gas cylinder booking,gas_payment,en
+looking to get LPG cylinder refill,gas_payment,en
+Make booking for an LPG cylinder refill,gas_payment,en
+Reserve hindustan petroleum corporation limited LPG,gas_payment,en
+Book gas from jyoti gas company,gas_payment,en
+Get hindustan petroleum company cylinder ,gas_payment,en
+Order gas from bharat gas,gas_payment,en
+Order gas cylinder from bharat,gas_payment,en
+Refill bharat gas LPG ,gas_payment,en
+Refill hindustan petroleum corporation limited gas ,gas_payment,en
+indian oil corporation gas booking,gas_payment,en
+Do h p gas gas booking,gas_payment,en
+Book h p c l cylinder,gas_payment,en
+refill cylinder from hindustan petroleum,gas_payment,en
+Order bharat gas company cylinder online,gas_payment,en
+Refill gas cylinder from h p c l company,gas_payment,en
+order bharat gas gas cylinder,gas_payment,en
+Request indane gas gas booking,gas_payment,en
+Refill hindustan petroleum corporation limited gas cylinder,gas_payment,en
+Refill indian oil corporation gas booking,gas_payment,en
+Acquire bharat gas cylinder,gas_payment,en
+bharat petroleum gas booking,gas_payment,en
+Place order for bharat petroleum corporation limited gas,gas_payment,en
+Reserve indian gas gas cylinder,gas_payment,en
+Book online jyothi gas gas,gas_payment,en
+Place order h p gas cylinder,gas_payment,en
+Book hindustan petroleum corporation limited LPG,gas_payment,en
+Order h p gas,gas_payment,en
+Book h p c l cylinder,gas_payment,en
+Refill indane gas gas,gas_payment,en
+request a booking for h p gas,gas_payment,en
+reserve a indian gas gas cylinder,gas_payment,en
+I would like to reserve a bharat gas cylinder,gas_payment,en
+"I'd like to reserve an indane gas cylinder, please",gas_payment,en
+Can I order an bharat petroleum corporation limited gas cylinder for delivery?,gas_payment,en
+I want to book an h p c l gas cylinder,gas_payment,en
+Please help me schedule a gas cylinder from jyothi gas private limited,gas_payment,en
+I need to secure a gas cylinder from jyothi gas private limited,gas_payment,en
+How can I procure an bharat gas gas cylinder?,gas_payment,en
+I'm interested in reserving a gas cylinder with bharat,gas_payment,en
+Let me know how I can book an hindustan petroleum gas cylinder,gas_payment,en
+I wish to place a gas cylinder order with bharat petroleum corporation limited,gas_payment,en
+Kindly assist me in booking an b p c l gas cylinder,gas_payment,en
+Pay piped gas bill,gas_payment,en
+Pay for gas,gas_payment,en
+Settle gas bill payment,gas_payment,en
+Compensate for gas usage,gas_payment,en
+piped gas payment,gas_payment,en
+Clear gas bill dues,gas_payment,en
+Make gas payment,gas_payment,en
+Pay gas bill,gas_payment,en
+Pay for gas bill,gas_payment,en
+Make payment to settle gas bill,gas_payment,en
+Make Payment for gas bill,gas_payment,en
+Make Payment for piped gas,gas_payment,en
+Use upi to Pay piped gas bill,gas_payment,en
+Pay using upi balance for gas ,gas_payment,en
+Settle gas payment using upi account,gas_payment,en
+Compensate for gas usage from upi balance,gas_payment,en
+Use upi for piped gas payment,gas_payment,en
+From upi account Clear gas bill dues,gas_payment,en
+Upi balance to Make gas payment,gas_payment,en
+Using upi Pay gas bill,gas_payment,en
+Pay for gas from upi,gas_payment,en
+Make payment to settle gas bill from upi,gas_payment,en
+Make Payment from upi balance for gas bill,gas_payment,en
+Make Payment for piped gas from upi account,gas_payment,en
+Pay u c p g p l gas bill,gas_payment,en
+Pay for central u p gas bill,gas_payment,en
+Settle gas bill payment from green gas,gas_payment,en
+Compensate for bhagyanagar gas usage,gas_payment,en
+i r m energy gas payment,gas_payment,en
+Clear u c p g p l bill ,gas_payment,en
+Make gas payment from unique central piped gas company,gas_payment,en
+Pay purba bharati gas limited bill,gas_payment,en
+Pay for maharashtra natural gas,gas_payment,en
+Make payment to settle maharashtra natural gas,gas_payment,en
+Make Payment for gail gas company,gas_payment,en
+Make Payment for indian oil adani gas gas company,gas_payment,en
+Use upi to Pay aavantika gas company bill,gas_payment,en
+Pay using upi balance for u c p g p l gas,gas_payment,en
+Settle haryana city gas kapil chopra enterprise payment using upi account,gas_payment,en
+Compensate for aavantika gas gas usage from upi balance,gas_payment,en
+Use upi for haryana city gas gas payment,gas_payment,en
+From upi account Clear maharashtra natural dues,gas_payment,en
+Make payment to settle gujarat petronet bill from upi,gas_payment,en
+ Payment from upi balance for green gas bill,gas_payment,en
+Make Payment for i o c l gas bill from upi account,gas_payment,en
+gas booking,gas_payment,en
+cylinder booking,gas_payment,en
+want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+payment of gas,gas_payment,en
+payment for gas,gas_payment,en
+gas payment,gas_payment,en
+Reserve LPG,gas_payment,en
+Book gas ,gas_payment,en
+Get cylinder ,gas_payment,en
+Order gas ,gas_payment,en
+Order gas cylinder,gas_payment,en
+Refill LPG ,gas_payment,en
+Refill gas ,gas_payment,en
+gas booking,gas_payment,en
+Do gas booking,gas_payment,en
+Book cylinder,gas_payment,en
+refill cylinder,gas_payment,en
+Refill lpg cylinder,gas_payment,en
+Book lpg cylinder,gas_payment,en
+Order gas cylinder online,gas_payment,en
+Refill gas cylinder delivery,gas_payment,en
+Book gas refill,gas_payment,en
+Request gas cylinder delivery,gas_payment,en
+Order home gas cylinder,gas_payment,en
+Book gas cylinder,gas_payment,en
+Arrange gas cylinder delivery,gas_payment,en
+Assist with cylinder booking,gas_payment,en
+Place gas cylinder order,gas_payment,en
+I need an LPG cylinder,gas_payment,en
+order a gas cylinder,gas_payment,en
+reserve a cylinder of gas,gas_payment,en
+book a gas cylinder,gas_payment,en
+Refill a gas cylinder for me,gas_payment,en
+Book cylinder of gas,gas_payment,en
+I would like to place an order for a gas cylinder,gas_payment,en
+Can I schedule a gas cylinder delivery?,gas_payment,en
+I need to book a gas refill for my cooking gas,gas_payment,en
+I want to order a gas cylinder for my home,gas_payment,en
+I need to arrange for a gas cylinder delivery at my residence,gas_payment,en
+Can you assist me with booking a gas cylinder refill?,gas_payment,en
+I'm looking to place an order for a gas cylinder for my kitchen,gas_payment,en
+requesting to book an LPG cylinder,gas_payment,en
+I need to arrange for a gas cylinder booking,gas_payment,en
+looking to get LPG cylinder refill,gas_payment,en
+Make booking for an LPG cylinder refill,gas_payment,en
+Reserve bharat gas LPG,gas_payment,en
+Book gas from hindustan petroleum corporation limited company,gas_payment,en
+Get bharat petroleum company cylinder ,gas_payment,en
+Order gas from indane,gas_payment,en
+Order gas cylinder from indane,gas_payment,en
+Refill b p c l LPG ,gas_payment,en
+Refill h p c l gas ,gas_payment,en
+b p c l gas booking,gas_payment,en
+Do jyothi gas gas booking,gas_payment,en
+Book jyoti gas cylinder,gas_payment,en
+refill cylinder from hindustan petroleum corporation limited,gas_payment,en
+Order jyothi gas private limited gas company cylinder online,gas_payment,en
+Refill gas cylinder from h p gas company,gas_payment,en
+order h p c l gas cylinder,gas_payment,en
+Request bharat petroleum gas booking,gas_payment,en
+Refill hindustan petroleum gas cylinder,gas_payment,en
+Refill b p c l gas booking,gas_payment,en
+Acquire bharat gas gas cylinder,gas_payment,en
+bharat petroleum corporation limited gas booking,gas_payment,en
+Place order for indane gas gas,gas_payment,en
+Reserve bharat petroleum gas cylinder,gas_payment,en
+Book online indane gas,gas_payment,en
+Place order indane cylinder,gas_payment,en
+Book h p c l LPG,gas_payment,en
+Order indian gas gas,gas_payment,en
+Book h p gas cylinder,gas_payment,en
+Refill h p c l gas,gas_payment,en
+request a booking for h p gas,gas_payment,en
+reserve a indian gas gas cylinder,gas_payment,en
+I would like to reserve a jyoti gas gas cylinder,gas_payment,en
+"I'd like to reserve an indian gas gas cylinder, please",gas_payment,en
+Can I order an indian oil corporation gas cylinder for delivery?,gas_payment,en
+I want to book an h p gas cylinder,gas_payment,en
+Please help me schedule a gas cylinder from h p,gas_payment,en
+I need to secure a gas cylinder from hindustan petroleum corporation limited,gas_payment,en
+How can I procure an bharat gas cylinder?,gas_payment,en
+I'm interested in reserving a gas cylinder with indane gas,gas_payment,en
+Let me know how I can book an jyothi gas gas cylinder,gas_payment,en
+I wish to place a gas cylinder order with jyothi gas,gas_payment,en
+Kindly assist me in booking an h p gas gas cylinder,gas_payment,en
+Pay piped gas bill,gas_payment,en
+Pay for gas,gas_payment,en
+Settle gas bill payment,gas_payment,en
+Compensate for gas usage,gas_payment,en
+piped gas payment,gas_payment,en
+Clear gas bill dues,gas_payment,en
+Make gas payment,gas_payment,en
+Pay gas bill,gas_payment,en
+Pay for gas bill,gas_payment,en
+Make payment to settle gas bill,gas_payment,en
+Make Payment for gas bill,gas_payment,en
+Make Payment for piped gas,gas_payment,en
+Use upi to Pay piped gas bill,gas_payment,en
+Pay using upi balance for gas ,gas_payment,en
+Settle gas payment using upi account,gas_payment,en
+Compensate for gas usage from upi balance,gas_payment,en
+Use upi for piped gas payment,gas_payment,en
+From upi account Clear gas bill dues,gas_payment,en
+Upi balance to Make gas payment,gas_payment,en
+Using upi Pay gas bill,gas_payment,en
+Pay for gas from upi,gas_payment,en
+Make payment to settle gas bill from upi,gas_payment,en
+Make Payment from upi balance for gas bill,gas_payment,en
+Make Payment for piped gas from upi account,gas_payment,en
+Pay kapil chopra enterprise gas bill,gas_payment,en
+Pay for i g l bill,gas_payment,en
+Settle gas bill payment from i r m,gas_payment,en
+Compensate for gujarat petronet usage,gas_payment,en
+rajasthan state gas limited gas payment,gas_payment,en
+Clear gail bill ,gas_payment,en
+Make gas payment from adani total gas company,gas_payment,en
+Pay purba bharti bill,gas_payment,en
+Pay for gail india,gas_payment,en
+Make payment to settle rajasthan state gas limited,gas_payment,en
+Make Payment for purba bharati gas gas company,gas_payment,en
+Make Payment for green gas gas company,gas_payment,en
+Use upi to Pay indian oil piped gas company bill,gas_payment,en
+Pay using upi balance for adani piped gas gas,gas_payment,en
+Settle indian oil piped gas payment using upi account,gas_payment,en
+Compensate for megha gas gas usage from upi balance,gas_payment,en
+Use upi for avantika gas gas payment,gas_payment,en
+From upi account Clear green gas dues,gas_payment,en
+Make payment to settle green gas bill from upi,gas_payment,en
+ Payment from upi balance for purba bharati gas limited bill,gas_payment,en
+Make Payment for central u p gas gas bill from upi account,gas_payment,en
+gas booking,gas_payment,en
+cylinder booking,gas_payment,en
+want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+i want to do gas booking,gas_payment,en
+payment of gas,gas_payment,en
+payment for gas,gas_payment,en
+gas payment,gas_payment,en
+Reserve LPG,gas_payment,en
+Book gas ,gas_payment,en
+Get cylinder ,gas_payment,en
+Order gas ,gas_payment,en
+Order gas cylinder,gas_payment,en
+Refill LPG ,gas_payment,en
+Refill gas ,gas_payment,en
+gas booking,gas_payment,en
+Do gas booking,gas_payment,en
+Book cylinder,gas_payment,en
+refill cylinder,gas_payment,en
+Refill lpg cylinder,gas_payment,en
+Book lpg cylinder,gas_payment,en
+Order gas cylinder online,gas_payment,en
+Refill gas cylinder delivery,gas_payment,en
+Book gas refill,gas_payment,en
+Request gas cylinder delivery,gas_payment,en
+Order home gas cylinder,gas_payment,en
+Book gas cylinder,gas_payment,en
+Arrange gas cylinder delivery,gas_payment,en
+Assist with cylinder booking,gas_payment,en
+Place gas cylinder order,gas_payment,en
+I need an LPG cylinder,gas_payment,en
+order a gas cylinder,gas_payment,en
+reserve a cylinder of gas,gas_payment,en
+book a gas cylinder,gas_payment,en
+Refill a gas cylinder for me,gas_payment,en
+Book cylinder of gas,gas_payment,en
+I would like to place an order for a gas cylinder,gas_payment,en
+Can I schedule a gas cylinder delivery?,gas_payment,en
+I need to book a gas refill for my cooking gas,gas_payment,en
+I want to order a gas cylinder for my home,gas_payment,en
+I need to arrange for a gas cylinder delivery at my residence,gas_payment,en
+Can you assist me with booking a gas cylinder refill?,gas_payment,en
+I'm looking to place an order for a gas cylinder for my kitchen,gas_payment,en
+requesting to book an LPG cylinder,gas_payment,en
+I need to arrange for a gas cylinder booking,gas_payment,en
+looking to get LPG cylinder refill,gas_payment,en
+Make booking for an LPG cylinder refill,gas_payment,en
+Reserve jyothi gas private limited LPG,gas_payment,en
+Book gas from bharat petroleum company,gas_payment,en
+Get bharat company cylinder ,gas_payment,en
+Order gas from jyothi gas,gas_payment,en
+Order gas cylinder from jyoti gas,gas_payment,en
+Refill bharat petroleum corporation limited LPG ,gas_payment,en
+Refill bharat petroleum gas ,gas_payment,en
+hindustan petroleum gas booking,gas_payment,en
+Do h p c l gas booking,gas_payment,en
+Book indian oil corporation cylinder,gas_payment,en
+refill cylinder from b p c l,gas_payment,en
+Order b p c l gas company cylinder online,gas_payment,en
+Refill gas cylinder from h p company,gas_payment,en
+order h p gas cylinder,gas_payment,en
+Request bharat gas gas booking,gas_payment,en
+Refill h p gas cylinder,gas_payment,en
+Refill jyoti gas gas booking,gas_payment,en
+Acquire indane gas cylinder,gas_payment,en
+jyothi gas private limited gas booking,gas_payment,en
+Place order for indian gas gas,gas_payment,en
+Reserve hindustan petroleum corporation limited gas cylinder,gas_payment,en
+Book online jyoti gas gas,gas_payment,en
+Place order jyothi gas private limited cylinder,gas_payment,en
+Book h p c l LPG,gas_payment,en
+Order b p c l gas,gas_payment,en
+Book h p cylinder,gas_payment,en
+Refill hindustan petroleum corporation limited gas,gas_payment,en
+request a booking for indian gas gas,gas_payment,en
+reserve a indane gas cylinder,gas_payment,en
+I would like to reserve a bharat gas gas cylinder,gas_payment,en
+"I'd like to reserve an indane gas cylinder, please",gas_payment,en
+Can I order an h p c l gas cylinder for delivery?,gas_payment,en
+I want to book an bharat gas cylinder,gas_payment,en
+Please help me schedule a gas cylinder from h p gas,gas_payment,en
+I need to secure a gas cylinder from hindustan petroleum corporation limited,gas_payment,en
+How can I procure an jyothi gas private limited gas cylinder?,gas_payment,en
+I'm interested in reserving a gas cylinder with hindustan petroleum,gas_payment,en
+Let me know how I can book an hindustan petroleum corporation limited gas cylinder,gas_payment,en
+I wish to place a gas cylinder order with bharat gas,gas_payment,en
+Kindly assist me in booking an indane gas cylinder,gas_payment,en
+Pay piped gas bill,gas_payment,en
+Pay for gas,gas_payment,en
+Settle gas bill payment,gas_payment,en
+Compensate for gas usage,gas_payment,en
+piped gas payment,gas_payment,en
+Clear gas bill dues,gas_payment,en
+Make gas payment,gas_payment,en
+Pay gas bill,gas_payment,en
+Pay for gas bill,gas_payment,en
+Make payment to settle gas bill,gas_payment,en
+Make Payment for gas bill,gas_payment,en
+Make Payment for piped gas,gas_payment,en
+Use upi to Pay piped gas bill,gas_payment,en
+Pay using upi balance for gas ,gas_payment,en
+Settle gas payment using upi account,gas_payment,en
+Compensate for gas usage from upi balance,gas_payment,en
+Use upi for piped gas payment,gas_payment,en
+From upi account Clear gas bill dues,gas_payment,en
+Upi balance to Make gas payment,gas_payment,en
+Using upi Pay gas bill,gas_payment,en
+Pay for gas from upi,gas_payment,en
+Make payment to settle gas bill from upi,gas_payment,en
+Make Payment from upi balance for gas bill,gas_payment,en
+Make Payment for piped gas from upi account,gas_payment,en
+Pay assam gas gas bill,gas_payment,en
+Pay for assam gas company limited bill,gas_payment,en
+Settle gas bill payment from gujarat petronet,gas_payment,en
+Compensate for u c p g p l usage,gas_payment,en
+u c p g p l gas payment,gas_payment,en
+Clear gujarat state petronet bill ,gas_payment,en
+Make gas payment from adani piped gas company,gas_payment,en
+Pay adani total gas bill,gas_payment,en
+Pay for vadodara gas,gas_payment,en
+Make payment to settle adani gas,gas_payment,en
+Make Payment for indian oil piped gas gas company,gas_payment,en
+Make Payment for green gas gas company,gas_payment,en
+Use upi to Pay assam gas company limited company bill,gas_payment,en
+Pay using upi balance for torrent gas gas,gas_payment,en
+Settle purba bharti payment using upi account,gas_payment,en
+Compensate for adani total gas gas usage from upi balance,gas_payment,en
+Use upi for mahanagar gas gas payment,gas_payment,en
+From upi account Clear unique central piped gas dues,gas_payment,en
+Make payment to settle assam gas bill from upi,gas_payment,en
+ Payment from upi balance for central u p gas bill,gas_payment,en
+Make Payment for rajasthan state gas limited gas bill from upi account,gas_payment,en

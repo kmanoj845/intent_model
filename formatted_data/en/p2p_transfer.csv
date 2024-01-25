@@ -1,0 +1,577 @@
+sentence,intent,language
+Money transfer,p2p_transfer,en
+Transfer money,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money,p2p_transfer,en
+Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+Send money please,p2p_transfer,en
+Need to transfer funds,p2p_transfer,en
+Remit some money,p2p_transfer,en
+Send money electronically,p2p_transfer,en
+Wire money to account,p2p_transfer,en
+Want to use money transfer service,p2p_transfer,en
+I need to send some money,p2p_transfer,en
+want to transfer funds,p2p_transfer,en
+I'd like to send money,p2p_transfer,en
+planning to remit funds,p2p_transfer,en
+send some money,p2p_transfer,en
+I want to transfer funds,p2p_transfer,en
+I'd like to send money ,p2p_transfer,en
+remit funds,p2p_transfer,en
+Transfer some money,p2p_transfer,en
+transfer funds,p2p_transfer,en
+Funds need to be transferred ,p2p_transfer,en
+I intend to remit money ,p2p_transfer,en
+Transmitting funds is necessary,p2p_transfer,en
+I'm planning to forward money,p2p_transfer,en
+I need to wire funds,p2p_transfer,en
+Sending money,p2p_transfer,en
+Remitting funds,p2p_transfer,en
+Dispatch money,p2p_transfer,en
+I'm remitting funds,p2p_transfer,en
+I'm looking to transmit money,p2p_transfer,en
+Send money please,p2p_transfer,en
+Send money please from upi ,p2p_transfer,en
+Money transfer using  upi,p2p_transfer,en
+Transfer money from upi balance,p2p_transfer,en
+from upi balance Pay money to,p2p_transfer,en
+Pay money from upi account,p2p_transfer,en
+from upi account Make payment to,p2p_transfer,en
+Make payment using upi,p2p_transfer,en
+Want to pay from upi,p2p_transfer,en
+Wanted to make payment using upi,p2p_transfer,en
+Send money please from upi,p2p_transfer,en
+Need to transfer funds using upi,p2p_transfer,en
+I'd like to transfer some funds,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Funds to be transferred to to a mobile number,p2p_transfer,en
+I intend to remit money to a number,p2p_transfer,en
+to a mobile number Transmitting funds,p2p_transfer,en
+I'm planning to forward money to a mobile ,p2p_transfer,en
+I need to wire funds to to a mobile number,p2p_transfer,en
+Sending money a number,p2p_transfer,en
+Using upi make Money transfer,p2p_transfer,en
+Transfer money using upi balance,p2p_transfer,en
+I'd like to transfer some funds from upi account,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money from my upi balance,p2p_transfer,en
+Use upi to Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+please pay rupees two hundred via upi,p2p_transfer,en
+pay rupees thirty seven to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight seven double two on upi,p2p_transfer,en
+pay rupees thirty seven to nine nine eight eight seven seven six six seven seven,p2p_transfer,en
+send rupees seventeen using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+send rupees seventy using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+upi pay eight hundred rupees to triple nine triple eight six two double seven,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven eight eight seven double two,p2p_transfer,en
+make a fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi pay this number nine eight seven six five three four two five one one hundred five rupees,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two nine four,p2p_transfer,en
+upi transfer one hundred five two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi pay rupees ninety eight two six three six four seven eight seven two nine zero,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven triple eight seven double two,p2p_transfer,en
+initiate upi transfer of eight hundred rupees to nine eight double eight double eight double eight double eight,p2p_transfer,en
+make fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi transfer one zero five two six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees for my upi account,p2p_transfer,en
+can you please transfer one hundred rupees to bangalore water supply sewerage company,p2p_transfer,en
+pay fifty thousand forty two via upi,p2p_transfer,en
+pay rupees two hundred via upi,p2p_transfer,en
+pay thirty seven rupees two nine nine double eight double seven double six double seven,p2p_transfer,en
+send rupees seventy using upi on number six six nine eight seven seven six six two nine,p2p_transfer,en
+upi pay eight hundred rupees two nine nine nine eight eight eight six two seven seven,p2p_transfer,en
+pay thirty seven rupees two double nine double eight double seven double six double seven,p2p_transfer,en
+pay thirty seven rupees to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send rupees seventy using upi of this number six six nine eight double seven double six two nine,p2p_transfer,en
+send six hundred rupees using upi to this number six six two seven triple eight seven double two,p2p_transfer,en
+upi pay this number nine eight seven six five four three two one zero one hundred and five rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two ninety four,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two niney four,p2p_transfer,en
+upi pay this number nine eight seven six five four three two five one rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi transfer one hundred fifteen rupees,p2p_transfer,en
+upi transfer one one five rupees to six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees to my upi account,p2p_transfer,en
+sent five hundred rupees via upi,p2p_transfer,en
+Transfer six rupee using upi,p2p_transfer,en
+Use upi to Remit three rupee,p2p_transfer,en
+send three rupees from upi balance,p2p_transfer,en
+Need to transfer funds to ninety nine forty six eighty one thirty eighty,p2p_transfer,en
+Want to make payment to eighty zero four one five one five nine five,p2p_transfer,en
+Remit some money to sixty five twenty three seventy two twenty six thirteen use upi,p2p_transfer,en
+Send money to sixty two thirty nine seventy nine five thirteen,p2p_transfer,en
+Wire money to ninety five sixty one fifty four forty one seventy eight,p2p_transfer,en
+I want to use money transfer service to send money to eight thousand eight hundred thirty nine eight hundred eighty seven six hundred forty six,p2p_transfer,en
+Transfer rs three to nine thousand two hundred sixty seven nine hundred eighty four two hundred twenty two use upi account,p2p_transfer,en
+Remit four rupees to ninety five seven nine one four seven zero eight,p2p_transfer,en
+send rupees four to seventy two fifteen three eight eight three zero five,p2p_transfer,en
+Using upi balance Make payment of ruppes six to seventy three fifty twenty two sixty nine ninety eight,p2p_transfer,en
+rupes nine I need to send,p2p_transfer,en
+six ruppes transfer from upi account,p2p_transfer,en
+rs three send to number nine hundred sixty six hundred twenty six thirty five twenty six,p2p_transfer,en
+six rupees I am planning to remit number is ninety two five eighty seven twenty nine fifty five,p2p_transfer,en
+rupees four I want to transfer from upi balance,p2p_transfer,en
+six rupee I'd like to send to mobile sixty four thirty forty forty five ninety five,p2p_transfer,en
+ruppes two transfer to ninety four thousand five hundred forty five thirty seven thousand nine hundred ninety two,p2p_transfer,en
+rupee one transfer to ninety three seventy seven twenty five seven seven,p2p_transfer,en
+Transfer rupee three from account in citi retail,p2p_transfer,en
+Remit ruppes nine from savings account in ambazogai cooperative bank,p2p_transfer,en
+send ruppes seven from current account in bhartiya state bank,p2p_transfer,en
+Want to make payment from an account in mansing cooperative bank,p2p_transfer,en
+Remit some money from my current account in dausa urban cooperative bank,p2p_transfer,en
+Send money from my saving account in the karnavati co op bank limited,p2p_transfer,en
+Wire money from my savings account in indore cloth market cooperative bank,p2p_transfer,en
+I want to use money transfer service to send money from current account in suryoday small finance bank limited,p2p_transfer,en
+Money transfer,p2p_transfer,en
+Transfer money,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money,p2p_transfer,en
+Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+Send money please,p2p_transfer,en
+Need to transfer funds,p2p_transfer,en
+Remit some money,p2p_transfer,en
+Send money electronically,p2p_transfer,en
+Wire money to account,p2p_transfer,en
+Want to use money transfer service,p2p_transfer,en
+I need to send some money,p2p_transfer,en
+want to transfer funds,p2p_transfer,en
+I'd like to send money,p2p_transfer,en
+planning to remit funds,p2p_transfer,en
+send some money,p2p_transfer,en
+I want to transfer funds,p2p_transfer,en
+I'd like to send money ,p2p_transfer,en
+remit funds,p2p_transfer,en
+Transfer some money,p2p_transfer,en
+transfer funds,p2p_transfer,en
+Funds need to be transferred ,p2p_transfer,en
+I intend to remit money ,p2p_transfer,en
+Transmitting funds is necessary,p2p_transfer,en
+I'm planning to forward money,p2p_transfer,en
+I need to wire funds,p2p_transfer,en
+Sending money,p2p_transfer,en
+Remitting funds,p2p_transfer,en
+Dispatch money,p2p_transfer,en
+I'm remitting funds,p2p_transfer,en
+I'm looking to transmit money,p2p_transfer,en
+Send money please,p2p_transfer,en
+Send money please from upi ,p2p_transfer,en
+Money transfer using  upi,p2p_transfer,en
+Transfer money from upi balance,p2p_transfer,en
+from upi balance Pay money to,p2p_transfer,en
+Pay money from upi account,p2p_transfer,en
+from upi account Make payment to,p2p_transfer,en
+Make payment using upi,p2p_transfer,en
+Want to pay from upi,p2p_transfer,en
+Wanted to make payment using upi,p2p_transfer,en
+Send money please from upi,p2p_transfer,en
+Need to transfer funds using upi,p2p_transfer,en
+I'd like to transfer some funds,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Funds to be transferred to to a mobile number,p2p_transfer,en
+I intend to remit money to a number,p2p_transfer,en
+to a mobile number Transmitting funds,p2p_transfer,en
+I'm planning to forward money to a mobile ,p2p_transfer,en
+I need to wire funds to to a mobile number,p2p_transfer,en
+Sending money a number,p2p_transfer,en
+Using upi make Money transfer,p2p_transfer,en
+Transfer money using upi balance,p2p_transfer,en
+I'd like to transfer some funds from upi account,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money from my upi balance,p2p_transfer,en
+Use upi to Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+please pay rupees two hundred via upi,p2p_transfer,en
+pay rupees thirty seven to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight seven double two on upi,p2p_transfer,en
+pay rupees thirty seven to nine nine eight eight seven seven six six seven seven,p2p_transfer,en
+send rupees seventeen using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+send rupees seventy using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+upi pay eight hundred rupees to triple nine triple eight six two double seven,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven eight eight seven double two,p2p_transfer,en
+make a fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi pay this number nine eight seven six five three four two five one one hundred five rupees,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two nine four,p2p_transfer,en
+upi transfer one hundred five two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi pay rupees ninety eight two six three six four seven eight seven two nine zero,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven triple eight seven double two,p2p_transfer,en
+initiate upi transfer of eight hundred rupees to nine eight double eight double eight double eight double eight,p2p_transfer,en
+make fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi transfer one zero five two six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees for my upi account,p2p_transfer,en
+can you please transfer one hundred rupees to bangalore water supply sewerage company,p2p_transfer,en
+pay fifty thousand forty two via upi,p2p_transfer,en
+pay rupees two hundred via upi,p2p_transfer,en
+pay thirty seven rupees two nine nine double eight double seven double six double seven,p2p_transfer,en
+send rupees seventy using upi on number six six nine eight seven seven six six two nine,p2p_transfer,en
+upi pay eight hundred rupees two nine nine nine eight eight eight six two seven seven,p2p_transfer,en
+pay thirty seven rupees two double nine double eight double seven double six double seven,p2p_transfer,en
+pay thirty seven rupees to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send rupees seventy using upi of this number six six nine eight double seven double six two nine,p2p_transfer,en
+send six hundred rupees using upi to this number six six two seven triple eight seven double two,p2p_transfer,en
+upi pay this number nine eight seven six five four three two one zero one hundred and five rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two ninety four,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two niney four,p2p_transfer,en
+upi pay this number nine eight seven six five four three two five one rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi transfer one hundred fifteen rupees,p2p_transfer,en
+upi transfer one one five rupees to six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees to my upi account,p2p_transfer,en
+sent five hundred rupees via upi,p2p_transfer,en
+Transfer four ruppes using upi,p2p_transfer,en
+Use upi to Remit ruppes one,p2p_transfer,en
+send rupees two from upi balance,p2p_transfer,en
+Need to transfer funds to sixty four fifty seven eighteen seventy eight twenty one,p2p_transfer,en
+Want to make payment to sixty seven forty three twenty ninety two fifty,p2p_transfer,en
+Remit some money to seventy one seventy three ninety four seventy seven two six use upi,p2p_transfer,en
+Send money to seventy seven sixty six seventy nine forty two eighty five,p2p_transfer,en
+Wire money to ninety five sixty one one seven eight seven three five,p2p_transfer,en
+I want to use money transfer service to send money to seventy seven ten eighty four zero six eight,p2p_transfer,en
+Transfer ruppes eight to eight hundred forty eight eight ninety four ninety nine use upi account,p2p_transfer,en
+Remit rupees three to eighty sixty eight forty six nine three nine zero,p2p_transfer,en
+send nine rupes to sixty five seventy two thirty four forty six zero seven,p2p_transfer,en
+Using upi balance Make payment of five ruppes to eighty one twenty two twenty seven fifty six twenty three,p2p_transfer,en
+one rupee I need to send,p2p_transfer,en
+ruppes six transfer from upi account,p2p_transfer,en
+one rupes send to number eighty eight seventy twenty nine two seven six four,p2p_transfer,en
+three rs I am planning to remit number is sixty seven eighteen thirty five sixty nine zero seven,p2p_transfer,en
+four rs I want to transfer from upi balance,p2p_transfer,en
+four rs I'd like to send to mobile ninety seven twenty five five zero one one six,p2p_transfer,en
+ruppes one transfer to eighty one eighty two twenty two fifty four eighty eight,p2p_transfer,en
+rupee three transfer to ninety three seven nine six one two eight eight two,p2p_transfer,en
+Transfer seven rupes from account in ujjivan,p2p_transfer,en
+Remit ruppes one from savings account in kolhapur urban cooperative bank limited kolhapur,p2p_transfer,en
+send three rs from current account in kranthi cooperative urban bank limited,p2p_transfer,en
+Want to make payment from an account in jana bank,p2p_transfer,en
+Remit some money from my current account in urban co op bank dharangaon,p2p_transfer,en
+Send money from my saving account in shri mahalaxmi co op bank limited kolhapur,p2p_transfer,en
+Wire money from my savings account in pnb,p2p_transfer,en
+I want to use money transfer service to send money from current account in malviya urban cooperative bank,p2p_transfer,en
+Money transfer,p2p_transfer,en
+Transfer money,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money,p2p_transfer,en
+Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+Send money please,p2p_transfer,en
+Need to transfer funds,p2p_transfer,en
+Remit some money,p2p_transfer,en
+Send money electronically,p2p_transfer,en
+Wire money to account,p2p_transfer,en
+Want to use money transfer service,p2p_transfer,en
+I need to send some money,p2p_transfer,en
+want to transfer funds,p2p_transfer,en
+I'd like to send money,p2p_transfer,en
+planning to remit funds,p2p_transfer,en
+send some money,p2p_transfer,en
+I want to transfer funds,p2p_transfer,en
+I'd like to send money ,p2p_transfer,en
+remit funds,p2p_transfer,en
+Transfer some money,p2p_transfer,en
+transfer funds,p2p_transfer,en
+Funds need to be transferred ,p2p_transfer,en
+I intend to remit money ,p2p_transfer,en
+Transmitting funds is necessary,p2p_transfer,en
+I'm planning to forward money,p2p_transfer,en
+I need to wire funds,p2p_transfer,en
+Sending money,p2p_transfer,en
+Remitting funds,p2p_transfer,en
+Dispatch money,p2p_transfer,en
+I'm remitting funds,p2p_transfer,en
+I'm looking to transmit money,p2p_transfer,en
+Send money please,p2p_transfer,en
+Send money please from upi ,p2p_transfer,en
+Money transfer using  upi,p2p_transfer,en
+Transfer money from upi balance,p2p_transfer,en
+from upi balance Pay money to,p2p_transfer,en
+Pay money from upi account,p2p_transfer,en
+from upi account Make payment to,p2p_transfer,en
+Make payment using upi,p2p_transfer,en
+Want to pay from upi,p2p_transfer,en
+Wanted to make payment using upi,p2p_transfer,en
+Send money please from upi,p2p_transfer,en
+Need to transfer funds using upi,p2p_transfer,en
+I'd like to transfer some funds,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Funds to be transferred to to a mobile number,p2p_transfer,en
+I intend to remit money to a number,p2p_transfer,en
+to a mobile number Transmitting funds,p2p_transfer,en
+I'm planning to forward money to a mobile ,p2p_transfer,en
+I need to wire funds to to a mobile number,p2p_transfer,en
+Sending money a number,p2p_transfer,en
+Using upi make Money transfer,p2p_transfer,en
+Transfer money using upi balance,p2p_transfer,en
+I'd like to transfer some funds from upi account,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money from my upi balance,p2p_transfer,en
+Use upi to Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+please pay rupees two hundred via upi,p2p_transfer,en
+pay rupees thirty seven to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight seven double two on upi,p2p_transfer,en
+pay rupees thirty seven to nine nine eight eight seven seven six six seven seven,p2p_transfer,en
+send rupees seventeen using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+send rupees seventy using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+upi pay eight hundred rupees to triple nine triple eight six two double seven,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven eight eight seven double two,p2p_transfer,en
+make a fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi pay this number nine eight seven six five three four two five one one hundred five rupees,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two nine four,p2p_transfer,en
+upi transfer one hundred five two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi pay rupees ninety eight two six three six four seven eight seven two nine zero,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven triple eight seven double two,p2p_transfer,en
+initiate upi transfer of eight hundred rupees to nine eight double eight double eight double eight double eight,p2p_transfer,en
+make fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi transfer one zero five two six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees for my upi account,p2p_transfer,en
+can you please transfer one hundred rupees to bangalore water supply sewerage company,p2p_transfer,en
+pay fifty thousand forty two via upi,p2p_transfer,en
+pay rupees two hundred via upi,p2p_transfer,en
+pay thirty seven rupees two nine nine double eight double seven double six double seven,p2p_transfer,en
+send rupees seventy using upi on number six six nine eight seven seven six six two nine,p2p_transfer,en
+upi pay eight hundred rupees two nine nine nine eight eight eight six two seven seven,p2p_transfer,en
+pay thirty seven rupees two double nine double eight double seven double six double seven,p2p_transfer,en
+pay thirty seven rupees to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send rupees seventy using upi of this number six six nine eight double seven double six two nine,p2p_transfer,en
+send six hundred rupees using upi to this number six six two seven triple eight seven double two,p2p_transfer,en
+upi pay this number nine eight seven six five four three two one zero one hundred and five rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two ninety four,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two niney four,p2p_transfer,en
+upi pay this number nine eight seven six five four three two five one rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi transfer one hundred fifteen rupees,p2p_transfer,en
+upi transfer one one five rupees to six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees to my upi account,p2p_transfer,en
+sent five hundred rupees via upi,p2p_transfer,en
+Transfer rupees three using upi,p2p_transfer,en
+Use upi to Remit rupees three,p2p_transfer,en
+send ruppes eight from upi balance,p2p_transfer,en
+Need to transfer funds to eighty seven eighty six thirty four three zero zero two,p2p_transfer,en
+Want to make payment to seventy three twenty six eleven fifteen ninety nine,p2p_transfer,en
+Remit some money to six thousand five hundred eight six hundred ninety six five hundred fifteen use upi,p2p_transfer,en
+Send money to eighty four nineteen thirty six twenty seventy eight,p2p_transfer,en
+Wire money to ninety three seven six zero five five seven two,p2p_transfer,en
+I want to use money transfer service to send money to eighty seven three one five zero seven seven five four,p2p_transfer,en
+Transfer rupee eight to eighty two thousand one hundred eight ninety one thousand three hundred forty five use upi account,p2p_transfer,en
+Remit rupee three to seventy one eighty two fifty seventeen seventy two,p2p_transfer,en
+send rupes six to eighty two thirty five fifty seven thirty six eight five,p2p_transfer,en
+Using upi balance Make payment of four ruppes to nine thousand five hundred thirty six four hundred fifty nine six hundred seventeen,p2p_transfer,en
+three rupee I need to send,p2p_transfer,en
+six rupees transfer from upi account,p2p_transfer,en
+rs three send to number eight hundred forty nine six hundred eighty eighty eight fifty six,p2p_transfer,en
+rupes eight I am planning to remit number is seventy seven sixty one twenty seven six seven nine seven,p2p_transfer,en
+nine rupes I want to transfer from upi balance,p2p_transfer,en
+rupee four I'd like to send to mobile seventy five fourteen fifty one six nine six,p2p_transfer,en
+rupee five transfer to sixty three thousand eight hundred ninety six three thousand three hundred eighty seven,p2p_transfer,en
+four rupee transfer to ninety five thirty nine twenty one fifty eight eight eight,p2p_transfer,en
+Transfer seven rupees from account in c i t i retail,p2p_transfer,en
+Remit rs one from savings account in the mahaveer cooperative bank limited,p2p_transfer,en
+send six rupees from current account in karnataka state cooperative apex bank limited,p2p_transfer,en
+Want to make payment from an account in andhra pradesh mahesh cooperative bank,p2p_transfer,en
+Remit some money from my current account in n k g s b co op bank,p2p_transfer,en
+Send money from my saving account in n k g s b co op bank,p2p_transfer,en
+Wire money from my savings account in standard chartered bank,p2p_transfer,en
+I want to use money transfer service to send money from current account in kotak bank,p2p_transfer,en
+Money transfer,p2p_transfer,en
+Transfer money,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money,p2p_transfer,en
+Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+Send money please,p2p_transfer,en
+Need to transfer funds,p2p_transfer,en
+Remit some money,p2p_transfer,en
+Send money electronically,p2p_transfer,en
+Wire money to account,p2p_transfer,en
+Want to use money transfer service,p2p_transfer,en
+I need to send some money,p2p_transfer,en
+want to transfer funds,p2p_transfer,en
+I'd like to send money,p2p_transfer,en
+planning to remit funds,p2p_transfer,en
+send some money,p2p_transfer,en
+I want to transfer funds,p2p_transfer,en
+I'd like to send money ,p2p_transfer,en
+remit funds,p2p_transfer,en
+Transfer some money,p2p_transfer,en
+transfer funds,p2p_transfer,en
+Funds need to be transferred ,p2p_transfer,en
+I intend to remit money ,p2p_transfer,en
+Transmitting funds is necessary,p2p_transfer,en
+I'm planning to forward money,p2p_transfer,en
+I need to wire funds,p2p_transfer,en
+Sending money,p2p_transfer,en
+Remitting funds,p2p_transfer,en
+Dispatch money,p2p_transfer,en
+I'm remitting funds,p2p_transfer,en
+I'm looking to transmit money,p2p_transfer,en
+Send money please,p2p_transfer,en
+Send money please from upi ,p2p_transfer,en
+Money transfer using  upi,p2p_transfer,en
+Transfer money from upi balance,p2p_transfer,en
+from upi balance Pay money to,p2p_transfer,en
+Pay money from upi account,p2p_transfer,en
+from upi account Make payment to,p2p_transfer,en
+Make payment using upi,p2p_transfer,en
+Want to pay from upi,p2p_transfer,en
+Wanted to make payment using upi,p2p_transfer,en
+Send money please from upi,p2p_transfer,en
+Need to transfer funds using upi,p2p_transfer,en
+I'd like to transfer some funds,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Funds to be transferred to to a mobile number,p2p_transfer,en
+I intend to remit money to a number,p2p_transfer,en
+to a mobile number Transmitting funds,p2p_transfer,en
+I'm planning to forward money to a mobile ,p2p_transfer,en
+I need to wire funds to to a mobile number,p2p_transfer,en
+Sending money a number,p2p_transfer,en
+Using upi make Money transfer,p2p_transfer,en
+Transfer money using upi balance,p2p_transfer,en
+I'd like to transfer some funds from upi account,p2p_transfer,en
+need to send money to someone,p2p_transfer,en
+looking to remit some funds,p2p_transfer,en
+interested in sending money electronically,p2p_transfer,en
+I'm planning to wire some money to another account,p2p_transfer,en
+I'm thinking about sending money through you,p2p_transfer,en
+Pay money to,p2p_transfer,en
+Pay money from my upi balance,p2p_transfer,en
+Use upi to Make payment to,p2p_transfer,en
+Make payment,p2p_transfer,en
+Want to pay,p2p_transfer,en
+Wanted to make payment,p2p_transfer,en
+please pay rupees two hundred via upi,p2p_transfer,en
+pay rupees thirty seven to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight seven double two on upi,p2p_transfer,en
+pay rupees thirty seven to nine nine eight eight seven seven six six seven seven,p2p_transfer,en
+send rupees seventeen using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+send rupees seventy using upi of this number double six nine eight double seven double six two nine,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi,p2p_transfer,en
+upi pay eight hundred rupees to triple nine triple eight six two double seven,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven eight eight seven double two,p2p_transfer,en
+make a fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi pay this number nine eight seven six five three four two five one one hundred five rupees,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two nine four,p2p_transfer,en
+upi transfer one hundred five two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi pay rupees ninety eight two six three six four seven eight seven two nine zero,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send six hundred rupees using upi to this number double six two seven triple eight seven double two,p2p_transfer,en
+initiate upi transfer of eight hundred rupees to nine eight double eight double eight double eight double eight,p2p_transfer,en
+make fifty two rupees upi payment to six three six double four eight seven two nine zero,p2p_transfer,en
+upi transfer one zero five two six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees for my upi account,p2p_transfer,en
+can you please transfer one hundred rupees to bangalore water supply sewerage company,p2p_transfer,en
+pay fifty thousand forty two via upi,p2p_transfer,en
+pay rupees two hundred via upi,p2p_transfer,en
+pay thirty seven rupees two nine nine double eight double seven double six double seven,p2p_transfer,en
+send rupees seventy using upi on number six six nine eight seven seven six six two nine,p2p_transfer,en
+upi pay eight hundred rupees two nine nine nine eight eight eight six two seven seven,p2p_transfer,en
+pay thirty seven rupees two double nine double eight double seven double six double seven,p2p_transfer,en
+pay thirty seven rupees to double nine double eight double seven double six double seven,p2p_transfer,en
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi,p2p_transfer,en
+send rupees seventy using upi of this number six six nine eight double seven double six two nine,p2p_transfer,en
+send six hundred rupees using upi to this number six six two seven triple eight seven double two,p2p_transfer,en
+upi pay this number nine eight seven six five four three two one zero one hundred and five rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two ninety four,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two niney four,p2p_transfer,en
+upi pay this number nine eight seven six five four three two five one rupees,p2p_transfer,en
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero,p2p_transfer,en
+upi transfer one hundred fifteen rupees,p2p_transfer,en
+upi transfer one one five rupees to six three six four seven eight seven two nine zero,p2p_transfer,en
+can you please transfer one hundred rupees to my upi account,p2p_transfer,en
+sent five hundred rupees via upi,p2p_transfer,en
+Transfer rupees one using upi,p2p_transfer,en
+Use upi to Remit eight rupes,p2p_transfer,en
+send eight rupee from upi balance,p2p_transfer,en
+Need to transfer funds to ninety four zero six thirty three seventy six zero six,p2p_transfer,en
+Want to make payment to eighty six eighty six sixty six sixty sixteen,p2p_transfer,en
+Remit some money to nine hundred thirty two five hundred eight forty eight thirty three use upi,p2p_transfer,en
+Send money to eighty five twenty seven ninety six sixty six seven seven,p2p_transfer,en
+Wire money to nine thousand three hundred sixty three eight hundred one three hundred sixty five,p2p_transfer,en
+I want to use money transfer service to send money to ninety four eighty one one zero zero nine zero one,p2p_transfer,en
+Transfer rupees one to ninety six forty two zero one thirteen ninety three use upi account,p2p_transfer,en
+Remit six ruppes to eighty one fifty six twenty nine eight zero four two,p2p_transfer,en
+send seven ruppes to sixty twenty one twenty five ninety four eight zero,p2p_transfer,en
+Using upi balance Make payment of rupes eight to seven hundred sixty five eight hundred six twenty eight sixty,p2p_transfer,en
+rupes one I need to send,p2p_transfer,en
+rupee two transfer from upi account,p2p_transfer,en
+six ruppes send to number ninety eight eighty one thirty six twenty four four one,p2p_transfer,en
+six ruppes I am planning to remit number is eighty seven thousand forty eighty eight thousand three hundred sixty eight,p2p_transfer,en
+rupees six I want to transfer from upi balance,p2p_transfer,en
+rupes eight I'd like to send to mobile ninety two twenty four thirty four six one nine five,p2p_transfer,en
+rs one transfer to sixty one eighteen fifty five forty three seventy two,p2p_transfer,en
+rupees four transfer to nine thousand six hundred seventy three six one hundred twenty seven,p2p_transfer,en
+Transfer rs five from account in saurashtra cooperative bank limited ahmedabad,p2p_transfer,en
+Remit seven rupees from savings account in the maharashtra mantralaya and allied offices cooperative bank limited mumbai,p2p_transfer,en
+send three rupee from current account in karnataka state cooperative apex bank limited,p2p_transfer,en
+Want to make payment from an account in arvind sahakari bank,p2p_transfer,en
+Remit some money from my current account in andhra pradesh grameen vikas bank,p2p_transfer,en
+Send money from my saving account in n s d l payments bank,p2p_transfer,en
+Wire money from my savings account in punjab national bank,p2p_transfer,en
+I want to use money transfer service to send money from current account in poornawadi nagrik sahakari bank,p2p_transfer,en

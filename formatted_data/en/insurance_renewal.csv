@@ -1,0 +1,989 @@
+sentence,intent,language
+Pay for insurance installment,insurance_renewal,en
+Pay for insurance policy,insurance_renewal,en
+Renew insurance,insurance_renewal,en
+Make payment for insurance,insurance_renewal,en
+Make Payment for insurance policy,insurance_renewal,en
+Pay for lic,insurance_renewal,en
+Pay for lic policy installment,insurance_renewal,en
+Renew lic insurance,insurance_renewal,en
+Make payment for lic,insurance_renewal,en
+Pay for premium,insurance_renewal,en
+Make Payment for insurance premium,insurance_renewal,en
+Pay for lic premium,insurance_renewal,en
+Pay for lic insurance premium,insurance_renewal,en
+Pay for term insurance installment,insurance_renewal,en
+Pay for money back policy,insurance_renewal,en
+Pay for endowment policy installment,insurance_renewal,en
+Renew term insurance,insurance_renewal,en
+Make payment for money back insurance policy,insurance_renewal,en
+Make Payment for endowment insurance policy,insurance_renewal,en
+Pay for lic endowment,insurance_renewal,en
+Pay for lic money back policy,insurance_renewal,en
+renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan,insurance_renewal,en
+Making a payment to renew money back policy,insurance_renewal,en
+Paying for life insurance plan,insurance_renewal,en
+renew my LIC policy,insurance_renewal,en
+Renew policy please,insurance_renewal,en
+renew insurance plan,insurance_renewal,en
+Pay for lic installment,insurance_renewal,en
+Making payment for insurance premium,insurance_renewal,en
+paying for insurance premium,insurance_renewal,en
+Pay for lic endowment using upi,insurance_renewal,en
+Upi Payment for lic money back policy,insurance_renewal,en
+Upi Pay for term insurance installment,insurance_renewal,en
+Pay from upi money back policy,insurance_renewal,en
+Upi payment for endowment policy installment,insurance_renewal,en
+Renew term insurance through upi account,insurance_renewal,en
+Pay for ulip insurance installment,insurance_renewal,en
+Pay for ulip insurance policy,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip insurance,insurance_renewal,en
+Make Payment for ulip policy,insurance_renewal,en
+Pay for ulip,insurance_renewal,en
+Pay for ulip policy installment,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip,insurance_renewal,en
+Pay for ulip premium,insurance_renewal,en
+Make payment using upi balance for money back insurance policy,insurance_renewal,en
+Make Payment from upi balance for endowment insurance policy,insurance_renewal,en
+Use upi for renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan using upi,insurance_renewal,en
+Making a payment through upi account to renew money back policy,insurance_renewal,en
+Paying for life insurance plan using upi,insurance_renewal,en
+Use upi to renew my LIC policy,insurance_renewal,en
+Pay through upi to Renew policy please,insurance_renewal,en
+Upi payment to renew insurance plan,insurance_renewal,en
+Pay for lic installment from upi account,insurance_renewal,en
+Making payment for insurance premium using upi balance,insurance_renewal,en
+paying from upi for insurance premium,insurance_renewal,en
+Need to pay endowment plan premium,insurance_renewal,en
+Term policy premium payment pending,insurance_renewal,en
+Moneyback plan premium due soon. Pay from upi account,insurance_renewal,en
+Life policy premium needs payment,insurance_renewal,en
+"Renewing endowment policy, pay premium from upi balance",insurance_renewal,en
+Term plan premium payment required through upi,insurance_renewal,en
+Money back policy premium overdue,insurance_renewal,en
+Life plan premium needs attention,insurance_renewal,en
+Endowment plan premium payment pending,insurance_renewal,en
+Term policy premium due for renewal,insurance_renewal,en
+Moneyback plan premium payment overdue,insurance_renewal,en
+Life policy premium requires immediate payment,insurance_renewal,en
+"Renewing endowment policy, premium pending",insurance_renewal,en
+Term plan premium payment deadline approaching,insurance_renewal,en
+Money back policy premium payment required,insurance_renewal,en
+Life plan premium needs to be paid,insurance_renewal,en
+Endowment plan premium payment overdue,insurance_renewal,en
+Term policy premium payment pending renewal,insurance_renewal,en
+Moneyback plan premium due for payment,insurance_renewal,en
+Life policy premium requires prompt payment,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I would like to continue my life insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my life insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I would like to continue my insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I need to make a payment for my insurance premium,insurance_renewal,en
+I'd like to take care of my life insurance premium payment,insurance_renewal,en
+Can I pay for my insurance plan now?,insurance_renewal,en
+I want to submit my term policy payment,insurance_renewal,en
+"I'd like to pay my insurance premium, please",insurance_renewal,en
+I'm looking to pay my insurance premium today,insurance_renewal,en
+"I need to pay my insurance premium, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium?,insurance_renewal,en
+"I'm ready to pay my insurance installment, how can I do it?",insurance_renewal,en
+I need to renew my insurance policy,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I plan to renew my insurance policy,insurance_renewal,en
+I want to extend my insurance policy,insurance_renewal,en
+I am considering renewing my insurance policy,insurance_renewal,en
+I am looking to renew my insurance policy,insurance_renewal,en
+I wish to renew my insurance policy,insurance_renewal,en
+Make a payment for the LIC policy,insurance_renewal,en
+Help me in policy renewal,insurance_renewal,en
+Help needed in paying insurance premium,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay LIC premium?,insurance_renewal,en
+How much premium is to be paid for renewal?,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LIC installment is to be paid,insurance_renewal,en
+when is my policy due for renewal?,insurance_renewal,en
+I need to make a payment for my insurance plan,insurance_renewal,en
+I'd like to pay for my endowment plan premium,insurance_renewal,en
+Can I pay for my money back policy now?,insurance_renewal,en
+I want to submit my term plan payment,insurance_renewal,en
+"I want to pay insurance premium, please",insurance_renewal,en
+pay my insurance premium for the term plan,insurance_renewal,en
+pay insurance premium for the endowment policy,insurance_renewal,en
+Renew my term insurance,insurance_renewal,en
+"I need to pay lic premium of moneyback policy, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium of term policy?,insurance_renewal,en
+"ready to pay insurance installment, how can I do it?",insurance_renewal,en
+Paying for life insurance installment,insurance_renewal,en
+I need to renew my life insurance term policy,insurance_renewal,en
+Interested in renewing endowment insurance plan,insurance_renewal,en
+plan to renew moneyback insurance policy,insurance_renewal,en
+renewing money back insurance policy,insurance_renewal,en
+I want to extend term policy,insurance_renewal,en
+considering renewing my term plan,insurance_renewal,en
+I want renewal of my insurance policy,insurance_renewal,en
+I wish to renew life insurance policy,insurance_renewal,en
+Make a payment for the L I C instalment,insurance_renewal,en
+Help me in term policy renewal,insurance_renewal,en
+Help needed in paying premium for insurance plan,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay L I C premium?,insurance_renewal,en
+premium to be paid for renewal,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LI C installment is to be paid,insurance_renewal,en
+interested in renewing my endowment plan,insurance_renewal,en
+I would like to continue my term policy and renew it,insurance_renewal,en
+extend my moneyback plan by renewing it,insurance_renewal,en
+renewing my life policy to maintain my coverage,insurance_renewal,en
+renewal of my endowment policy to ensure my financial goals are met,insurance_renewal,en
+looking to renew my term plan for another term,insurance_renewal,en
+considering renewing my money back policy to receive periodic payouts,insurance_renewal,en
+go ahead and renew my life plan to protect my loved ones financially,insurance_renewal,en
+renewing my term policy to secure my family's future,insurance_renewal,en
+Renewal of my endowment policy and maximize my returns,insurance_renewal,en
+renew my moneyback plan and receive regular cashbacks,insurance_renewal,en
+continuing my life policy and renewing it for another term,insurance_renewal,en
+considering renewing my term plan to ensure my dependents are financially secure,insurance_renewal,en
+looking to renew my money back policy and avail of the guaranteed money back feature,insurance_renewal,en
+thinking about renewing my endowment plan to build my savings for the future,insurance_renewal,en
+go ahead and renew my term policy to protect my family from unforeseen events,insurance_renewal,en
+I'm actively exploring the option to renew my life plan and ensure my loved ones are financially protected,insurance_renewal,en
+renewing my moneyback policy and continue receiving periodic payouts,insurance_renewal,en
+Please renew my endowment policy to avail of the maturity benefit,insurance_renewal,en
+renew my term plan to maintain my coverage and financial security,insurance_renewal,en
+Renewing my term policy is a priority for me,insurance_renewal,en
+"Maintaining my life policy is important, so I plan to renew it",insurance_renewal,en
+"Protecting my loved ones financially is crucial, so I plan to renew my life plan",insurance_renewal,en
+exploring renewing my endowment policy,insurance_renewal,en
+Renewing my moneyback plan and receiving regular cashbacks is appealing,insurance_renewal,en
+Continuing my life policy and renewing it for another term is my plan,insurance_renewal,en
+Renewing my endowment plan to build savings for the future is on my mind,insurance_renewal,en
+"Ensuring my loved ones are financially protected is a priority, and I'm actively exploring renewing my life plan",insurance_renewal,en
+Renewing my moneyback policy and continuing to receive periodic payouts is appealing,insurance_renewal,en
+Availing the maturity benefit is a consideration for renewing my endowment policy,insurance_renewal,en
+"Maintaining my coverage and financial security is important, so I plan to renew my term plan",insurance_renewal,en
+Pay for insurance installment with mobile seventy five nine seven four three four eight four two,insurance_renewal,en
+Pay for insurance policy linked with phone eighty four seventy two eighteen sixty nine fifty,insurance_renewal,en
+Renew insurance for mobile number seventy seven eight one four three eight nine zero eight,insurance_renewal,en
+Make payment for insurance attached with eight thousand five hundred forty two five hundred fifty two nine hundred twenty one,insurance_renewal,en
+Make Payment for insurance policy for phone number eighty two ninety two fifteen fifty forty six,insurance_renewal,en
+Pay for lic with number eighty six zero eight zero two two one eight four,insurance_renewal,en
+Pay for lic policy installment for ninety six fifty seven fifty six eighty six zero nine,insurance_renewal,en
+renewing my endowment policy linked with seventy eight twenty six eight three two four five nine,insurance_renewal,en
+Please renew my life term plan attached with sixty seven thirteen sixty eighty six forty seven,insurance_renewal,en
+Making a payment to renew money back policy with this number eight hundred seventy five eight hundred twelve three twenty four,insurance_renewal,en
+Paying for life insurance plan for mobile ninety seven ninety five thirty eight three nine four six,insurance_renewal,en
+Pay for ulip installment with mobile eight thousand three hundred thirty one seven hundred six five,insurance_renewal,en
+Pay for ulip insurance policy linked with phone ninety three twenty forty eight three three two three,insurance_renewal,en
+Renew ulp for mobile number sixty six ninety five fifty seven twenty three twenty three,insurance_renewal,en
+Make payment for ulip  attached with seventy two thousand three hundred seventeen sixty three thousand seven hundred twenty four,insurance_renewal,en
+Make Payment for ulip insurance policy for phone number ninety four ninety three nineteen seventy eight sixty nine,insurance_renewal,en
+The insurance premium linked with seven thousand eight hundred ninety four four hundred eighty eight six hundred for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with eight thousand one hundred eighty three nine hundred sixty eight one hundred twelve,insurance_renewal,en
+The premium for my moneyback plan attached with seventy two forty one forty six seventy six sixty seven is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy attached with sixty six eighty seven eight three seven six three three,insurance_renewal,en
+The insurance premium for my endowment policy associated with ninety five four eight zero four nine four one nine is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan associated with seventy five eight four zero five six nine nine two,insurance_renewal,en
+The premium for my money back policy linked with seventy six forty four thirty five thirty four six nine needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium attached with sixty five thousand five hundred twenty four twenty six thousand eight hundred two,insurance_renewal,en
+The insurance premium linked with sixty one eighty eight zero five fourteen seventeen for my endowment plan is due,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with six hundred eight nine hundred twenty one thirty four seventy one,insurance_renewal,en
+The premium for my moneyback plan linked with eighty five sixty five ninety six thirty two sixty five needs to be paid on time,insurance_renewal,en
+I need to pay the premium for my life policy linked with sixty five two seventy four thirty four five one to maintain coverage,insurance_renewal,en
+The insurance premium for my endowment policy linked with sixty three eighty six thirty two fifty five eighty four is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan linked with ninety five five eight six eight three eight five nine to keep my policy active,insurance_renewal,en
+The premium for my money back policy linked with seventy nine thousand four hundred fifty one sixteen thousand twelve is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with eight hundred seventy eight nine hundred forty six sixty thirty five to ensure protection,insurance_renewal,en
+The insurance premium linked with eighty eight six six nine nine seven nine six zero for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with seventy seven ninety nine sixty six zero seven forty seven to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with seventy eight fifty eight two five nine two one needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with ninety seven eighty one twenty two twenty one eighty one to keep my policy in force,insurance_renewal,en
+Pay for hdfc life insurance installment,insurance_renewal,en
+Pay for icici insurance insurance policy,insurance_renewal,en
+Renew echo insurance,insurance_renewal,en
+Make payment for echo general insurance insurance,insurance_renewal,en
+Make Payment for acko general insurancepolicy,insurance_renewal,en
+Pay for icici prudential policy,insurance_renewal,en
+Payment for Life Insurance Corporation policy,insurance_renewal,en
+renewing my endowment policy from hdfc insurance,insurance_renewal,en
+Please renew my life term plan from hdfc insurance,insurance_renewal,en
+Making a payment to renew money back policy from Life Insurance Corporation,insurance_renewal,en
+Paying for life insurance plan from hdfc insurance,insurance_renewal,en
+Pay for icici prudential ulip policy,insurance_renewal,en
+Payment for max life ulip policy,insurance_renewal,en
+Paying for ulip life insurance plan from echo,insurance_renewal,en
+The ulip premium from lic for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium from hdfc insurance,insurance_renewal,en
+The premium for my moneyback plan from acko general insurance is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy of max life,insurance_renewal,en
+The echo insurance insurance premium for my endowment policy is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my hdfc life term plan,insurance_renewal,en
+The premium for my money back max life policy needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium from acko insurance,insurance_renewal,en
+The insurance premium from max life for my endowment plan is due,insurance_renewal,en
+The premium for my money back policy linked with icici pru is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with hdfc insurance to ensure protection,insurance_renewal,en
+The insurance premium linked with icici insurance for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with echo general insurance to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with max needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with echo to keep my policy in force,insurance_renewal,en
+Pay for insurance installment,insurance_renewal,en
+Pay for insurance policy,insurance_renewal,en
+Renew insurance,insurance_renewal,en
+Make payment for insurance,insurance_renewal,en
+Make Payment for insurance policy,insurance_renewal,en
+Pay for lic,insurance_renewal,en
+Pay for lic policy installment,insurance_renewal,en
+Renew lic insurance,insurance_renewal,en
+Make payment for lic,insurance_renewal,en
+Pay for premium,insurance_renewal,en
+Make Payment for insurance premium,insurance_renewal,en
+Pay for lic premium,insurance_renewal,en
+Pay for lic insurance premium,insurance_renewal,en
+Pay for term insurance installment,insurance_renewal,en
+Pay for money back policy,insurance_renewal,en
+Pay for endowment policy installment,insurance_renewal,en
+Renew term insurance,insurance_renewal,en
+Make payment for money back insurance policy,insurance_renewal,en
+Make Payment for endowment insurance policy,insurance_renewal,en
+Pay for lic endowment,insurance_renewal,en
+Pay for lic money back policy,insurance_renewal,en
+renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan,insurance_renewal,en
+Making a payment to renew money back policy,insurance_renewal,en
+Paying for life insurance plan,insurance_renewal,en
+renew my LIC policy,insurance_renewal,en
+Renew policy please,insurance_renewal,en
+renew insurance plan,insurance_renewal,en
+Pay for lic installment,insurance_renewal,en
+Making payment for insurance premium,insurance_renewal,en
+paying for insurance premium,insurance_renewal,en
+Pay for lic endowment using upi,insurance_renewal,en
+Upi Payment for lic money back policy,insurance_renewal,en
+Upi Pay for term insurance installment,insurance_renewal,en
+Pay from upi money back policy,insurance_renewal,en
+Upi payment for endowment policy installment,insurance_renewal,en
+Renew term insurance through upi account,insurance_renewal,en
+Pay for ulip insurance installment,insurance_renewal,en
+Pay for ulip insurance policy,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip insurance,insurance_renewal,en
+Make Payment for ulip policy,insurance_renewal,en
+Pay for ulip,insurance_renewal,en
+Pay for ulip policy installment,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip,insurance_renewal,en
+Pay for ulip premium,insurance_renewal,en
+Make payment using upi balance for money back insurance policy,insurance_renewal,en
+Make Payment from upi balance for endowment insurance policy,insurance_renewal,en
+Use upi for renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan using upi,insurance_renewal,en
+Making a payment through upi account to renew money back policy,insurance_renewal,en
+Paying for life insurance plan using upi,insurance_renewal,en
+Use upi to renew my LIC policy,insurance_renewal,en
+Pay through upi to Renew policy please,insurance_renewal,en
+Upi payment to renew insurance plan,insurance_renewal,en
+Pay for lic installment from upi account,insurance_renewal,en
+Making payment for insurance premium using upi balance,insurance_renewal,en
+paying from upi for insurance premium,insurance_renewal,en
+Need to pay endowment plan premium,insurance_renewal,en
+Term policy premium payment pending,insurance_renewal,en
+Moneyback plan premium due soon. Pay from upi account,insurance_renewal,en
+Life policy premium needs payment,insurance_renewal,en
+"Renewing endowment policy, pay premium from upi balance",insurance_renewal,en
+Term plan premium payment required through upi,insurance_renewal,en
+Money back policy premium overdue,insurance_renewal,en
+Life plan premium needs attention,insurance_renewal,en
+Endowment plan premium payment pending,insurance_renewal,en
+Term policy premium due for renewal,insurance_renewal,en
+Moneyback plan premium payment overdue,insurance_renewal,en
+Life policy premium requires immediate payment,insurance_renewal,en
+"Renewing endowment policy, premium pending",insurance_renewal,en
+Term plan premium payment deadline approaching,insurance_renewal,en
+Money back policy premium payment required,insurance_renewal,en
+Life plan premium needs to be paid,insurance_renewal,en
+Endowment plan premium payment overdue,insurance_renewal,en
+Term policy premium payment pending renewal,insurance_renewal,en
+Moneyback plan premium due for payment,insurance_renewal,en
+Life policy premium requires prompt payment,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I would like to continue my life insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my life insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I would like to continue my insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I need to make a payment for my insurance premium,insurance_renewal,en
+I'd like to take care of my life insurance premium payment,insurance_renewal,en
+Can I pay for my insurance plan now?,insurance_renewal,en
+I want to submit my term policy payment,insurance_renewal,en
+"I'd like to pay my insurance premium, please",insurance_renewal,en
+I'm looking to pay my insurance premium today,insurance_renewal,en
+"I need to pay my insurance premium, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium?,insurance_renewal,en
+"I'm ready to pay my insurance installment, how can I do it?",insurance_renewal,en
+I need to renew my insurance policy,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I plan to renew my insurance policy,insurance_renewal,en
+I want to extend my insurance policy,insurance_renewal,en
+I am considering renewing my insurance policy,insurance_renewal,en
+I am looking to renew my insurance policy,insurance_renewal,en
+I wish to renew my insurance policy,insurance_renewal,en
+Make a payment for the LIC policy,insurance_renewal,en
+Help me in policy renewal,insurance_renewal,en
+Help needed in paying insurance premium,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay LIC premium?,insurance_renewal,en
+How much premium is to be paid for renewal?,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LIC installment is to be paid,insurance_renewal,en
+when is my policy due for renewal?,insurance_renewal,en
+I need to make a payment for my insurance plan,insurance_renewal,en
+I'd like to pay for my endowment plan premium,insurance_renewal,en
+Can I pay for my money back policy now?,insurance_renewal,en
+I want to submit my term plan payment,insurance_renewal,en
+"I want to pay insurance premium, please",insurance_renewal,en
+pay my insurance premium for the term plan,insurance_renewal,en
+pay insurance premium for the endowment policy,insurance_renewal,en
+Renew my term insurance,insurance_renewal,en
+"I need to pay lic premium of moneyback policy, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium of term policy?,insurance_renewal,en
+"ready to pay insurance installment, how can I do it?",insurance_renewal,en
+Paying for life insurance installment,insurance_renewal,en
+I need to renew my life insurance term policy,insurance_renewal,en
+Interested in renewing endowment insurance plan,insurance_renewal,en
+plan to renew moneyback insurance policy,insurance_renewal,en
+renewing money back insurance policy,insurance_renewal,en
+I want to extend term policy,insurance_renewal,en
+considering renewing my term plan,insurance_renewal,en
+I want renewal of my insurance policy,insurance_renewal,en
+I wish to renew life insurance policy,insurance_renewal,en
+Make a payment for the L I C instalment,insurance_renewal,en
+Help me in term policy renewal,insurance_renewal,en
+Help needed in paying premium for insurance plan,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay L I C premium?,insurance_renewal,en
+premium to be paid for renewal,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LI C installment is to be paid,insurance_renewal,en
+interested in renewing my endowment plan,insurance_renewal,en
+I would like to continue my term policy and renew it,insurance_renewal,en
+extend my moneyback plan by renewing it,insurance_renewal,en
+renewing my life policy to maintain my coverage,insurance_renewal,en
+renewal of my endowment policy to ensure my financial goals are met,insurance_renewal,en
+looking to renew my term plan for another term,insurance_renewal,en
+considering renewing my money back policy to receive periodic payouts,insurance_renewal,en
+go ahead and renew my life plan to protect my loved ones financially,insurance_renewal,en
+renewing my term policy to secure my family's future,insurance_renewal,en
+Renewal of my endowment policy and maximize my returns,insurance_renewal,en
+renew my moneyback plan and receive regular cashbacks,insurance_renewal,en
+continuing my life policy and renewing it for another term,insurance_renewal,en
+considering renewing my term plan to ensure my dependents are financially secure,insurance_renewal,en
+looking to renew my money back policy and avail of the guaranteed money back feature,insurance_renewal,en
+thinking about renewing my endowment plan to build my savings for the future,insurance_renewal,en
+go ahead and renew my term policy to protect my family from unforeseen events,insurance_renewal,en
+I'm actively exploring the option to renew my life plan and ensure my loved ones are financially protected,insurance_renewal,en
+renewing my moneyback policy and continue receiving periodic payouts,insurance_renewal,en
+Please renew my endowment policy to avail of the maturity benefit,insurance_renewal,en
+renew my term plan to maintain my coverage and financial security,insurance_renewal,en
+Renewing my term policy is a priority for me,insurance_renewal,en
+"Maintaining my life policy is important, so I plan to renew it",insurance_renewal,en
+"Protecting my loved ones financially is crucial, so I plan to renew my life plan",insurance_renewal,en
+exploring renewing my endowment policy,insurance_renewal,en
+Renewing my moneyback plan and receiving regular cashbacks is appealing,insurance_renewal,en
+Continuing my life policy and renewing it for another term is my plan,insurance_renewal,en
+Renewing my endowment plan to build savings for the future is on my mind,insurance_renewal,en
+"Ensuring my loved ones are financially protected is a priority, and I'm actively exploring renewing my life plan",insurance_renewal,en
+Renewing my moneyback policy and continuing to receive periodic payouts is appealing,insurance_renewal,en
+Availing the maturity benefit is a consideration for renewing my endowment policy,insurance_renewal,en
+"Maintaining my coverage and financial security is important, so I plan to renew my term plan",insurance_renewal,en
+Pay for insurance installment with mobile sixty three six twelve thirty seven five one,insurance_renewal,en
+Pay for insurance policy linked with phone nine hundred twenty eight three hundred ninety eight two zero,insurance_renewal,en
+Renew insurance for mobile number ninety nine zero five fifty five zero three thirty four,insurance_renewal,en
+Make payment for insurance attached with sixty four twelve forty eight eighty five forty three,insurance_renewal,en
+Make Payment for insurance policy for phone number eighty four ninety three forty eighty twelve,insurance_renewal,en
+Pay for lic with number eighty two forty five sixty seven six two one five,insurance_renewal,en
+Pay for lic policy installment for ninety two ten forty one ninety nine sixty eight,insurance_renewal,en
+renewing my endowment policy linked with ninety two six zero five five four six four zero,insurance_renewal,en
+Please renew my life term plan attached with six hundred seventy eight seven hundred ninety one sixty eight thirty nine,insurance_renewal,en
+Making a payment to renew money back policy with this number sixty six ninety six twenty two eight zero zero four,insurance_renewal,en
+Paying for life insurance plan for mobile six thousand four hundred eighty six nine hundred twenty one nine hundred twenty eight,insurance_renewal,en
+Pay for ulip installment with mobile ninety five sixty two two eight four six five eight,insurance_renewal,en
+Pay for ulip insurance policy linked with phone ninety seven twenty seven twenty nine seven three six eight,insurance_renewal,en
+Renew ulp for mobile number eighty seven three five five five four three eight seven,insurance_renewal,en
+Make payment for ulip  attached with sixty seven fourteen nineteen ninety nine ninety two,insurance_renewal,en
+Make Payment for ulip insurance policy for phone number eighty five thousand six hundred ninety six eighty four thousand eight hundred seventy four,insurance_renewal,en
+The insurance premium linked with ninety eight twenty fifty nine eighty one seventeen for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with eighty one six nine four five four nine six five,insurance_renewal,en
+The premium for my moneyback plan attached with nine hundred eighty four two hundred thirty nine forty six seventy five is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy attached with seventy nine fourteen ninety seven sixty fifty two,insurance_renewal,en
+The insurance premium for my endowment policy associated with ninety seven ninety nine ten forty six seventy five is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan associated with seventy two fifty one nine five eight nine five four,insurance_renewal,en
+The premium for my money back policy linked with ninety eight zero eight thirty two eighty seven sixteen needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium attached with sixty four thousand seven hundred sixty fourteen thousand three hundred twenty six,insurance_renewal,en
+The insurance premium linked with seventy four forty eight thirty five ninety seven thirty three for my endowment plan is due,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with sixty seven thirty two eighty two two zero five six,insurance_renewal,en
+The premium for my moneyback plan linked with nine hundred nine nine hundred fifty five twenty five ten needs to be paid on time,insurance_renewal,en
+I need to pay the premium for my life policy linked with nine hundred thirty eight two hundred fifty four eighty three eighty three to maintain coverage,insurance_renewal,en
+The insurance premium for my endowment policy linked with eighty six thousand three hundred nine forty six thousand five hundred twenty six is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan linked with ninety seven ninety two fifty one forty eight eighty eight to keep my policy active,insurance_renewal,en
+The premium for my money back policy linked with eighty three thousand nine hundred forty six nine thousand three hundred eighty nine is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with sixty twenty five eight nine two three three four to ensure protection,insurance_renewal,en
+The insurance premium linked with nine hundred ninety eight hundred ninety five ninety six eighty four for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with eight thousand eighty seven one hundred forty six three hundred sixty one to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with ninety two nine fourteen five six nine zero needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with seventy five forty five fifty five fifty eight four eight to keep my policy in force,insurance_renewal,en
+Pay for hdfc insurance insurance installment,insurance_renewal,en
+Pay for echo insurance policy,insurance_renewal,en
+Renew max insurance,insurance_renewal,en
+Make payment for sbi life insurance,insurance_renewal,en
+Make Payment for icici prudentialpolicy,insurance_renewal,en
+Pay for icici insurance policy,insurance_renewal,en
+Payment for lic policy,insurance_renewal,en
+renewing my endowment policy from icici insurance,insurance_renewal,en
+Please renew my life term plan from acko insurance,insurance_renewal,en
+Making a payment to renew money back policy from acko general insurance,insurance_renewal,en
+Paying for life insurance plan from acko insurance,insurance_renewal,en
+Pay for max life ulip policy,insurance_renewal,en
+Payment for lic ulip policy,insurance_renewal,en
+Paying for ulip life insurance plan from sbi insurance,insurance_renewal,en
+The ulip premium from icici prudential for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium from acko,insurance_renewal,en
+The premium for my moneyback plan from hdfc life is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy of Life Insurance Corporation,insurance_renewal,en
+The icici insurance insurance premium for my endowment policy is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my icici prudential term plan,insurance_renewal,en
+The premium for my money back hdfc insurance policy needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium from icici insurance,insurance_renewal,en
+The insurance premium from echo insurance for my endowment plan is due,insurance_renewal,en
+The premium for my money back policy linked with Life Insurance Corporation is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with echo to ensure protection,insurance_renewal,en
+The insurance premium linked with echo insurance for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with max life to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with sbi insurance needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with sbi life to keep my policy in force,insurance_renewal,en
+Pay for insurance installment,insurance_renewal,en
+Pay for insurance policy,insurance_renewal,en
+Renew insurance,insurance_renewal,en
+Make payment for insurance,insurance_renewal,en
+Make Payment for insurance policy,insurance_renewal,en
+Pay for lic,insurance_renewal,en
+Pay for lic policy installment,insurance_renewal,en
+Renew lic insurance,insurance_renewal,en
+Make payment for lic,insurance_renewal,en
+Pay for premium,insurance_renewal,en
+Make Payment for insurance premium,insurance_renewal,en
+Pay for lic premium,insurance_renewal,en
+Pay for lic insurance premium,insurance_renewal,en
+Pay for term insurance installment,insurance_renewal,en
+Pay for money back policy,insurance_renewal,en
+Pay for endowment policy installment,insurance_renewal,en
+Renew term insurance,insurance_renewal,en
+Make payment for money back insurance policy,insurance_renewal,en
+Make Payment for endowment insurance policy,insurance_renewal,en
+Pay for lic endowment,insurance_renewal,en
+Pay for lic money back policy,insurance_renewal,en
+renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan,insurance_renewal,en
+Making a payment to renew money back policy,insurance_renewal,en
+Paying for life insurance plan,insurance_renewal,en
+renew my LIC policy,insurance_renewal,en
+Renew policy please,insurance_renewal,en
+renew insurance plan,insurance_renewal,en
+Pay for lic installment,insurance_renewal,en
+Making payment for insurance premium,insurance_renewal,en
+paying for insurance premium,insurance_renewal,en
+Pay for lic endowment using upi,insurance_renewal,en
+Upi Payment for lic money back policy,insurance_renewal,en
+Upi Pay for term insurance installment,insurance_renewal,en
+Pay from upi money back policy,insurance_renewal,en
+Upi payment for endowment policy installment,insurance_renewal,en
+Renew term insurance through upi account,insurance_renewal,en
+Pay for ulip insurance installment,insurance_renewal,en
+Pay for ulip insurance policy,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip insurance,insurance_renewal,en
+Make Payment for ulip policy,insurance_renewal,en
+Pay for ulip,insurance_renewal,en
+Pay for ulip policy installment,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip,insurance_renewal,en
+Pay for ulip premium,insurance_renewal,en
+Make payment using upi balance for money back insurance policy,insurance_renewal,en
+Make Payment from upi balance for endowment insurance policy,insurance_renewal,en
+Use upi for renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan using upi,insurance_renewal,en
+Making a payment through upi account to renew money back policy,insurance_renewal,en
+Paying for life insurance plan using upi,insurance_renewal,en
+Use upi to renew my LIC policy,insurance_renewal,en
+Pay through upi to Renew policy please,insurance_renewal,en
+Upi payment to renew insurance plan,insurance_renewal,en
+Pay for lic installment from upi account,insurance_renewal,en
+Making payment for insurance premium using upi balance,insurance_renewal,en
+paying from upi for insurance premium,insurance_renewal,en
+Need to pay endowment plan premium,insurance_renewal,en
+Term policy premium payment pending,insurance_renewal,en
+Moneyback plan premium due soon. Pay from upi account,insurance_renewal,en
+Life policy premium needs payment,insurance_renewal,en
+"Renewing endowment policy, pay premium from upi balance",insurance_renewal,en
+Term plan premium payment required through upi,insurance_renewal,en
+Money back policy premium overdue,insurance_renewal,en
+Life plan premium needs attention,insurance_renewal,en
+Endowment plan premium payment pending,insurance_renewal,en
+Term policy premium due for renewal,insurance_renewal,en
+Moneyback plan premium payment overdue,insurance_renewal,en
+Life policy premium requires immediate payment,insurance_renewal,en
+"Renewing endowment policy, premium pending",insurance_renewal,en
+Term plan premium payment deadline approaching,insurance_renewal,en
+Money back policy premium payment required,insurance_renewal,en
+Life plan premium needs to be paid,insurance_renewal,en
+Endowment plan premium payment overdue,insurance_renewal,en
+Term policy premium payment pending renewal,insurance_renewal,en
+Moneyback plan premium due for payment,insurance_renewal,en
+Life policy premium requires prompt payment,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I would like to continue my life insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my life insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I would like to continue my insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I need to make a payment for my insurance premium,insurance_renewal,en
+I'd like to take care of my life insurance premium payment,insurance_renewal,en
+Can I pay for my insurance plan now?,insurance_renewal,en
+I want to submit my term policy payment,insurance_renewal,en
+"I'd like to pay my insurance premium, please",insurance_renewal,en
+I'm looking to pay my insurance premium today,insurance_renewal,en
+"I need to pay my insurance premium, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium?,insurance_renewal,en
+"I'm ready to pay my insurance installment, how can I do it?",insurance_renewal,en
+I need to renew my insurance policy,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I plan to renew my insurance policy,insurance_renewal,en
+I want to extend my insurance policy,insurance_renewal,en
+I am considering renewing my insurance policy,insurance_renewal,en
+I am looking to renew my insurance policy,insurance_renewal,en
+I wish to renew my insurance policy,insurance_renewal,en
+Make a payment for the LIC policy,insurance_renewal,en
+Help me in policy renewal,insurance_renewal,en
+Help needed in paying insurance premium,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay LIC premium?,insurance_renewal,en
+How much premium is to be paid for renewal?,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LIC installment is to be paid,insurance_renewal,en
+when is my policy due for renewal?,insurance_renewal,en
+I need to make a payment for my insurance plan,insurance_renewal,en
+I'd like to pay for my endowment plan premium,insurance_renewal,en
+Can I pay for my money back policy now?,insurance_renewal,en
+I want to submit my term plan payment,insurance_renewal,en
+"I want to pay insurance premium, please",insurance_renewal,en
+pay my insurance premium for the term plan,insurance_renewal,en
+pay insurance premium for the endowment policy,insurance_renewal,en
+Renew my term insurance,insurance_renewal,en
+"I need to pay lic premium of moneyback policy, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium of term policy?,insurance_renewal,en
+"ready to pay insurance installment, how can I do it?",insurance_renewal,en
+Paying for life insurance installment,insurance_renewal,en
+I need to renew my life insurance term policy,insurance_renewal,en
+Interested in renewing endowment insurance plan,insurance_renewal,en
+plan to renew moneyback insurance policy,insurance_renewal,en
+renewing money back insurance policy,insurance_renewal,en
+I want to extend term policy,insurance_renewal,en
+considering renewing my term plan,insurance_renewal,en
+I want renewal of my insurance policy,insurance_renewal,en
+I wish to renew life insurance policy,insurance_renewal,en
+Make a payment for the L I C instalment,insurance_renewal,en
+Help me in term policy renewal,insurance_renewal,en
+Help needed in paying premium for insurance plan,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay L I C premium?,insurance_renewal,en
+premium to be paid for renewal,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LI C installment is to be paid,insurance_renewal,en
+interested in renewing my endowment plan,insurance_renewal,en
+I would like to continue my term policy and renew it,insurance_renewal,en
+extend my moneyback plan by renewing it,insurance_renewal,en
+renewing my life policy to maintain my coverage,insurance_renewal,en
+renewal of my endowment policy to ensure my financial goals are met,insurance_renewal,en
+looking to renew my term plan for another term,insurance_renewal,en
+considering renewing my money back policy to receive periodic payouts,insurance_renewal,en
+go ahead and renew my life plan to protect my loved ones financially,insurance_renewal,en
+renewing my term policy to secure my family's future,insurance_renewal,en
+Renewal of my endowment policy and maximize my returns,insurance_renewal,en
+renew my moneyback plan and receive regular cashbacks,insurance_renewal,en
+continuing my life policy and renewing it for another term,insurance_renewal,en
+considering renewing my term plan to ensure my dependents are financially secure,insurance_renewal,en
+looking to renew my money back policy and avail of the guaranteed money back feature,insurance_renewal,en
+thinking about renewing my endowment plan to build my savings for the future,insurance_renewal,en
+go ahead and renew my term policy to protect my family from unforeseen events,insurance_renewal,en
+I'm actively exploring the option to renew my life plan and ensure my loved ones are financially protected,insurance_renewal,en
+renewing my moneyback policy and continue receiving periodic payouts,insurance_renewal,en
+Please renew my endowment policy to avail of the maturity benefit,insurance_renewal,en
+renew my term plan to maintain my coverage and financial security,insurance_renewal,en
+Renewing my term policy is a priority for me,insurance_renewal,en
+"Maintaining my life policy is important, so I plan to renew it",insurance_renewal,en
+"Protecting my loved ones financially is crucial, so I plan to renew my life plan",insurance_renewal,en
+exploring renewing my endowment policy,insurance_renewal,en
+Renewing my moneyback plan and receiving regular cashbacks is appealing,insurance_renewal,en
+Continuing my life policy and renewing it for another term is my plan,insurance_renewal,en
+Renewing my endowment plan to build savings for the future is on my mind,insurance_renewal,en
+"Ensuring my loved ones are financially protected is a priority, and I'm actively exploring renewing my life plan",insurance_renewal,en
+Renewing my moneyback policy and continuing to receive periodic payouts is appealing,insurance_renewal,en
+Availing the maturity benefit is a consideration for renewing my endowment policy,insurance_renewal,en
+"Maintaining my coverage and financial security is important, so I plan to renew my term plan",insurance_renewal,en
+Pay for insurance installment with mobile eighty nine thirty three fifty eight five eight two,insurance_renewal,en
+Pay for insurance policy linked with phone ninety five seventy six zero four five seven eight three,insurance_renewal,en
+Renew insurance for mobile number eight hundred fifty seven two hundred thirty five twelve thirty nine,insurance_renewal,en
+Make payment for insurance attached with ninety four three thirty four fifty six zero seven,insurance_renewal,en
+Make Payment for insurance policy for phone number eighty nine thousand eight hundred sixty seven fifty eight thousand nine hundred eighty nine,insurance_renewal,en
+Pay for lic with number ninety five four one one nine nine nine five five,insurance_renewal,en
+Pay for lic policy installment for nine thousand three hundred forty four six hundred ninety seven eight hundred eighty two,insurance_renewal,en
+renewing my endowment policy linked with ninety four nine eight two six six nine six,insurance_renewal,en
+Please renew my life term plan attached with eighty eight seventy six seventy five sixty four thirty seven,insurance_renewal,en
+Making a payment to renew money back policy with this number sixty two fourteen twenty two forty eight thirty two,insurance_renewal,en
+Paying for life insurance plan for mobile seven thousand three hundred twenty six seven hundred sixty six seven hundred twenty five,insurance_renewal,en
+Pay for ulip installment with mobile seventy three four four nine two eight five two nine,insurance_renewal,en
+Pay for ulip insurance policy linked with phone sixty nine thousand six hundred sixty four thirty six thousand five hundred eighteen,insurance_renewal,en
+Renew ulp for mobile number ninety six forty six seventy seven zero zero zero three,insurance_renewal,en
+Make payment for ulip  attached with eighty seven thirty seven three one eight nine eight one,insurance_renewal,en
+Make Payment for ulip insurance policy for phone number eighty seven seventy seven twenty nine twenty two twenty two,insurance_renewal,en
+The insurance premium linked with eighty eight fifty two forty six twenty three nine for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with ninety nine seventy five ninety one seventy three zero eight,insurance_renewal,en
+The premium for my moneyback plan attached with sixty thousand one hundred eighty eight ninety one thousand six hundred fifteen is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy attached with seventy five thirty one ninety eight forty four four two,insurance_renewal,en
+The insurance premium for my endowment policy associated with seventy three thousand three hundred twenty four thirty seven thousand three hundred ninety four is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan associated with eighty three sixty one twenty five sixty nine zero nine,insurance_renewal,en
+The premium for my money back policy linked with eighty eight twenty two seventy three sixty four fifty nine needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium attached with ninety eight zero two twenty seven forty five eighty seven,insurance_renewal,en
+The insurance premium linked with seven thousand five hundred ninety eight hundred sixty two two hundred forty one for my endowment plan is due,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with eighty six fifty five twenty seven nine zero seven zero,insurance_renewal,en
+The premium for my moneyback plan linked with seventy three thousand five hundred fifty four seventy eight thousand thirteen needs to be paid on time,insurance_renewal,en
+I need to pay the premium for my life policy linked with six thousand four hundred sixty four six hundred ten nine hundred ninety seven to maintain coverage,insurance_renewal,en
+The insurance premium for my endowment policy linked with ninety three ninety fifty one one ninety four is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan linked with seventy five three eight sixty nine fifteen to keep my policy active,insurance_renewal,en
+The premium for my money back policy linked with seventy one seven one six zero zero two four is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with eighty six eighteen fifty eight fifty six twelve to ensure protection,insurance_renewal,en
+The insurance premium linked with eighty nine thirty four seven three seven six one eight for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with eighty eight seventy six four nine three seven one four to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with eighty eight thousand two hundred twenty three fifty three thousand one hundred seventy five needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with seventy twenty seven one one two one six to keep my policy in force,insurance_renewal,en
+Pay for hdfc life insurance installment,insurance_renewal,en
+Pay for sbi insurance insurance policy,insurance_renewal,en
+Renew lic insurance,insurance_renewal,en
+Make payment for max insurance,insurance_renewal,en
+Make Payment for sbi insurancepolicy,insurance_renewal,en
+Pay for icici pru policy,insurance_renewal,en
+Payment for echo insurance policy,insurance_renewal,en
+renewing my endowment policy from icici pru,insurance_renewal,en
+Please renew my life term plan from sbi insurance,insurance_renewal,en
+Making a payment to renew money back policy from echo general insurance,insurance_renewal,en
+Paying for life insurance plan from icici prudential,insurance_renewal,en
+Pay for icici prudential ulip policy,insurance_renewal,en
+Payment for icici pru ulip policy,insurance_renewal,en
+Paying for ulip life insurance plan from icici insurance,insurance_renewal,en
+The ulip premium from max life for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium from acko general insurance,insurance_renewal,en
+The premium for my moneyback plan from echo insurance is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy of hdfc life,insurance_renewal,en
+The icici pru insurance premium for my endowment policy is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my hdfc life term plan,insurance_renewal,en
+The premium for my money back lic policy needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium from acko,insurance_renewal,en
+The insurance premium from lic for my endowment plan is due,insurance_renewal,en
+The premium for my money back policy linked with echo insurance is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with sbi life to ensure protection,insurance_renewal,en
+The insurance premium linked with echo general insurance for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with acko to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with acko insurance needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with acko general insurance to keep my policy in force,insurance_renewal,en
+Pay for insurance installment,insurance_renewal,en
+Pay for insurance policy,insurance_renewal,en
+Renew insurance,insurance_renewal,en
+Make payment for insurance,insurance_renewal,en
+Make Payment for insurance policy,insurance_renewal,en
+Pay for lic,insurance_renewal,en
+Pay for lic policy installment,insurance_renewal,en
+Renew lic insurance,insurance_renewal,en
+Make payment for lic,insurance_renewal,en
+Pay for premium,insurance_renewal,en
+Make Payment for insurance premium,insurance_renewal,en
+Pay for lic premium,insurance_renewal,en
+Pay for lic insurance premium,insurance_renewal,en
+Pay for term insurance installment,insurance_renewal,en
+Pay for money back policy,insurance_renewal,en
+Pay for endowment policy installment,insurance_renewal,en
+Renew term insurance,insurance_renewal,en
+Make payment for money back insurance policy,insurance_renewal,en
+Make Payment for endowment insurance policy,insurance_renewal,en
+Pay for lic endowment,insurance_renewal,en
+Pay for lic money back policy,insurance_renewal,en
+renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan,insurance_renewal,en
+Making a payment to renew money back policy,insurance_renewal,en
+Paying for life insurance plan,insurance_renewal,en
+renew my LIC policy,insurance_renewal,en
+Renew policy please,insurance_renewal,en
+renew insurance plan,insurance_renewal,en
+Pay for lic installment,insurance_renewal,en
+Making payment for insurance premium,insurance_renewal,en
+paying for insurance premium,insurance_renewal,en
+Pay for lic endowment using upi,insurance_renewal,en
+Upi Payment for lic money back policy,insurance_renewal,en
+Upi Pay for term insurance installment,insurance_renewal,en
+Pay from upi money back policy,insurance_renewal,en
+Upi payment for endowment policy installment,insurance_renewal,en
+Renew term insurance through upi account,insurance_renewal,en
+Pay for ulip insurance installment,insurance_renewal,en
+Pay for ulip insurance policy,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip insurance,insurance_renewal,en
+Make Payment for ulip policy,insurance_renewal,en
+Pay for ulip,insurance_renewal,en
+Pay for ulip policy installment,insurance_renewal,en
+Renew ulip insurance,insurance_renewal,en
+Make payment for ulip,insurance_renewal,en
+Pay for ulip premium,insurance_renewal,en
+Make payment using upi balance for money back insurance policy,insurance_renewal,en
+Make Payment from upi balance for endowment insurance policy,insurance_renewal,en
+Use upi for renewing my endowment policy,insurance_renewal,en
+Please renew my life term plan using upi,insurance_renewal,en
+Making a payment through upi account to renew money back policy,insurance_renewal,en
+Paying for life insurance plan using upi,insurance_renewal,en
+Use upi to renew my LIC policy,insurance_renewal,en
+Pay through upi to Renew policy please,insurance_renewal,en
+Upi payment to renew insurance plan,insurance_renewal,en
+Pay for lic installment from upi account,insurance_renewal,en
+Making payment for insurance premium using upi balance,insurance_renewal,en
+paying from upi for insurance premium,insurance_renewal,en
+Need to pay endowment plan premium,insurance_renewal,en
+Term policy premium payment pending,insurance_renewal,en
+Moneyback plan premium due soon. Pay from upi account,insurance_renewal,en
+Life policy premium needs payment,insurance_renewal,en
+"Renewing endowment policy, pay premium from upi balance",insurance_renewal,en
+Term plan premium payment required through upi,insurance_renewal,en
+Money back policy premium overdue,insurance_renewal,en
+Life plan premium needs attention,insurance_renewal,en
+Endowment plan premium payment pending,insurance_renewal,en
+Term policy premium due for renewal,insurance_renewal,en
+Moneyback plan premium payment overdue,insurance_renewal,en
+Life policy premium requires immediate payment,insurance_renewal,en
+"Renewing endowment policy, premium pending",insurance_renewal,en
+Term plan premium payment deadline approaching,insurance_renewal,en
+Money back policy premium payment required,insurance_renewal,en
+Life plan premium needs to be paid,insurance_renewal,en
+Endowment plan premium payment overdue,insurance_renewal,en
+Term policy premium payment pending renewal,insurance_renewal,en
+Moneyback plan premium due for payment,insurance_renewal,en
+Life policy premium requires prompt payment,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I would like to continue my life insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my life insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I would like to continue my insurance coverage and renew my plan,insurance_renewal,en
+I intend to extend my insurance policy by renewing it,insurance_renewal,en
+planning on renewing my insurance policy to maintain my coverage,insurance_renewal,en
+renewing my insurance plan to ensure my protection,insurance_renewal,en
+looking to renew my insurance policy for another term,insurance_renewal,en
+renew my insurance plan to keep my coverage up-to-date,insurance_renewal,en
+I'm ready to go ahead and renew my insurance policy,insurance_renewal,en
+thinking about renewal of my insurance policy to safeguard my assets,insurance_renewal,en
+Want renewal of my insurance plan and maintain my peace of mind,insurance_renewal,en
+I need to make a payment for my insurance premium,insurance_renewal,en
+I'd like to take care of my life insurance premium payment,insurance_renewal,en
+Can I pay for my insurance plan now?,insurance_renewal,en
+I want to submit my term policy payment,insurance_renewal,en
+"I'd like to pay my insurance premium, please",insurance_renewal,en
+I'm looking to pay my insurance premium today,insurance_renewal,en
+"I need to pay my insurance premium, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium?,insurance_renewal,en
+"I'm ready to pay my insurance installment, how can I do it?",insurance_renewal,en
+I need to renew my insurance policy,insurance_renewal,en
+I'm interested in renewing my insurance policy,insurance_renewal,en
+I plan to renew my insurance policy,insurance_renewal,en
+I want to extend my insurance policy,insurance_renewal,en
+I am considering renewing my insurance policy,insurance_renewal,en
+I am looking to renew my insurance policy,insurance_renewal,en
+I wish to renew my insurance policy,insurance_renewal,en
+Make a payment for the LIC policy,insurance_renewal,en
+Help me in policy renewal,insurance_renewal,en
+Help needed in paying insurance premium,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay LIC premium?,insurance_renewal,en
+How much premium is to be paid for renewal?,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LIC installment is to be paid,insurance_renewal,en
+when is my policy due for renewal?,insurance_renewal,en
+I need to make a payment for my insurance plan,insurance_renewal,en
+I'd like to pay for my endowment plan premium,insurance_renewal,en
+Can I pay for my money back policy now?,insurance_renewal,en
+I want to submit my term plan payment,insurance_renewal,en
+"I want to pay insurance premium, please",insurance_renewal,en
+pay my insurance premium for the term plan,insurance_renewal,en
+pay insurance premium for the endowment policy,insurance_renewal,en
+Renew my term insurance,insurance_renewal,en
+"I need to pay lic premium of moneyback policy, can you help me?",insurance_renewal,en
+Can you assist me with paying my insurance premium of term policy?,insurance_renewal,en
+"ready to pay insurance installment, how can I do it?",insurance_renewal,en
+Paying for life insurance installment,insurance_renewal,en
+I need to renew my life insurance term policy,insurance_renewal,en
+Interested in renewing endowment insurance plan,insurance_renewal,en
+plan to renew moneyback insurance policy,insurance_renewal,en
+renewing money back insurance policy,insurance_renewal,en
+I want to extend term policy,insurance_renewal,en
+considering renewing my term plan,insurance_renewal,en
+I want renewal of my insurance policy,insurance_renewal,en
+I wish to renew life insurance policy,insurance_renewal,en
+Make a payment for the L I C instalment,insurance_renewal,en
+Help me in term policy renewal,insurance_renewal,en
+Help needed in paying premium for insurance plan,insurance_renewal,en
+premium payment to be done. Can you help?,insurance_renewal,en
+Can you help me pay L I C premium?,insurance_renewal,en
+premium to be paid for renewal,insurance_renewal,en
+Insurance installment to be paid,insurance_renewal,en
+LI C installment is to be paid,insurance_renewal,en
+interested in renewing my endowment plan,insurance_renewal,en
+I would like to continue my term policy and renew it,insurance_renewal,en
+extend my moneyback plan by renewing it,insurance_renewal,en
+renewing my life policy to maintain my coverage,insurance_renewal,en
+renewal of my endowment policy to ensure my financial goals are met,insurance_renewal,en
+looking to renew my term plan for another term,insurance_renewal,en
+considering renewing my money back policy to receive periodic payouts,insurance_renewal,en
+go ahead and renew my life plan to protect my loved ones financially,insurance_renewal,en
+renewing my term policy to secure my family's future,insurance_renewal,en
+Renewal of my endowment policy and maximize my returns,insurance_renewal,en
+renew my moneyback plan and receive regular cashbacks,insurance_renewal,en
+continuing my life policy and renewing it for another term,insurance_renewal,en
+considering renewing my term plan to ensure my dependents are financially secure,insurance_renewal,en
+looking to renew my money back policy and avail of the guaranteed money back feature,insurance_renewal,en
+thinking about renewing my endowment plan to build my savings for the future,insurance_renewal,en
+go ahead and renew my term policy to protect my family from unforeseen events,insurance_renewal,en
+I'm actively exploring the option to renew my life plan and ensure my loved ones are financially protected,insurance_renewal,en
+renewing my moneyback policy and continue receiving periodic payouts,insurance_renewal,en
+Please renew my endowment policy to avail of the maturity benefit,insurance_renewal,en
+renew my term plan to maintain my coverage and financial security,insurance_renewal,en
+Renewing my term policy is a priority for me,insurance_renewal,en
+"Maintaining my life policy is important, so I plan to renew it",insurance_renewal,en
+"Protecting my loved ones financially is crucial, so I plan to renew my life plan",insurance_renewal,en
+exploring renewing my endowment policy,insurance_renewal,en
+Renewing my moneyback plan and receiving regular cashbacks is appealing,insurance_renewal,en
+Continuing my life policy and renewing it for another term is my plan,insurance_renewal,en
+Renewing my endowment plan to build savings for the future is on my mind,insurance_renewal,en
+"Ensuring my loved ones are financially protected is a priority, and I'm actively exploring renewing my life plan",insurance_renewal,en
+Renewing my moneyback policy and continuing to receive periodic payouts is appealing,insurance_renewal,en
+Availing the maturity benefit is a consideration for renewing my endowment policy,insurance_renewal,en
+"Maintaining my coverage and financial security is important, so I plan to renew my term plan",insurance_renewal,en
+Pay for insurance installment with mobile nine hundred six three hundred six twenty two seventy five,insurance_renewal,en
+Pay for insurance policy linked with phone ninety five seventy one eighty three thirty five sixty five,insurance_renewal,en
+Renew insurance for mobile number seventy one sixty five thirty one seventy four zero zero,insurance_renewal,en
+Make payment for insurance attached with seventy three thousand six hundred twenty sixty six thousand eight hundred fifty four,insurance_renewal,en
+Make Payment for insurance policy for phone number eighty one ninety seven ninety five twelve four one,insurance_renewal,en
+Pay for lic with number ninety one eighty eight three thirty four three eight,insurance_renewal,en
+Pay for lic policy installment for seven hundred fifty one six hundred twenty eight forty nine twenty five,insurance_renewal,en
+renewing my endowment policy linked with seventy one thirty eight ninety five five three nine three,insurance_renewal,en
+Please renew my life term plan attached with eight hundred thirteen fifty eighty five fifty eight,insurance_renewal,en
+Making a payment to renew money back policy with this number six thousand nine hundred ninety six nine hundred seventy two eight hundred forty two,insurance_renewal,en
+Paying for life insurance plan for mobile ninety seven thirty nine ninety three eighty one ninety four,insurance_renewal,en
+Pay for ulip installment with mobile six thousand four hundred seventy seven nine hundred thirty four seven hundred four,insurance_renewal,en
+Pay for ulip insurance policy linked with phone sixty six eighty two eighty nine thirty nine zero six,insurance_renewal,en
+Renew ulp for mobile number nine thousand two hundred eighty fifty nine five hundred thirty seven,insurance_renewal,en
+Make payment for ulip  attached with ninety two ninety five zero zero fifty three fifty,insurance_renewal,en
+Make Payment for ulip insurance policy for phone number eight hundred two four hundred seventy seventeen ninety,insurance_renewal,en
+The insurance premium linked with eighty eight eighteen forty eight ninety fifty two for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with sixty two ninety eight thirty two twelve forty two,insurance_renewal,en
+The premium for my moneyback plan attached with ninety eight seventeen eighty three forty six nine seven is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy attached with eighty three five six five four three nine five,insurance_renewal,en
+The insurance premium for my endowment policy associated with six hundred thirty four thirty four ninety six ninety eight is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan associated with sixty sixty six eighty thirty six seven three,insurance_renewal,en
+The premium for my money back policy linked with seven hundred sixty nine three hundred ninety five twenty nine ninety one needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium attached with sixty five thousand five hundred seventy nine eighty seven thousand four hundred seventy two,insurance_renewal,en
+The insurance premium linked with sixty two sixty nine ninety five seventy nine sixty two for my endowment plan is due,insurance_renewal,en
+I'm looking to make the payment for my term policy premium linked with nine thousand six two hundred sixty two hundred twenty,insurance_renewal,en
+The premium for my moneyback plan linked with six hundred fifty four nine hundred twelve twenty two thirty five needs to be paid on time,insurance_renewal,en
+I need to pay the premium for my life policy linked with eighty eight seventy six twenty five one eight to maintain coverage,insurance_renewal,en
+The insurance premium for my endowment policy linked with eighty two eight nineteen twenty seven forty three is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my term plan linked with ninety eight thousand seven hundred forty five eighty two thousand twenty seven to keep my policy active,insurance_renewal,en
+The premium for my money back policy linked with eighty nine twenty sixty two thirty five ninety five is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with eighty five sixty seven one six seven two five zero to ensure protection,insurance_renewal,en
+The insurance premium linked with ninety nine forty eight four ten twenty two for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with seventy seventy six seven four seven one five three to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with ninety two sixty five forty forty nine one four needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with seventy three zero nine seven four one seven eight two to keep my policy in force,insurance_renewal,en
+Pay for icici pru insurance installment,insurance_renewal,en
+Pay for echo general insurance insurance policy,insurance_renewal,en
+Renew sbi life insurance,insurance_renewal,en
+Make payment for acko general insurance insurance,insurance_renewal,en
+Make Payment for licpolicy,insurance_renewal,en
+Pay for sbi insurance policy,insurance_renewal,en
+Payment for acko insurance policy,insurance_renewal,en
+renewing my endowment policy from icici pru,insurance_renewal,en
+Please renew my life term plan from acko general insurance,insurance_renewal,en
+Making a payment to renew money back policy from hdfc life,insurance_renewal,en
+Paying for life insurance plan from echo,insurance_renewal,en
+Pay for Life Insurance Corporation ulip policy,insurance_renewal,en
+Payment for icici insurance ulip policy,insurance_renewal,en
+Paying for ulip life insurance plan from echo general insurance,insurance_renewal,en
+The ulip premium from echo insurance for my needs to be paid,insurance_renewal,en
+I'm looking to make the payment for my term policy premium from max,insurance_renewal,en
+The premium for my moneyback plan from echo insurance is due for payment,insurance_renewal,en
+I need to pay the premium for my life policy of acko general insurance,insurance_renewal,en
+The acko insurance premium for my endowment policy is up for payment,insurance_renewal,en
+I'm planning to pay the premium for my hdfc life term plan,insurance_renewal,en
+The premium for my money back acko policy needs to be paid,insurance_renewal,en
+I'm intending to make the payment for my life plan premium from max life,insurance_renewal,en
+The insurance premium from sbi insurance for my endowment plan is due,insurance_renewal,en
+The premium for my money back policy linked with acko is due for payment,insurance_renewal,en
+I'm intending to make the payment for my life plan premium linked with icici pru to ensure protection,insurance_renewal,en
+The insurance premium linked with echo for my endowment plan is due for renewal,insurance_renewal,en
+I'm looking to make the payment for my term policy premium associated with hdfc insurance to maintain coverage,insurance_renewal,en
+The premium for my moneyback plan associated with max life needs to be paid promptly,insurance_renewal,en
+I need to pay the premium for my life policy associated with max life to keep my policy in force,insurance_renewal,en

@@ -1,0 +1,329 @@
+﻿# short sentences
+
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+It is <mobile_number>
+Mobile number is <mobile_number>
+Here it is <mobile_number>
+<mobile_number> it is
+Here you go <mobile_number>
+Sure. number is <mobile_number>
+Hang on. It is <mobile_number>
+Just a second. number is <mobile_number>
+It is <mobile_number>
+Mobile number is <mobile_number>
+Here it is <mobile_number>
+<mobile_number> it is
+Here you go <mobile_number>
+Sure. number is <mobile_number>
+Hang on. It is <mobile_number>
+Just a second. number is <mobile_number>
+
+
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+Amount is <amount_of_money>
+It will be <amount_of_money>
+It is <amount_of_money>
+Sure Amount is <amount_of_money>
+Amount is <amount_of_money>
+It will be <amount_of_money>
+It is <amount_of_money>
+Sure Amount is <amount_of_money>
+Amount is <amount_of_money>
+It will be <amount_of_money>
+It is <amount_of_money>
+Sure Amount is <amount_of_money>
+
+
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+Car number is <vehicle_number>
+bike number is <vehicle_number>
+Vehicle number is <vehicle_number>
+number is <vehicle_number>
+It is <vehicle_number>
+Sure It is <vehicle_number>
+Here it is <vehicle_number>
+There you go <vehicle_number>
+
+
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+Name of bank is <bank_name>
+Bank name is <bank_name>
+Account is in <bank_name>
+It is <bank_name>
+Name of bank is <bank_name>
+Bank name is <bank_name>
+Account is in <bank_name>
+It is <bank_name>
+Name of bank is <bank_name>
+Bank name is <bank_name>
+Account is in <bank_name>
+It is <bank_name>
+
+
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+It is <telephone_operator>
+Operator is <telephone_operator>
+Operator name is <telephone_operator>
+Name of phone company is <telephone_operator>
+Name of telephone company is <telephone_operator>
+company is <telephone_operator>
+Company name is <telephone_operator>
+Connection is from <telephone_operator>
+Mobile connection is <telephone_operator>
+
+
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+It is <pipe_gas_provider_name>
+Sure. it is <pipe_gas_provider_name>
+Company name is <pipe_gas_provider_name>
+Name of the gas company is <pipe_gas_provider_name>
+It is <pipe_gas_provider_name>
+Sure. it is <pipe_gas_provider_name>
+Company name is <pipe_gas_provider_name>
+Name of the gas company is <pipe_gas_provider_name>
+It is <pipe_gas_provider_name>
+Sure. it is <pipe_gas_provider_name>
+Company name is <pipe_gas_provider_name>
+Name of the gas company is <pipe_gas_provider_name>
+
+
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+It is <lpg_gas_provider_name>
+Sure. it is <lpg_gas_provider_name>
+Company name is <lpg_gas_provider_name>
+Name of the gas company is <lpg_gas_provider_name>
+It is <lpg_gas_provider_name>
+Sure. it is <lpg_gas_provider_name>
+Company name is <lpg_gas_provider_name>
+Name of the gas company is <lpg_gas_provider_name>
+It is <lpg_gas_provider_name>
+It is <lpg_gas_provider_name> gas company
+Sure. it is <lpg_gas_provider_name>
+Company name is <lpg_gas_provider_name>
+Name of the gas company is <lpg_gas_provider_name>
+Company is <lpg_gas_provider_name>
+Company is <lpg_gas_provider_name>
+Company is <lpg_gas_provider_name>
+
+
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+It is <electricity_board>
+Sure. it is <electricity_board>
+Company name is <electricity_board>
+Name of the electricity company is <electricity_board>
+It is <electricity_board>
+Sure. it is <electricity_board>
+Company name is <electricity_board>
+Name of the electricity company is <electricity_board>
+It is <electricity_board>
+It is <electricity_board> company
+It is <electricity_board> company
+Sure. it is <electricity_board>
+Company name is <electricity_board>
+Company is <electricity_board>
+Company is <electricity_board>
+Company is <electricity_board>
+Name of the electricity company is <electricity_board>
+
+
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+It is <state_name>
+State name is <state_name>
+Name of state is <state_name>
+It is <state_name>
+State name is <state_name>
+Name of state is <state_name>
+
+
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+Account number is <bank_account_number>
+Bank account number is <bank_account_number>
+It is <bank_account_number>
+Here is the number <bank_account_number>
+Here is account number <bank_account_number>
+Account number is <bank_account_number>
+Bank account number is <bank_account_number>
+It is <bank_account_number>
+Here is the number <bank_account_number>
+Here is account number <bank_account_number>
+Account number is <bank_account_number>
+Bank account number is <bank_account_number>
+It is <bank_account_number>
+Here is the number <bank_account_number>
+Here is account number <bank_account_number>
+
+
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+Name of company is <insurance_policy_issuer>
+company name is <insurance_policy_issuer>
+It is <insurance_policy_issuer>
+Here It is <insurance_policy_issuer>
+<insurance_policy_issuer> company
+company is <insurance_policy_issuer>
+
+
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+sure it is <loan_account_number>
+there you go <loan_account_number>
+It is <loan_account_number>
+Here It is <loan_account_number>
+<loan_account_number> it is
+number is <loan_account_number>
+
+
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+sure it is <policy_number>
+there you go <policy_number>
+It is <policy_number>
+Here It is <policy_number>
+<policy_number> it is
+number is <policy_number>
+
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+It is <consumer_number>
+Here it is <consumer_number>
+Here you go <consumer_number>
+There you go <consumer_number>
+<consumer_number> it is
+
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+It is <bu_number_for_electricity>
+Here it is <bu_number_for_electricity>
+Here you go <bu_number_for_electricity>
+There you go <bu_number_for_electricity>
+<bu_number_for_electricity> it is

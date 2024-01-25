@@ -1,0 +1,164 @@
+﻿# short sentences
+
+gas booking
+cylinder booking
+want to do gas booking
+i want to do gas booking
+i want to do gas booking
+payment of gas
+payment for gas
+gas payment
+
+
+
+Reserve LPG.
+Book gas .
+Get cylinder .
+Order gas .
+Order gas cylinder.
+Refill LPG .
+Refill gas .
+gas booking.
+Do gas booking
+Book cylinder
+refill cylinder
+Refill lpg cylinder
+Book lpg cylinder
+"Order gas cylinder online."
+"Refill gas cylinder delivery."
+"Book gas refill."
+"Request gas cylinder delivery."
+"Order home gas cylinder."
+"Book gas cylinder."
+"Arrange gas cylinder delivery."
+"Assist with cylinder booking."
+"Place gas cylinder order."
+"I need an LPG cylinder."
+"order a gas cylinder."
+"reserve a cylinder of gas."
+book a gas cylinder.
+Refill a gas cylinder for me.
+"Book cylinder of gas."
+
+
+# medium length sentences
+
+
+"I would like to place an order for a gas cylinder."
+"Can I schedule a gas cylinder delivery?"
+"I need to book a gas refill for my cooking gas."
+"I want to order a gas cylinder for my home."
+"I need to arrange for a gas cylinder delivery at my residence."
+"Can you assist me with booking a gas cylinder refill?"
+"I'm looking to place an order for a gas cylinder for my kitchen."
+"requesting to book an LPG cylinder."
+"I need to arrange for a gas cylinder booking."
+"looking to get LPG cylinder refill."
+"Make booking for an LPG cylinder refill."
+
+
+# short sentences with <lpg_gas_provider_name>
+Reserve <lpg_gas_provider_name> LPG.
+Book gas from <lpg_gas_provider_name> company.
+Get <lpg_gas_provider_name> company cylinder .
+Order gas from <lpg_gas_provider_name>.
+Order gas cylinder from <lpg_gas_provider_name>.
+Refill <lpg_gas_provider_name> LPG .
+Refill <lpg_gas_provider_name> gas .
+<lpg_gas_provider_name> gas booking.
+Do <lpg_gas_provider_name> gas booking
+Book <lpg_gas_provider_name> cylinder
+refill cylinder from <lpg_gas_provider_name>
+"Order <lpg_gas_provider_name> gas company cylinder online."
+"Refill gas cylinder from <lpg_gas_provider_name> company."
+"order <lpg_gas_provider_name> gas cylinder."
+"Request <lpg_gas_provider_name> gas booking."
+"Refill <lpg_gas_provider_name> gas cylinder."
+"Refill <lpg_gas_provider_name> gas booking."
+"Acquire <lpg_gas_provider_name> gas cylinder."
+"<lpg_gas_provider_name> gas booking."
+"Place order for <lpg_gas_provider_name> gas."
+"Reserve <lpg_gas_provider_name> gas cylinder."
+Book online <lpg_gas_provider_name> gas.
+Place order <lpg_gas_provider_name> cylinder.
+Book <lpg_gas_provider_name> LPG.
+Order <lpg_gas_provider_name> gas.
+Book <lpg_gas_provider_name> cylinder.
+Refill <lpg_gas_provider_name> gas.
+
+
+# medium length sentences with <lpg_gas_provider_name>
+
+
+"request a booking for <lpg_gas_provider_name> gas."
+"reserve a <lpg_gas_provider_name> gas cylinder."
+"I would like to reserve a <lpg_gas_provider_name> gas cylinder."
+I'd like to reserve an <lpg_gas_provider_name> gas cylinder, please.
+Can I order an <lpg_gas_provider_name> gas cylinder for delivery?
+I want to book an <lpg_gas_provider_name> gas cylinder.
+Please help me schedule a gas cylinder from <lpg_gas_provider_name>.
+I need to secure a gas cylinder from <lpg_gas_provider_name>.
+How can I procure an <lpg_gas_provider_name> gas cylinder?
+I'm interested in reserving a gas cylinder with <lpg_gas_provider_name>.
+Let me know how I can book an <lpg_gas_provider_name> gas cylinder.
+I wish to place a gas cylinder order with <lpg_gas_provider_name>.
+Kindly assist me in booking an <lpg_gas_provider_name> gas cylinder.
+
+
+# short sentences for piped gas bill payment
+
+
+"Pay piped gas bill."
+"Pay for gas."
+"Settle gas bill payment."
+"Compensate for gas usage."
+piped gas payment."
+"Clear gas bill dues."
+"Make gas payment."
+"Pay gas bill."
+Pay for gas bill
+Make payment to settle gas bill
+"Make Payment for gas bill."
+"Make Payment for piped gas."
+
+
+"Use upi to Pay piped gas bill."
+"Pay using upi balance for gas ."
+"Settle gas payment using upi account."
+"Compensate for gas usage from upi balance."
+Use upi for piped gas payment."
+"From upi account Clear gas bill dues."
+"Upi balance to Make gas payment."
+"Using upi Pay gas bill."
+Pay for gas from upi
+Make payment to settle gas bill from upi
+"Make Payment from upi balance for gas bill."
+"Make Payment for piped gas from upi account."
+
+
+# short sentences for piped gas bill payment with <pipe_gas_provider_name>
+
+
+"Pay <pipe_gas_provider_name> gas bill."
+"Pay for <pipe_gas_provider_name> bill."
+"Settle gas bill payment from <pipe_gas_provider_name>."
+"Compensate for <pipe_gas_provider_name> usage."
+<pipe_gas_provider_name> gas payment."
+"Clear <pipe_gas_provider_name> bill ."
+"Make gas payment from <pipe_gas_provider_name> company."
+"Pay <pipe_gas_provider_name> bill."
+Pay for <pipe_gas_provider_name> 
+Make payment to settle <pipe_gas_provider_name> 
+"Make Payment for <pipe_gas_provider_name> gas company."
+"Make Payment for <pipe_gas_provider_name> gas company."
+
+
+"Use upi to Pay <pipe_gas_provider_name> company bill."
+"Pay using upi balance for <pipe_gas_provider_name> gas."
+"Settle <pipe_gas_provider_name> payment using upi account."
+"Compensate for <pipe_gas_provider_name> gas usage from upi balance."
+Use upi for <pipe_gas_provider_name> gas payment."
+"From upi account Clear <pipe_gas_provider_name> dues."
+Make payment to settle <pipe_gas_provider_name> bill from upi
+" Payment from upi balance for <pipe_gas_provider_name> bill."
+"Make Payment for <pipe_gas_provider_name> gas bill from upi account."

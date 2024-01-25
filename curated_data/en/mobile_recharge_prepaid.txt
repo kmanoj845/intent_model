@@ -1,0 +1,147 @@
+# short sentences
+
+add talk time
+add talk time to my phone
+want to add talk time to mobile 
+add talk time to phone number
+i want to mobile recharge
+want to recharge mobile
+want to recharge mobile phone
+want to recharge phone
+do mobile recharge
+do phone recharge
+do mobile phone recharge
+Phone recharge
+Mobile recharge
+Recharge mobile
+Recharge phone
+Recharge my mobile
+Recharge my phone number
+Mobile phone recharge
+Recharge mobile phone
+can you please recharge my phone
+please recharge my mobile phone
+can you recharge my mobile
+recharge the number I am calling from
+add unlimited pack to my mobile
+topup my mobile
+help me add a data pack
+recharge this phone
+quickly topup this mobile phone
+help me recharge this number urgently
+this number is to be recharged
+recharge this mobile
+Need phone recharge ASAP.
+Low balance, recharge now.
+Running low, phone recharge needed.
+Recharge mobile for data.
+Phone needs recharge now.
+Want to stay connected, recharge phone.
+Top up prepaid phone.
+Refill mobile phone credit
+Top-up prepaid connection.
+Add balance to phone.
+Top up my phone with unlimited pack.
+Refill phone with data pack.
+Top up mobile with internet pack.
+Refill mobile credit now.
+Top-up prepaid phone now.
+
+Use upi for Phone recharge
+Mobile recharge using upi balance
+Pay from upi to Recharge mobile
+Recharge phone using upi account
+Mobile phone recharge from upi balance
+Use upi to Recharge mobile phone 
+can you please recharge my phone
+please recharge my mobile phone
+can you recharge my mobile from upi account
+recharge the number I am calling from
+Using upi add unlimited pack to my mobile
+topup my mobile from upi account
+from upi account help me add a data pack
+
+# medium length sentences with <amount_of_money> / <telephone_operator>
+
+recharge my phone with <amount_of_money>
+add <amount_of_money> to my <telephone_operator> phone
+quickly recharge the number I am calling from
+need your help in recharging this number. add <amount_of_money>
+add <amount_of_money> to this number. 
+Recharge with internet wala pack of <amount_of_money>
+do me a favor. topup this <telephone_operator> number with <amount_of_money>
+topup my number with data pack of <amount_of_money>
+add <amount_of_money> talk time
+add <amount_of_money> talk time to my phone
+want to add <amount_of_money> talk time to mobile 
+add talk time of <amount_of_money> to phone number
+I want to add talk time of <amount_of_money> to mobilenumber
+
+Top up <telephone_operator> mobile.
+Recharge <telephone_operator> mobile phone urgently.
+Want to recharge <telephone_operator> phone
+I need to recharge my <telephone_operator> phone as my balance is running low.
+My <telephone_operator> phone needs a recharge to ensure I can stay connected.
+I want to top up my <telephone_operator> phone to make sure I have enough credit for calls and data.
+It's time to recharge my <telephone_operator> phone so I can continue using its services.
+I'm planning to recharge my <telephone_operator> phone to avoid any interruptions in communication.
+I need to add credit to my <telephone_operator> phone to keep it active.
+I'm running low on balance on my <telephone_operator> phone, so I need to recharge it soon.
+I want to refill my <telephone_operator> phone so I can make calls and browse the internet without any issues.
+My <telephone_operator> phone needs a recharge to keep it functional and accessible.
+I'm looking to top up my <telephone_operator> phone so I can stay connected with my friends and family.
+Recharge prepaid phone with <amount_of_money>.
+Refill <amount_of_money> in mobile credit.
+Recharge mobile phone with <amount_of_money>.
+Recharge mobile with <amount_of_money>.
+Recharge phone with <amount_of_money>.
+Top up mobile with <amount_of_money>.
+Add <amount_of_money> in prepaid phone.
+Pay <amount_of_money> to top up my mobile
+Make payment of <amount_of_money> to recharge mobile <mobile_number>
+Make payment of <amount_of_money> to recharge <telephone_operator> mobile phone
+pay <amount_of_money> to recharge <telephone_operator> mobile phone
+
+
+Recharge mobile phone and add <amount_of_money>.
+Top up phone with unlimited pack of <amount_of_money>
+Topup this mobile <mobile_number>
+recharge this phone <mobile_number>
+
+
+Get an unlimited pack of <amount_of_money> for my phone.
+Recharge mobile with <amount_of_money> wala unlimited pack.
+Recharge <telephone_operator> phone with pack of <amount_of_money>.
+Add a data pack to <telephone_operator> number <mobile_number>.
+<amount_of_money> wala unlimited pack needed for mobile phone.
+<amount_of_money> recharge wanted for mobile <mobile_number>.
+Get <amount_of_money> ka internet pack for prepaid phone.
+My <telephone_operator> phone number is <mobile_number>. Add <amount_of_money> pack.
+Recharge <mobile_number> with <amount_of_money>.
+Top up <mobile_number> balance.
+Refill <mobile_number> talk time.
+Replenish <mobile_number> with <amount_of_money>.
+Add funds to <mobile_number>.
+Recharge <mobile_number> now.
+Refill <mobile_number> balance immediately.
+Top up <mobile_number> with pack of <amount_of_money> .
+Add <amount_of_money> to <mobile_number> balance.
+
+
+
+
+Recharge <telephone_operator>  number <mobile_number> 
+<telephone_operator> Mobile recharge <amount_of_money>
+Pay to recharge number <mobile_number>
+Make payment to recharge <telephone_operator> phone
+<telephone_operator> Mobile phone recharge
+Recharge <telephone_operator> phone number <mobile_number> 
+
+
+Use upi for <telephone_operator> recharge number <mobile_number> 
+<telephone_operator> phone recharge using upi balance
+Pay from upi to Recharge mobile <mobile_number> 
+Recharge <mobile_number> phone using upi account
+<mobile_number> Mobile phone recharge from upi balance
+Use upi to Recharge <telephone_operator> mobile phone 
+can you recharge my <telephone_operator> number <mobile_number> from upi account

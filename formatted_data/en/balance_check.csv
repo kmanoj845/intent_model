@@ -1,0 +1,545 @@
+sentence,intent,language
+balance check,balance_check,en
+check balanc,balance_check,en
+account balance check,balance_check,en
+check account balanc,balance_check,en
+show me my account balance,balance_check,en
+Check my account balance,balance_check,en
+Find my bank balance,balance_check,en
+Tell me my funds,balance_check,en
+Show my balance,balance_check,en
+Check available funds,balance_check,en
+Find my account balance,balance_check,en
+Tell me my account balance,balance_check,en
+Show me my funds,balance_check,en
+Check my bank balance,balance_check,en
+Find available funds,balance_check,en
+Savings balance?,balance_check,en
+"Savings balance, please",balance_check,en
+Current funds?,balance_check,en
+Check Savings,balance_check,en
+Show balance,balance_check,en
+Tell Savings. please,balance_check,en
+Check funds,balance_check,en
+Find balance,balance_check,en
+Tell amount,balance_check,en
+Show balance,balance_check,en
+Balance in bank account,balance_check,en
+Bank balance,balance_check,en
+Money in bank,balance_check,en
+"Savings, how much?",balance_check,en
+Savings account balance?,balance_check,en
+Money in Current account?,balance_check,en
+Check money in Savings account,balance_check,en
+Show balance,balance_check,en
+inquiring account balance,balance_check,en
+enquiring account balance,balance_check,en
+balanc inquiry,balance_check,en
+balanc enquiry,balance_check,en
+balance inquiry,balance_check,en
+balance enquiry,balance_check,en
+balance in quiry,balance_check,en
+balance en quiry,balance_check,en
+Savings balance of my upi account,balance_check,en
+Upi account balance,balance_check,en
+Current funds in upi?,balance_check,en
+Check upi account balance,balance_check,en
+Show balance from upi,balance_check,en
+Tell Savings in my upi account. please,balance_check,en
+Upi account Check funds,balance_check,en
+Upi balance,balance_check,en
+Tell amount in upi,balance_check,en
+Show upi balance,balance_check,en
+Money in upi account,balance_check,en
+tell me the balance of my upi account,balance_check,en
+show the available balance in my upi account,balance_check,en
+let me check the balance of my upi account,balance_check,en
+how much funds do i have in my upi account,balance_check,en
+i would like to check the balance of my upi account,balance_check,en
+i'd like to check the balance of my upi account,balance_check,en
+wat'ch my upi account balance,balance_check,en
+what's my upi account balance,balance_check,en
+can you tell me my upi balance,balance_check,en
+show me the balance inquiry,balance_check,en
+show me the available balance in my upi account,balance_check,en
+show me the amount left in my account i would like to check the balance of my upi account,balance_check,en
+let me check my balance of my upi account,balance_check,en
+how much fund do i have in my upi account how much funds do i have in my upi account,balance_check,en
+what's my upi account balance,balance_check,en
+what is my upi balance,balance_check,en
+Can you tell me upi balance in my bank account?,balance_check,en
+I need to find out how much money I have in my upi bank account,balance_check,en
+Could you show me my upi balance?,balance_check,en
+I want to check the amount of money I have in my bank account,balance_check,en
+Can you tell me the current balance of my bank account?,balance_check,en
+I need to find out my available funds in the bank,balance_check,en
+Could you show me the balance of my account?,balance_check,en
+I want to check the available balance in my bank account,balance_check,en
+Can you tell me the amount of money in upi account right now?,balance_check,en
+I need to find out the balance of bank account,balance_check,en
+Can you show me my current account balance?,balance_check,en
+I need to check how much money is in my savings account,balance_check,en
+Could you tell me the balance of my current account?,balance_check,en
+"I'd like to find out my savings account balance, please",balance_check,en
+Can you show me the balance in my account?,balance_check,en
+I'm wondering if you could check my current account balance?,balance_check,en
+Would you mind telling me how much money I have in my savings account?,balance_check,en
+I'm interested in finding out my account balance,balance_check,en
+Can you tell me the balance of my savings account?,balance_check,en
+Could you show me the current balance in my account?,balance_check,en
+how much money is left in upi,balance_check,en
+I would like to inquire about the current balance in my account with sterling urban cooperative bank limited,balance_check,en
+Could you please provide me with the updated balance in my chartered sahakari bank niyamitha account?,balance_check,en
+I'm interested in knowing the remaining funds in my bank of america account,balance_check,en
+Can you help me check the balance in my account at thane janta bank?,balance_check,en
+I need to find out how much money I have in my hsbc bank account,balance_check,en
+I'd like to request the current balance of my account with jijamata mahila sahakari bank,balance_check,en
+"May I know the available balance in my karnataka mahila sahakara bank niyamitha account, please?",balance_check,en
+I'm curious to know the balance in my akola janta commercial account,balance_check,en
+Could you please share the current balance of my account at ajanta urban bank?,balance_check,en
+"I want to check the balance in my shree dharati cooperative bank account, can you assist me with that?",balance_check,en
+enquiring my thane janta sahakari bank balance,balance_check,en
+inquiring i c i c i wallet balance,balance_check,en
+in quiring my account balanc from vardhaman mahila co op urban bank limited,balance_check,en
+"deendayal nagari sahakari bank account balance, please",balance_check,en
+enquire account balance udaipur mahila samridhi urban cooperative bank limited,balance_check,en
+Upi account Check my bharat co op bank mumbai balance,balance_check,en
+"s i b upi balance, please",balance_check,en
+Check my pune cantonment sahakari bank balance,balance_check,en
+"dhanlaxmi bank account balance, please",balance_check,en
+Need account balance himachal pradesh state cooperative bank limited,balance_check,en
+Upi account Check my the maharashtra mantralaya and allied offices cooperative bank limited mumbai balance,balance_check,en
+"bombay mercantile co op bank upi balance, please",balance_check,en
+Need upi balance s v c bank,balance_check,en
+upi balance of urban bareilly bank account,balance_check,en
+Need upi balance from vaishya nagari sahakari bank limited parbhani,balance_check,en
+Balance in bhavnagar district cooperative bank upi,balance_check,en
+Inquire kokan merchantile cooperative bank account balance,balance_check,en
+"My malad sahakari bank balance, please",balance_check,en
+Balance for andhra pradesh vikas bank account,balance_check,en
+andhra pragati bank balance request,balance_check,en
+Check bellary district co op central bank limited account balance,balance_check,en
+I need palus sahakari bank balance,balance_check,en
+kotak mahindra bank account balance inquiry,balance_check,en
+Inquire about janata sahakari bank ajara savings account,balance_check,en
+Inquire about rajkot peoples cooperative bank saving account,balance_check,en
+Check shri veershaiv co op bank limited current account,balance_check,en
+Request pune urban cooperative bank savings account balance update,balance_check,en
+Request agrasen cooperative urban bank limited saving account balance update,balance_check,en
+Get shree panchganga nagari sahakari bank current account balance details,balance_check,en
+Need union bank savings account balance info,balance_check,en
+Need akola janata commercial cooperative bank saving account balance info,balance_check,en
+Seek shri veershaiv co op bank limited savings account info,balance_check,en
+Seek chartered sahakari bank niyamitha saving account info,balance_check,en
+Ask for arvind bank current balance,balance_check,en
+Obtain himachal pradesh state cooperative bank limited savings balance,balance_check,en
+Query akhand anand current account balance,balance_check,en
+Retrieve abhyudaya cooperative savings account balance data,balance_check,en
+balance check,balance_check,en
+check balanc,balance_check,en
+account balance check,balance_check,en
+check account balanc,balance_check,en
+show me my account balance,balance_check,en
+Check my account balance,balance_check,en
+Find my bank balance,balance_check,en
+Tell me my funds,balance_check,en
+Show my balance,balance_check,en
+Check available funds,balance_check,en
+Find my account balance,balance_check,en
+Tell me my account balance,balance_check,en
+Show me my funds,balance_check,en
+Check my bank balance,balance_check,en
+Find available funds,balance_check,en
+Savings balance?,balance_check,en
+"Savings balance, please",balance_check,en
+Current funds?,balance_check,en
+Check Savings,balance_check,en
+Show balance,balance_check,en
+Tell Savings. please,balance_check,en
+Check funds,balance_check,en
+Find balance,balance_check,en
+Tell amount,balance_check,en
+Show balance,balance_check,en
+Balance in bank account,balance_check,en
+Bank balance,balance_check,en
+Money in bank,balance_check,en
+"Savings, how much?",balance_check,en
+Savings account balance?,balance_check,en
+Money in Current account?,balance_check,en
+Check money in Savings account,balance_check,en
+Show balance,balance_check,en
+inquiring account balance,balance_check,en
+enquiring account balance,balance_check,en
+balanc inquiry,balance_check,en
+balanc enquiry,balance_check,en
+balance inquiry,balance_check,en
+balance enquiry,balance_check,en
+balance in quiry,balance_check,en
+balance en quiry,balance_check,en
+Savings balance of my upi account,balance_check,en
+Upi account balance,balance_check,en
+Current funds in upi?,balance_check,en
+Check upi account balance,balance_check,en
+Show balance from upi,balance_check,en
+Tell Savings in my upi account. please,balance_check,en
+Upi account Check funds,balance_check,en
+Upi balance,balance_check,en
+Tell amount in upi,balance_check,en
+Show upi balance,balance_check,en
+Money in upi account,balance_check,en
+tell me the balance of my upi account,balance_check,en
+show the available balance in my upi account,balance_check,en
+let me check the balance of my upi account,balance_check,en
+how much funds do i have in my upi account,balance_check,en
+i would like to check the balance of my upi account,balance_check,en
+i'd like to check the balance of my upi account,balance_check,en
+wat'ch my upi account balance,balance_check,en
+what's my upi account balance,balance_check,en
+can you tell me my upi balance,balance_check,en
+show me the balance inquiry,balance_check,en
+show me the available balance in my upi account,balance_check,en
+show me the amount left in my account i would like to check the balance of my upi account,balance_check,en
+let me check my balance of my upi account,balance_check,en
+how much fund do i have in my upi account how much funds do i have in my upi account,balance_check,en
+what's my upi account balance,balance_check,en
+what is my upi balance,balance_check,en
+Can you tell me upi balance in my bank account?,balance_check,en
+I need to find out how much money I have in my upi bank account,balance_check,en
+Could you show me my upi balance?,balance_check,en
+I want to check the amount of money I have in my bank account,balance_check,en
+Can you tell me the current balance of my bank account?,balance_check,en
+I need to find out my available funds in the bank,balance_check,en
+Could you show me the balance of my account?,balance_check,en
+I want to check the available balance in my bank account,balance_check,en
+Can you tell me the amount of money in upi account right now?,balance_check,en
+I need to find out the balance of bank account,balance_check,en
+Can you show me my current account balance?,balance_check,en
+I need to check how much money is in my savings account,balance_check,en
+Could you tell me the balance of my current account?,balance_check,en
+"I'd like to find out my savings account balance, please",balance_check,en
+Can you show me the balance in my account?,balance_check,en
+I'm wondering if you could check my current account balance?,balance_check,en
+Would you mind telling me how much money I have in my savings account?,balance_check,en
+I'm interested in finding out my account balance,balance_check,en
+Can you tell me the balance of my savings account?,balance_check,en
+Could you show me the current balance in my account?,balance_check,en
+how much money is left in upi,balance_check,en
+I would like to inquire about the current balance in my account with the mahaveer cooperative bank limited,balance_check,en
+Could you please provide me with the updated balance in my ujjivan bank account?,balance_check,en
+I'm interested in knowing the remaining funds in my mehasana urban co op bank account,balance_check,en
+Can you help me check the balance in my account at karur vysya?,balance_check,en
+I need to find out how much money I have in my bharat co op bank mumbai account,balance_check,en
+I'd like to request the current balance of my account with i c i c i wallet,balance_check,en
+"May I know the available balance in my sadhana sahakari bank nagpur account, please?",balance_check,en
+I'm curious to know the balance in my surat district co op bank limited account,balance_check,en
+Could you please share the current balance of my account at kolhapur district central cooperative bank?,balance_check,en
+"I want to check the balance in my andhra pragathi gramina bank account, can you assist me with that?",balance_check,en
+enquiring my bhaavnagar cooperative bank balance,balance_check,en
+inquiring sharad sahakari bank manchar balance,balance_check,en
+in quiring my account balanc from pnb bank,balance_check,en
+"livquik technology india private account balance, please",balance_check,en
+enquire account balance bharat sahakari bank,balance_check,en
+Upi account Check my amreli jila madhyastha bank balance,balance_check,en
+"indore paraspar sahakari bank upi balance, please",balance_check,en
+Check my urban cooperative bank dharangaon balance,balance_check,en
+"kodungallur town cooperative bank limited account balance, please",balance_check,en
+Need account balance hsbc,balance_check,en
+Upi account Check my janta sahakari bank pune balance,balance_check,en
+"suvarnayug sahakari bank limited upi balance, please",balance_check,en
+Need upi balance balotra urban cooperative bank,balance_check,en
+upi balance of akola district central cooperative bank limited account,balance_check,en
+Need upi balance from ahmednagar shahar bank,balance_check,en
+Balance in equitas small finance bank upi,balance_check,en
+Inquire cosmos co op bank account balance,balance_check,en
+"My assam gramin vikas bank balance, please",balance_check,en
+Balance for vikramaditya nagrik sahakari bank account,balance_check,en
+arvind bank balance request,balance_check,en
+Check n s d l bank account balance,balance_check,en
+I need mahesh sahakari bank limited balance,balance_check,en
+bhuj commercial cooperative bank limited account balance inquiry,balance_check,en
+Inquire about financial cooperative bank limited savings account,balance_check,en
+Inquire about karur vaishya saving account,balance_check,en
+Check chaitanya godavari gramin bank current account,balance_check,en
+Request ambajogai peoples cooperative savings account balance update,balance_check,en
+Request nagrik sahakari bank maryadit gwalior saving account balance update,balance_check,en
+Get janata sahakari bank ajara current account balance details,balance_check,en
+Need g p parsik savings account balance info,balance_check,en
+Need mann deshi mahila sahkari bank saving account balance info,balance_check,en
+Seek g s mahanagar cooperative bank savings account info,balance_check,en
+Seek veerashaiva sahakari bank limited saving account info,balance_check,en
+Ask for kodinar taluka cooperative banking union limited current balance,balance_check,en
+Obtain apna bank savings balance,balance_check,en
+Query akola janata cooperative bank current account balance,balance_check,en
+Retrieve rajkot commercial co op bank limited savings account balance data,balance_check,en
+balance check,balance_check,en
+check balanc,balance_check,en
+account balance check,balance_check,en
+check account balanc,balance_check,en
+show me my account balance,balance_check,en
+Check my account balance,balance_check,en
+Find my bank balance,balance_check,en
+Tell me my funds,balance_check,en
+Show my balance,balance_check,en
+Check available funds,balance_check,en
+Find my account balance,balance_check,en
+Tell me my account balance,balance_check,en
+Show me my funds,balance_check,en
+Check my bank balance,balance_check,en
+Find available funds,balance_check,en
+Savings balance?,balance_check,en
+"Savings balance, please",balance_check,en
+Current funds?,balance_check,en
+Check Savings,balance_check,en
+Show balance,balance_check,en
+Tell Savings. please,balance_check,en
+Check funds,balance_check,en
+Find balance,balance_check,en
+Tell amount,balance_check,en
+Show balance,balance_check,en
+Balance in bank account,balance_check,en
+Bank balance,balance_check,en
+Money in bank,balance_check,en
+"Savings, how much?",balance_check,en
+Savings account balance?,balance_check,en
+Money in Current account?,balance_check,en
+Check money in Savings account,balance_check,en
+Show balance,balance_check,en
+inquiring account balance,balance_check,en
+enquiring account balance,balance_check,en
+balanc inquiry,balance_check,en
+balanc enquiry,balance_check,en
+balance inquiry,balance_check,en
+balance enquiry,balance_check,en
+balance in quiry,balance_check,en
+balance en quiry,balance_check,en
+Savings balance of my upi account,balance_check,en
+Upi account balance,balance_check,en
+Current funds in upi?,balance_check,en
+Check upi account balance,balance_check,en
+Show balance from upi,balance_check,en
+Tell Savings in my upi account. please,balance_check,en
+Upi account Check funds,balance_check,en
+Upi balance,balance_check,en
+Tell amount in upi,balance_check,en
+Show upi balance,balance_check,en
+Money in upi account,balance_check,en
+tell me the balance of my upi account,balance_check,en
+show the available balance in my upi account,balance_check,en
+let me check the balance of my upi account,balance_check,en
+how much funds do i have in my upi account,balance_check,en
+i would like to check the balance of my upi account,balance_check,en
+i'd like to check the balance of my upi account,balance_check,en
+wat'ch my upi account balance,balance_check,en
+what's my upi account balance,balance_check,en
+can you tell me my upi balance,balance_check,en
+show me the balance inquiry,balance_check,en
+show me the available balance in my upi account,balance_check,en
+show me the amount left in my account i would like to check the balance of my upi account,balance_check,en
+let me check my balance of my upi account,balance_check,en
+how much fund do i have in my upi account how much funds do i have in my upi account,balance_check,en
+what's my upi account balance,balance_check,en
+what is my upi balance,balance_check,en
+Can you tell me upi balance in my bank account?,balance_check,en
+I need to find out how much money I have in my upi bank account,balance_check,en
+Could you show me my upi balance?,balance_check,en
+I want to check the amount of money I have in my bank account,balance_check,en
+Can you tell me the current balance of my bank account?,balance_check,en
+I need to find out my available funds in the bank,balance_check,en
+Could you show me the balance of my account?,balance_check,en
+I want to check the available balance in my bank account,balance_check,en
+Can you tell me the amount of money in upi account right now?,balance_check,en
+I need to find out the balance of bank account,balance_check,en
+Can you show me my current account balance?,balance_check,en
+I need to check how much money is in my savings account,balance_check,en
+Could you tell me the balance of my current account?,balance_check,en
+"I'd like to find out my savings account balance, please",balance_check,en
+Can you show me the balance in my account?,balance_check,en
+I'm wondering if you could check my current account balance?,balance_check,en
+Would you mind telling me how much money I have in my savings account?,balance_check,en
+I'm interested in finding out my account balance,balance_check,en
+Can you tell me the balance of my savings account?,balance_check,en
+Could you show me the current balance in my account?,balance_check,en
+how much money is left in upi,balance_check,en
+I would like to inquire about the current balance in my account with varanchha co op bank limited,balance_check,en
+Could you please provide me with the updated balance in my associate cooperative bank account?,balance_check,en
+I'm interested in knowing the remaining funds in my n s d l payments bank account,balance_check,en
+Can you help me check the balance in my account at amreli sahakari bank?,balance_check,en
+I need to find out how much money I have in my jalgaon peoples co op bank limited account,balance_check,en
+I'd like to request the current balance of my account with hsbc bank,balance_check,en
+"May I know the available balance in my shivalik mercantile co op bank account, please?",balance_check,en
+I'm curious to know the balance in my s c b account,balance_check,en
+Could you please share the current balance of my account at jila sahkari kendriya bank maryadit khargone?,balance_check,en
+"I want to check the balance in my peoples urban cooperative bank account, can you assist me with that?",balance_check,en
+enquiring my shri arihant cooperative bank limited balance,balance_check,en
+inquiring punjab and sind bank balance,balance_check,en
+in quiring my account balanc from tirupati urban cooperative bank limited,balance_check,en
+"k v b account balance, please",balance_check,en
+enquire account balance paytm bank,balance_check,en
+Upi account Check my sarvodaya commercial cooperative bank balance,balance_check,en
+"ambazogai peoples cooperative bank upi balance, please",balance_check,en
+Check my bank of america balance,balance_check,en
+"state bank of india account balance, please",balance_check,en
+Need account balance s c b,balance_check,en
+Upi account Check my dapoli urban co op bank dapoli balance,balance_check,en
+"bank of india upi balance, please",balance_check,en
+Need upi balance rajgurunagar sahakari bank,balance_check,en
+upi balance of pnb bank account,balance_check,en
+Need upi balance from andhra pradesh grameen bank,balance_check,en
+Balance in ahmednagar shahar sahakari bank upi,balance_check,en
+Inquire bhadradri cooperative urban bank account balance,balance_check,en
+"My s s k co op bank balance, please",balance_check,en
+Balance for jio payments bank account,balance_check,en
+samruddhi cooperative bank balance request,balance_check,en
+Check baroda rajasthan kshetriya gramin bank account balance,balance_check,en
+I need navi mumbai cooperative bank balance,balance_check,en
+ahmednagar shahar bank account balance inquiry,balance_check,en
+Inquire about the baroda city cooperative bank limited savings account,balance_check,en
+Inquire about karimnagar distrcit cooperative bank saving account,balance_check,en
+Check rajkot peoples cooperative bank current account,balance_check,en
+Request icici bank savings account balance update,balance_check,en
+Request visakhapatnam cooperative bank limited saving account balance update,balance_check,en
+Get bhartiya state bank current account balance details,balance_check,en
+Need jalgaon peoples co op bank limited savings account balance info,balance_check,en
+Need poornawadi nagrik sahakari bank m beed saving account balance info,balance_check,en
+Seek paytm payments bank savings account info,balance_check,en
+Seek p d p bank karad saving account info,balance_check,en
+Ask for ambarnath jai hind cooperative bank current balance,balance_check,en
+Obtain citi bank savings balance,balance_check,en
+Query balotra urban bank current account balance,balance_check,en
+Retrieve samarth sahakari bank savings account balance data,balance_check,en
+balance check,balance_check,en
+check balanc,balance_check,en
+account balance check,balance_check,en
+check account balanc,balance_check,en
+show me my account balance,balance_check,en
+Check my account balance,balance_check,en
+Find my bank balance,balance_check,en
+Tell me my funds,balance_check,en
+Show my balance,balance_check,en
+Check available funds,balance_check,en
+Find my account balance,balance_check,en
+Tell me my account balance,balance_check,en
+Show me my funds,balance_check,en
+Check my bank balance,balance_check,en
+Find available funds,balance_check,en
+Savings balance?,balance_check,en
+"Savings balance, please",balance_check,en
+Current funds?,balance_check,en
+Check Savings,balance_check,en
+Show balance,balance_check,en
+Tell Savings. please,balance_check,en
+Check funds,balance_check,en
+Find balance,balance_check,en
+Tell amount,balance_check,en
+Show balance,balance_check,en
+Balance in bank account,balance_check,en
+Bank balance,balance_check,en
+Money in bank,balance_check,en
+"Savings, how much?",balance_check,en
+Savings account balance?,balance_check,en
+Money in Current account?,balance_check,en
+Check money in Savings account,balance_check,en
+Show balance,balance_check,en
+inquiring account balance,balance_check,en
+enquiring account balance,balance_check,en
+balanc inquiry,balance_check,en
+balanc enquiry,balance_check,en
+balance inquiry,balance_check,en
+balance enquiry,balance_check,en
+balance in quiry,balance_check,en
+balance en quiry,balance_check,en
+Savings balance of my upi account,balance_check,en
+Upi account balance,balance_check,en
+Current funds in upi?,balance_check,en
+Check upi account balance,balance_check,en
+Show balance from upi,balance_check,en
+Tell Savings in my upi account. please,balance_check,en
+Upi account Check funds,balance_check,en
+Upi balance,balance_check,en
+Tell amount in upi,balance_check,en
+Show upi balance,balance_check,en
+Money in upi account,balance_check,en
+tell me the balance of my upi account,balance_check,en
+show the available balance in my upi account,balance_check,en
+let me check the balance of my upi account,balance_check,en
+how much funds do i have in my upi account,balance_check,en
+i would like to check the balance of my upi account,balance_check,en
+i'd like to check the balance of my upi account,balance_check,en
+wat'ch my upi account balance,balance_check,en
+what's my upi account balance,balance_check,en
+can you tell me my upi balance,balance_check,en
+show me the balance inquiry,balance_check,en
+show me the available balance in my upi account,balance_check,en
+show me the amount left in my account i would like to check the balance of my upi account,balance_check,en
+let me check my balance of my upi account,balance_check,en
+how much fund do i have in my upi account how much funds do i have in my upi account,balance_check,en
+what's my upi account balance,balance_check,en
+what is my upi balance,balance_check,en
+Can you tell me upi balance in my bank account?,balance_check,en
+I need to find out how much money I have in my upi bank account,balance_check,en
+Could you show me my upi balance?,balance_check,en
+I want to check the amount of money I have in my bank account,balance_check,en
+Can you tell me the current balance of my bank account?,balance_check,en
+I need to find out my available funds in the bank,balance_check,en
+Could you show me the balance of my account?,balance_check,en
+I want to check the available balance in my bank account,balance_check,en
+Can you tell me the amount of money in upi account right now?,balance_check,en
+I need to find out the balance of bank account,balance_check,en
+Can you show me my current account balance?,balance_check,en
+I need to check how much money is in my savings account,balance_check,en
+Could you tell me the balance of my current account?,balance_check,en
+"I'd like to find out my savings account balance, please",balance_check,en
+Can you show me the balance in my account?,balance_check,en
+I'm wondering if you could check my current account balance?,balance_check,en
+Would you mind telling me how much money I have in my savings account?,balance_check,en
+I'm interested in finding out my account balance,balance_check,en
+Can you tell me the balance of my savings account?,balance_check,en
+Could you show me the current balance in my account?,balance_check,en
+how much money is left in upi,balance_check,en
+I would like to inquire about the current balance in my account with ajanta urban bank,balance_check,en
+Could you please provide me with the updated balance in my punjab national bank account?,balance_check,en
+I'm interested in knowing the remaining funds in my cosmos bank account,balance_check,en
+Can you help me check the balance in my account at samarth sahakari bank?,balance_check,en
+I need to find out how much money I have in my chartered sahakari bank niyamitha account,balance_check,en
+I'd like to request the current balance of my account with kaira district central co op bank limited,balance_check,en
+"May I know the available balance in my pavana sahakari bank limited account, please?",balance_check,en
+I'm curious to know the balance in my hutatma cooperative bank account,balance_check,en
+Could you please share the current balance of my account at nagarik sahakari bank maryadit?,balance_check,en
+"I want to check the balance in my ajanta urban cooperative account, can you assist me with that?",balance_check,en
+enquiring my j s f b balance,balance_check,en
+inquiring bandhan balance,balance_check,en
+in quiring my account balanc from samarth sahakari bank,balance_check,en
+"commercial cooperative bank limited account balance, please",balance_check,en
+enquire account balance dakshin bihar gramin bank,balance_check,en
+Upi account Check my kaira district central co op bank limited balance,balance_check,en
+"P. D. Patilsaheb Sahakari Bank upi balance, please",balance_check,en
+Check my fino bank balance,balance_check,en
+"Sindhanur Urban Co-operative bank account balance, please",balance_check,en
+Need account balance jamkhandi urban cooperative bank limited,balance_check,en
+Upi account Check my mahesh sahakari bank limited balance,balance_check,en
+"j and k bank upi balance, please",balance_check,en
+Need upi balance mahanagar nagrik sahakari bank maryadit,balance_check,en
+upi balance of rajkot nagrik sahakari bank account,balance_check,en
+Need upi balance from SHRI CHHATRAPATI RAJARSHI SHAHU URBAN CO-OP BANK LTD,balance_check,en
+Balance in adarsh cooperative upi,balance_check,en
+Inquire c i t i retail account balance,balance_check,en
+"My baroda rajasthan kshetriya gramin bank balance, please",balance_check,en
+Balance for coastal local area bank account,balance_check,en
+andhra pragati grameen balance request,balance_check,en
+Check paschim banga gramin bank account balance,balance_check,en
+I need indore premier cooperative bank indore balance,balance_check,en
+iob account balance inquiry,balance_check,en
+Inquire about poornawadi nagrik sahakari bank m beed savings account,balance_check,en
+Inquire about akola janta commercial bank saving account,balance_check,en
+Check ambajogai peoples bank current account,balance_check,en
+Request kottakkal co op urban bank savings account balance update,balance_check,en
+Request n k g s b co op bank saving account balance update,balance_check,en
+Get janakalyan sahakari bank current account balance details,balance_check,en
+Need sri rama cooperative bank limited savings account balance info,balance_check,en
+Need urban co op bank dharangaon saving account balance info,balance_check,en
+Seek banaskantha district central co op bank limited savings account info,balance_check,en
+Seek jammu and kashmir bank saving account info,balance_check,en
+Ask for sri sudha cooperative bank limited current balance,balance_check,en
+Obtain abhyudaya cooperative bank savings balance,balance_check,en
+Query b o i current account balance,balance_check,en
+Retrieve valmiki urban co op bank limited pathri savings account balance data,balance_check,en

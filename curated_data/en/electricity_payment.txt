@@ -1,0 +1,133 @@
+﻿# short sentence
+
+electricity bill
+i want to pay my electricity bill
+pay electricity bill
+electricity bill
+pay for electricity
+pay electricity
+"Paying electricity bill."
+"Settling power bill online."
+"Covering electricity bill."
+"Clearing power bill balance."
+"Handling electricity bill payment."
+"Taking care of power bill."
+"Settling electricity bill dues."
+"Paying power bill online."
+"Clearing electricity bill balance."
+"Handling power bill payment."
+Pay electricity bill
+Pay for electricity
+Make payment for electricity
+payment for electricity bill
+Electricity bill payment
+Check electricity bill
+Check electricity dues
+"Paying electricity bill through upi."
+"Settling power bill using upi."
+"Covering electricity dues from upi balance."
+"Clearing power bill balance fthrough upi account."
+"Upi pay to Handle electricity bill payment."
+"Paying from upi to pay power bill."
+"Make payment from upi for electricity bill."
+"Upi payment for power bill online."
+"Paying electricity bill through UPI."
+"Using UPI for settling power bill online."
+"Use UPI to pay electricity bill today."
+"Clearing power bill balance. Make payment through upi account"
+"Handling electricity bill payment."
+"Taking care of power bill. Pay from upi account"
+"Settling electricity bill dues."
+"Paying power bill online."
+"Clearing electricity bill balance."
+"Handling power bill payment."
+Pay electricity bill
+Pay for electricity
+Make payment for electricity
+payment for electricity bill
+Electricity bill payment
+
+
+# short sentence with <electricity_board>
+
+
+"Settling <electricity_board> bill online."
+"Paying <electricity_board> electricity bill."
+"Clearing <electricity_board> power bill."
+"Covering <electricity_board> electricity expense."
+"Handling <electricity_board> bill payment."
+"Settling <electricity_board> power charges."
+"Taking care of <electricity_board> electricity bill."
+"Submitting <electricity_board> power bill."
+"Remitting <electricity_board> electricity payment."
+"Making <electricity_board> bill payment."
+"Finishing <electricity_board> electricity dues."
+"Resolving <electricity_board> power bill."
+"Clearing off <electricity_board> electricity charges."
+"Managing <electricity_board> bill payment."
+"Fulfilling <electricity_board> electricity obligation."
+"Finalizing <electricity_board> power bill."
+"Completing <electricity_board> electricity transaction."
+"Taking care of <electricity_board> bill settlement."
+"Closing <electricity_board> power payment."
+"Concluding <electricity_board> electricity bill."
+
+
+"Settling <electricity_board> bill online from upi."
+"Upi for Paying <electricity_board> electricity bill."
+"Upi payment for Clearing <electricity_board> power bill."
+"Pay from upi to settle <electricity_board> electricity expense."
+"Pay through upi balance for <electricity_board> bill."
+"Upi payment to Settling <electricity_board> power charges."
+"Taking care of <electricity_board> electricity bill through upi account."
+"Use upi payment to Submit <electricity_board> power bill."
+
+
+# medium sentence
+
+
+I need to settle my electricity bill before the due date.
+I want to make a payment towards my power bill for this month.
+planning to clear my outstanding electricity bill with the utility company.
+I have to take care of my power bill as it's overdue.
+need to budget for my upcoming electricity bill to avoid any late fees.
+preparing to make a payment towards my electricity usage for the past month.
+I'm aware of my power bill and will be making a payment shortly.
+Settle my electricity bill in person at the utility company's office.
+I need to pay the electricity bill from upi account.
+Want to settle the power bill using upi balance.
+It's my responsibility to cover the electricity expenses use my upi account.
+Using upi I'm going to take care of the power bill.
+Upi payment pay the electricity bill .
+Payment from Upi account to cover the power dues
+Use upi account to settle the electricity bill.
+I want to take care of the power bill.
+It's my duty to pay the electricity expenses.
+I'll make sure to cover the power bill.
+
+
+# medium sentence with <electricity_board> 
+
+
+looking to pay my <electricity_board> bill online for convenience.
+I'm responsible for paying the <electricity_board> bill for our household.
+I need to make a payment to <electricity_board> for my electricity bill.
+My intention is to settle my outstanding balance with <electricity_board> for my electricity usage.
+Using upi I would like to remit funds to <electricity_board> in order to cover my electricity charges.
+It's time for me to pay my monthly electricity bill to <electricity_board> from upi balance.
+I plan to make payment of my electricity bill to <electricity_board> using upi account for the current billing cycle.
+I want to clear my dues with <electricity_board> for my recent electricity consumption.
+I'm interested in making a payment to <electricity_board> to cover my electricity expenses.
+I'm looking to settle my pending electricity bill with <electricity_board>.
+My aim is to pay my electricity usage charges to <electricity_board>.
+I'm eager to settle my outstanding amount with <electricity_board> for my electricity consumption from upi.
+Need to pay <electricity_board> for electricity bill.
+Settling outstanding balance with <electricity_board>.
+Remitting funds to <electricity_board> for electricity charges.
+Paying monthly electricity bill to <electricity_board>.
+Reimbursing <electricity_board> for current billing cycle.
+Use upi for Clearing dues with <electricity_board> for electricity consumption.
+Making payment to <electricity_board> for electricity expenses.
+Settling pending electricity bill with <electricity_board>.
+Paying electricity charges to <electricity_board>.
+Clearing outstanding amount with <electricity_board> for electricity usage.

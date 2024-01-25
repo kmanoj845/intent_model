@@ -1,0 +1,152 @@
+#short sentence
+
+balance check
+check balanc
+account balance check
+check account balanc
+show me my account balance
+Check my account balance.
+Find my bank balance.
+Tell me my funds.
+Show my balance.
+Check available funds.
+Find my account balance.
+Tell me my account balance.
+Show me my funds.
+Check my bank balance.
+Find available funds.
+Savings balance?
+Savings balance, please.
+Current funds?
+Check Savings.
+Show balance.
+Tell Savings. please
+Check funds.
+Find balance.
+Tell amount.
+Show balance.
+Balance in bank account
+Bank balance
+Money in bank
+Savings, how much?
+Savings account balance?
+Money in Current account?
+Check money in Savings account.
+Show balance.
+inquiring account balance
+enquiring account balance
+balanc inquiry
+balanc enquiry
+balance inquiry
+balance enquiry
+balance in quiry
+balance en quiry
+Savings balance of my upi account
+Upi account balance.
+Current funds in upi?
+Check upi account balance.
+Show balance from upi.
+Tell Savings in my upi account. please
+Upi account Check funds
+Upi balance.
+Tell amount in upi.
+Show upi balance.
+Money in upi account
+
+
+#medium length sentence
+
+tell me the balance of my upi account
+show the available balance in my upi account
+let me check the balance of my upi account
+how much funds do i have in my upi account
+i would like to check the balance of my upi account
+i'd like to check the balance of my upi account
+wat'ch my upi account balance
+what's my upi account balance
+can you tell me my upi balance
+show me the balance inquiry
+
+show me the available balance in my upi account
+show me the amount left in my account i would like to check the balance of my upi account
+let me check my balance of my upi account
+how much fund do i have in my upi account how much funds do i have in my upi account
+what's my upi account balance
+what is my upi balance
+
+
+Can you tell me upi balance in my bank account?
+I need to find out how much money I have in my upi bank account.
+Could you show me my upi balance?
+I want to check the amount of money I have in my bank account.
+Can you tell me the current balance of my bank account?
+I need to find out my available funds in the bank.
+Could you show me the balance of my account?
+I want to check the available balance in my bank account.
+Can you tell me the amount of money in upi account right now?
+I need to find out the balance of bank account
+Can you show me my current account balance?
+I need to check how much money is in my savings account.
+Could you tell me the balance of my current account?
+I'd like to find out my savings account balance, please.
+Can you show me the balance in my account?
+I'm wondering if you could check my current account balance?
+Would you mind telling me how much money I have in my savings account?
+I'm interested in finding out my account balance.
+Can you tell me the balance of my savings account?
+Could you show me the current balance in my account?
+how much money is left in upi.
+
+
+#medium length sentence bank_name
+
+
+I would like to inquire about the current balance in my account with <bank_name>.
+Could you please provide me with the updated balance in my <bank_name> account?
+I'm interested in knowing the remaining funds in my <bank_name> account.
+Can you help me check the balance in my account at <bank_name>?
+I need to find out how much money I have in my <bank_name> account.
+I'd like to request the current balance of my account with <bank_name>.
+May I know the available balance in my <bank_name> account, please?
+I'm curious to know the balance in my <bank_name> account.
+Could you please share the current balance of my account at <bank_name>?
+I want to check the balance in my <bank_name> account, can you assist me with that?
+
+enquiring my <bank_name> balance.
+inquiring <bank_name> balance.
+in quiring my account balanc from <bank_name>.
+<bank_name> account balance, please.
+enquire account balance <bank_name>.
+Upi account Check my <bank_name> balance.
+<bank_name> upi balance, please.
+
+Check my <bank_name> balance.
+<bank_name> account balance, please.
+Need account balance <bank_name>.
+Upi account Check my <bank_name> balance.
+<bank_name> upi balance, please.
+Need upi balance <bank_name>.
+upi balance of <bank_name> account.
+Need upi balance from <bank_name>.
+Balance in <bank_name> upi
+Inquire <bank_name> account balance.
+My <bank_name> balance, please.
+Balance for <bank_name> account.
+<bank_name> balance request.
+Check <bank_name> account balance.
+I need <bank_name> balance.
+<bank_name> account balance inquiry.
+Inquire about <bank_name> savings account.
+Inquire about <bank_name> saving account.
+Check <bank_name> current account.
+Request <bank_name> savings account balance update.
+Request <bank_name> saving account balance update.
+Get <bank_name> current account balance details.
+Need <bank_name> savings account balance info.
+Need <bank_name> saving account balance info.
+Seek <bank_name> savings account info.
+Seek <bank_name> saving account info.
+Ask for <bank_name> current balance.
+Obtain <bank_name> savings balance.
+Query <bank_name> current account balance.
+Retrieve <bank_name> savings account balance data.

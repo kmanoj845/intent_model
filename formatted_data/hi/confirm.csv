@@ -1,0 +1,494 @@
+sentence,intent,language
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+<<<<<<< HEAD
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+हाँ,confirm,hi
+हां,confirm,hi
+हा,confirm,hi
+सही है,confirm,hi
+सही हैं,confirm,hi
+हाँ यह सही है,confirm,hi
+हां ये  सही है,confirm,hi
+ठीक है,confirm,hi
+ये ठीक हैं,confirm,hi
+ठीक ही लग रहा है,confirm,hi
+ठीक लग रहा हैं,confirm,hi
+इसमें कुछ गलत नहीं है,confirm,hi
+कोई गलती नहीं है,confirm,hi
+कोई गलती नहीं है इसमें यह सही है,confirm,hi
+कोई गलती नही है यह ठीक है,confirm,hi
+बिलकुल सही,confirm,hi
+बिलकुल ठीक,confirm,hi
+एकदम सही,confirm,hi
+एकदम ठीक,confirm,hi
+सही समझे,confirm,hi
+ठीक समझे,confirm,hi
+सही समझा,confirm,hi
+ठीक समझा,confirm,hi
+बिलकुल सही कोई गलती नही,confirm,hi
+बिलकुल ठीक कुछ गलती नही है,confirm,hi
+एकदम सही कोई भी गलती नही है,confirm,hi
+बिना किसी गलती के एकदम ठीक,confirm,hi
+कोई गलती नही है सही समझे,confirm,hi
+गलती नही है इसमें ठीक समझे,confirm,hi
+सही समझा बिना गलती किये,confirm,hi
+गलती किये बिना ठीक समझा,confirm,hi
+बिना किसी मिस्टेक के समझ गए,confirm,hi
+कोई मिस्टेक नहीं है,confirm,hi
+नो मिस्टेक एकदम सही,confirm,hi
+बिलकुल ठीक समझा बिना मिस्टेक किये,confirm,hi
+=======
+>>>>>>> 0ee03bbdf34ca250ca1a4079d508e2181150d6d7

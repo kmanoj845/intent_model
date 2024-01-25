@@ -1,0 +1,298 @@
+sentence,intent,language
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+<<<<<<< HEAD
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+नहीं,cancel,hi
+नही,cancel,hi
+कभी नहीं,cancel,hi
+कभी नही,cancel,hi
+गलत है,cancel,hi
+यह गलत है,cancel,hi
+नहीं यह गलत है,cancel,hi
+इसमें गलती है,cancel,hi
+गलती हो गया है,cancel,hi
+गलती हो गयी है,cancel,hi
+गलती हो गया,cancel,hi
+गलती हो गयी,cancel,hi
+मैंने गलत बता दिया,cancel,hi
+मैंने गलती से  बता दिया,cancel,hi
+यह ठीक नहीं है,cancel,hi
+यह ठीक नही है,cancel,hi
+ठीक नहीं लग रहा है,cancel,hi
+यह ठीक नहीं लग रहा,cancel,hi
+बदलना है,cancel,hi
+बदलना चाहता हूँ,cancel,hi
+यह तो गलत हो गया,cancel,hi
+=======
+>>>>>>> 0ee03bbdf34ca250ca1a4079d508e2181150d6d7

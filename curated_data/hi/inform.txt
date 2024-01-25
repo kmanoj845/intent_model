@@ -1,0 +1,408 @@
+﻿# short sentences
+
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+<mobile_number>
+ये है नंबर <mobile_number>
+मोबाइल नम्बर  है <mobile_number>
+ये रहा फ़ोन नम्बर  <mobile_number>
+<mobile_number> ये है 
+ये रहा मेरा नम्बर <mobile_number> 
+मेरा फ़ोन नंबर है <mobile_number>
+रुको जरा . यह है  <mobile_number>
+एक मिनट. फ़ोन नम्बर है  <mobile_number>
+यह है  <mobile_number>
+मोबाइल नंबर है <mobile_number>
+हाँ ये है <mobile_number>
+<mobile_number> है मेरा नंबर 
+<mobile_number> है फ़ोन नम्बर
+अभी बताता हूँ . नंबर है <mobile_number>
+रुको जरा . यह है <mobile_number>
+एक सेकेंड रुको. बताता हूँ नंबर है <mobile_number>
+
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+<amount_of_money>
+अमाउंट है <amount_of_money>
+ये रहा अमाउंट <amount_of_money>
+ये होगा  <amount_of_money>
+यह है  <amount_of_money>
+अच्छा ये है <amount_of_money>
+राशी है <amount_of_money>
+राशि है <amount_of_money>
+हाँ राशी है <amount_of_money>
+हाँ राशि है <amount_of_money>
+रकम है <amount_of_money>
+ये है  <amount_of_money>
+अच्छा  राशि है <amount_of_money>
+रकम होगी <amount_of_money>
+ये हैं <amount_of_money>
+रकम हैं <amount_of_money>
+ये लो <amount_of_money>
+एक मिनट रुको रकम होगी <amount_of_money>
+रुको जरा ये हैं <amount_of_money>
+अभी बताता हूँ रकम हैं <amount_of_money>
+ये लो अमाउंट <amount_of_money>
+
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+<vehicle_number>
+गाड़ी नंबर है <vehicle_number>
+कार का नम्बर है <vehicle_number>
+व्हीकल का नंबर है  <vehicle_number>
+नम्बर  है <vehicle_number>
+ये है  <vehicle_number>
+यह है  <vehicle_number>
+ये रहा <vehicle_number>
+ये लो <vehicle_number>
+हाँ ये है  <vehicle_number>
+हाँ यह है  <vehicle_number>
+हाँ ये रहा <vehicle_number>
+हाँ ये लो <vehicle_number>
+<vehicle_number> है मेरी गाड़ी का नंबर 
+ये लो मेरी कार का नंबर <vehicle_number> 
+बाइक नंबर है <vehicle_number>
+<vehicle_number> है बाइक नंबर 
+<vehicle_number>है व्हीकल नंबर 
+रुको जरा. गाड़ी नंबर है <vehicle_number>
+अभी बताता हूँ कार का नम्बर है <vehicle_number>
+ये लो व्हीकल का नंबर है  <vehicle_number>
+
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+<bank_name>
+बैंक का नाम है <bank_name>
+बैंक है  <bank_name>
+खाता  <bank_name> में है 
+ये है <bank_name>
+मेरा खाता है <bank_name> में 
+हाँ मेरा सेविंग्स अकाउंट <bank_name> में है 
+मेरा बचत खाता <bank_name> में है 
+हाँ मेरा सेविंग्स अकाउंट <bank_name> में है 
+मेरा चालू  खाता <bank_name> में है 
+करंट एकाउंट है <bank_name> में
+रुको ये है <bank_name>
+ये रहा नाम <bank_name>
+<bank_name> है बैंक का नाम 
+<bank_name>में है खाता  
+<bank_name> मे है अकाउंट
+<bank_name> मे है एकाउंट
+
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+<telephone_operator>
+ऑपरेटर है <telephone_operator>
+ऑपरेटर का नाम है  <telephone_operator>
+<telephone_operator> है मोबाइल नेटवर्क 
+मोबाइल ऑपरेटर का नाम <telephone_operator> है 
+फोन नेटवर्क  <telephone_operator> है 
+नेटवर्क <telephone_operator> का है 
+ये है ऑपरेटर <telephone_operator>
+<telephone_operator> है ऑपरेटर 
+ये रहा कंपनी का नाम <telephone_operator>
+<telephone_operator> है ऑपरेटर का नाम 
+<telephone_operator> नाम है ऑपरेटर का 
+<telephone_operator> का कनेक्शन है 
+कनेक्शन <telephone_operator> का है 
+
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+<pipe_gas_provider_name>
+ये है  <pipe_gas_provider_name>
+यह है <pipe_gas_provider_name>
+कंपनी का नाम है <pipe_gas_provider_name>
+गैस कम्पनी का नाम है<pipe_gas_provider_name>
+कम्पनी है <pipe_gas_provider_name>
+<pipe_gas_provider_name> है कंपनी का नाम 
+ये लो कंपनी का नाम <pipe_gas_provider_name>
+गैस कंपनी है <pipe_gas_provider_name>
+एक मिनट रुको ये लो नाम <pipe_gas_provider_name>
+पाइप गैस आती है <pipe_gas_provider_name> से 
+<pipe_gas_provider_name> का कनेक्शन है 
+पाइप गैस कंपनी है <pipe_gas_provider_name>
+<pipe_gas_provider_name> का है कनेक्शन 
+पाइप्ड कनेक्शन कंपनी है <pipe_gas_provider_name>
+<pipe_gas_provider_name> है पाइप्ड गैस कंपनी 
+पाइप गैस है <pipe_gas_provider_name>
+
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+<lpg_gas_provider_name>
+ये है  <lpg_gas_provider_name>
+यह है <lpg_gas_provider_name>
+कंपनी का नाम है <lpg_gas_provider_name>
+गैस कम्पनी का नाम है<lpg_gas_provider_name>
+कम्पनी है <lpg_gas_provider_name>
+<lpg_gas_provider_name> है कंपनी का नाम 
+ये लो कंपनी का नाम <lpg_gas_provider_name>
+गैस कंपनी है <lpg_gas_provider_name>
+एक मिनट रुको ये लो नाम <lpg_gas_provider_name>
+गैस आती है <lpg_gas_provider_name> से 
+<lpg_gas_provider_name> का कनेक्शन है 
+गैस कंपनी है <lpg_gas_provider_name>
+<lpg_gas_provider_name> का है कनेक्शन 
+कनेक्शन कंपनी है <lpg_gas_provider_name>
+<lpg_gas_provider_name> है गैस कंपनी 
+गैस है <lpg_gas_provider_name>
+
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+<electricity_board>
+ये है  <electricity_board>
+यह है <electricity_board>
+कंपनी का नाम है <electricity_board>
+बिजली कम्पनी का नाम है<electricity_board>
+कम्पनी है <electricity_board>
+<electricity_board> है बिजली कंपनी का नाम 
+ये लो कंपनी का नाम <electricity_board>
+इलेक्ट्रिसिटी कंपनी है <electricity_board>
+एक मिनट रुको ये लो नाम इलेक्ट्रिसिटी कंपनी का <electricity_board>
+बिजली आती है <electricity_board> से 
+<electricity_board> का कनेक्शन है 
+एलेक्ट्रीसिटी कंपनी है <electricity_board>
+<electricity_board> का है कनेक्शन 
+कनेक्शन कंपनी है <electricity_board>
+<electricity_board> है बिजली कंपनी 
+बिजली आती है  <electricity_board> से
+
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+<state_name>
+ये है  <state_name>
+स्टेट का नाम है <state_name>
+स्टेट है  <state_name>
+यह है <state_name>
+<state_name> है मेरी स्टेट का नाम 
+<state_name>है राज्य का नाम 
+ये लो नाम <state_name>
+नाम है मेरी स्टेट का <state_name>
+राज्य का नाम है <state_name>
+राज्य है <state_name>
+
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+<bank_account_number>
+ये है नंबर <bank_account_number>
+अकाउंट नम्बर  है <bank_account_number>
+ये रहा एकाउंट नम्बर  <bank_account_number>
+<bank_account_number> ये है
+ये रहा <bank_account_number>
+मेरा खाता नंबर है <bank_account_number>
+रुको जरा . यह है खाते का नंबर <bank_account_number>
+एक मिनट. खाता नम्बर है  <bank_account_number>
+यह है  <bank_account_number>
+अकाउंट नंबर है <bank_account_number>
+हाँ ये है <bank_account_number>
+<bank_account_number> है मेरा एकाउंट नंबर 
+<bank_account_number> है अकाउंट नम्बर
+अभी बताता हूँ . नंबर है <bank_account_number>
+रुको जरा . यह है <bank_account_number>
+एक सेकेंड रुको. बताता हूँ नंबर है <bank_account_number>
+
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+<insurance_policy_issuer>
+ये है बीमा कंपनी <insurance_policy_issuer>
+बीमा कंपनी है <insurance_policy_issuer>
+ये है इंश्योरेंस कंपनी <insurance_policy_issuer>
+इंश्योरेंस कम्पनी है <insurance_policy_issuer>
+<insurance_policy_issuer> है इंश्योरेंस कम्पनी
+<insurance_policy_issuer> ये है इंश्योरेंस कम्पनी
+इंश्योरेंस कम्पनी का नाम है <insurance_policy_issuer>
+इंश्योरेंस है <insurance_policy_issuer> का 
+रुको जरा . इंश्योरेंस है <insurance_policy_issuer> का 
+एक मिनट. बीमा कंपनी <insurance_policy_issuer>
+यह है  <insurance_policy_issuer>
+नाम  है <insurance_policy_issuer>
+हाँ ये नाम है <insurance_policy_issuer>
+<insurance_policy_issuer> है मेरी बीमा कम्पनी 
+<insurance_policy_issuer> है इंश्योरेंस कम्पनी
+अभी बताता हूँ यह लो <insurance_policy_issuer>
+रुको जरा . यह है <insurance_policy_issuer>
+एक सेकेंड रुको. बताता हूँ कम्पनी  का नंबर है <insurance_policy_issuer>
+
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+<loan_account_number>
+
+ये है नंबर <loan_account_number>
+लोन नम्बर  है <loan_account_number>
+ये रहा लोन नम्बर  <loan_account_number>
+<loan_account_number> ये है
+ये रहा <loan_account_number>
+मेरा लोन नंबर है <loan_account_number>
+रुको जरा . यह है लोन का नंबर <loan_account_number>
+एक मिनट. लोन एकाउंट नम्बर है  <loan_account_number>
+यह है  <loan_account_number>
+लोन अकाउंट नंबर है <loan_account_number>
+हाँ ये है <loan_account_number>
+<loan_account_number> है मेरे लोन का नंबर 
+<loan_account_number> है लोन एकाउंट नम्बर
+अभी बताता हूँ . लोन का नंबर है <loan_account_number>
+रुको जरा . यह है <loan_account_number>
+एक सेकेंड रुको. बताता हूँ लोन अकाउंट का नंबर है <loan_account_number>
+
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+<policy_number>
+
+ये है नंबर <policy_number>
+पॉलिसी नम्बर  है <policy_number>
+ये रहा पालिसी नम्बर  <policy_number>
+<policy_number> ये है
+ये रहा <policy_number>
+मेरा बीमा पॉलिसी नंबर है <policy_number>
+रुको जरा . यह है बीमा का नंबर <policy_number>
+एक मिनट. बीमा नम्बर है  <policy_number>
+यह है  <policy_number>
+पॉलिसी नंबर है <policy_number>
+हाँ ये है <policy_number>
+<policy_number> है मेरा बीमे का नंबर 
+<policy_number> है नम्बर
+अभी बताता हूँ . बीमे का नंबर है <policy_number>
+रुको जरा . यह है <policy_number>
+एक सेकेंड रुको. बताता हूँ बीमे का नंबर है <policy_number>
+
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+<consumer_number>
+कंस्यूमर नम्बर  है <consumer_number>
+ग्राहक संख्या  <consumer_number>
+<consumer_number> ये है ग्राहक संख्या 
+ये रही ग्राहक संख्या  <consumer_number>
+मेरा कंस्यूमर नंबर है <consumer_number>
+रुको जरा . यह है कंस्यूमर नंबर <consumer_number>
+एक मिनट. ग्राहक संख्या है <consumer_number>
+यह है  कंस्यूमर संख्या <consumer_number>
+कंस्यूमर संख्या है <consumer_number>
+हाँ मेरा कंस्यूमर नंबर है <consumer_number>
+<consumer_number> है मेरा कंस्यूमर नंबर 
+<consumer_number> है ग्राहक संख्या 
+अभी बताता हूँ . ग्राहक संख्या है <consumer_number>
+रुको जरा . यह ग्राहक संख्या है <consumer_number>
+एक सेकेंड रुको. बताता हूँ कंस्यूमर नंबर है <consumer_number>
+
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+<bu_number_for_electricity>
+
+बी यू नम्बर  है <bu_number_for_electricity>
+बी यू संख्या  <bu_number_for_electricity>
+<bu_number_for_electricity> ये है बी यू नम्बर 
+ये रहा बिलिंग यूनिट नंबर <bu_number_for_electricity>
+मेरा बीयू नंबर है <bu_number_for_electricity>
+रुको जरा. यह है बीयू नम्बर <bu_number_for_electricity>
+एक मिनट. बी यू संख्या है <bu_number_for_electricity>
+यह है  बिलिंग यूनिट नंबर <bu_number_for_electricity>
+बिलिंग यूनिट है <bu_number_for_electricity>
+हाँ मेरा बिलिंग यूनिट नंबर है <bu_number_for_electricity>
+<bu_number_for_electricity> है मेरा बिलिंग यूनिट नंबर 
+<bu_number_for_electricity> है बी यू नंबर 
+अभी बताता हूँ . बीयू नंबर है <bu_number_for_electricity>
+रुको जरा . यह बीयू नम्बर है <bu_number_for_electricity>
+एक सेकेंड रुको. बताता हूँ बी यू नंबर नंबर है <bu_number_for_electricity>

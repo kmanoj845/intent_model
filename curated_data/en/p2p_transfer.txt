@@ -1,0 +1,159 @@
+﻿# short sentences without entity
+
+Money transfer
+Transfer money
+Pay money to
+Pay money 
+Make payment to
+Make payment
+Want to pay
+Wanted to make payment
+"Send money please."
+"Need to transfer funds."
+"Remit some money."
+"Send money electronically."
+"Wire money to account."
+"Want to use money transfer service."
+"I need to send some money."
+"want to transfer funds."
+"I'd like to send money."
+"planning to remit funds."
+"send some money."
+"I want to transfer funds."
+"I'd like to send money ."
+"remit funds."
+"Transfer some money."
+"transfer funds."
+"Funds need to be transferred ."
+"I intend to remit money ."
+"Transmitting funds is necessary."
+"I'm planning to forward money."
+"I need to wire funds."
+"Sending money."
+"Remitting funds
+"Dispatch money."
+"I'm remitting funds."
+"I'm looking to transmit money."
+"Send money please."
+
+"Send money please from upi "
+Money transfer using  upi
+Transfer money from upi balance
+from upi balance Pay money to
+Pay money from upi account
+from upi account Make payment to
+Make payment using upi
+Want to pay from upi 
+Wanted to make payment using upi
+"Send money please from upi."
+"Need to transfer funds using upi."
+
+
+# medium length sentences without entity
+
+"I'd like to transfer some funds."
+"need to send money to someone."
+"looking to remit some funds."
+"interested in sending money electronically."
+"I'm planning to wire some money to another account."
+"I'm thinking about sending money through you."
+"Funds to be transferred to to a mobile number."
+"I intend to remit money to a number."
+"to a mobile number Transmitting funds.
+"I'm planning to forward money to a mobile ."
+"I need to wire funds to to a mobile number." 
+"Sending money a number.
+Using upi make Money transfer
+Transfer money using upi balance
+"I'd like to transfer some funds from upi account."
+"need to send money to someone."
+"looking to remit some funds."
+"interested in sending money electronically."
+"I'm planning to wire some money to another account."
+"I'm thinking about sending money through you."
+Pay money to
+Pay money from my upi balance
+Use upi to Make payment to
+Make payment 
+Want to pay
+Wanted to make payment
+
+
+# short sentences with amount_of_money and / or mobile_number
+
+please pay rupees two hundred via upi
+pay rupees thirty seven to double nine double eight double seven double six double seven
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi
+transfer four hundred five rupees to mobile eight seven six seven eight eight seven double two on upi
+pay rupees thirty seven to nine nine eight eight seven seven six six seven seven
+send rupees seventeen using upi of this number double six nine eight double seven double six two nine
+send rupees seventy using upi of this number double six nine eight double seven double six two nine
+transfer four hundred five rupees to mobile eight seven six seven eight eight eight seven two two on upi
+upi pay eight hundred rupees to triple nine triple eight six two double seven
+send six hundred rupees using upi to this number double six two seven eight eight seven double two
+make a fifty two rupees upi payment to six three six double four eight seven two nine zero
+upi pay this number nine eight seven six five three four two five one one hundred five rupees
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two nine four
+upi transfer one hundred five two six three six four seven eight seven two nine zero
+upi pay rupees ninety eight two six three six four seven eight seven two nine zero
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi
+send six hundred rupees using upi to this number double six two seven triple eight seven double two
+initiate upi transfer of eight hundred rupees to nine eight double eight double eight double eight double eight
+make fifty two rupees upi payment to six three six double four eight seven two nine zero
+upi transfer one zero five two six three six four seven eight seven two nine zero
+can you please transfer one hundred rupees for my upi account
+can you please transfer one hundred rupees to bangalore water supply sewerage company
+pay fifty thousand forty two via upi
+pay rupees two hundred via upi
+pay thirty seven rupees two nine nine double eight double seven double six double seven
+send rupees seventy using upi on number six six nine eight seven seven six six two nine
+upi pay eight hundred rupees two nine nine nine eight eight eight six two seven seven
+pay thirty seven rupees two double nine double eight double seven double six double seven
+pay thirty seven rupees to double nine double eight double seven double six double seven
+transfer four hundred five rupees to mobile eight seven six seven triple eight seven double two on upi
+send rupees seventy using upi of this number six six nine eight double seven double six two nine
+send six hundred rupees using upi to this number six six two seven triple eight seven double two
+upi pay this number nine eight seven six five four three two one zero one hundred and five rupees
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two ninety four
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero
+make a upi transfer nine hundred rupees to mobile double six nine eight seven double six two niney four
+upi pay this number nine eight seven six five four three two five one rupees
+upi transfer one hundred fifteen rupees two six three six four seven eight seven two nine zero
+upi transfer one hundred fifteen rupees
+upi transfer one one five rupees to six three six four seven eight seven two nine zero
+can you please transfer one hundred rupees to my upi account
+sent five hundred rupees via upi
+Transfer <amount_of_money> using upi.
+Use upi to Remit <amount_of_money>.
+send <amount_of_money> from upi balance.
+"Need to transfer funds to <mobile_number>."
+"Want to make payment to <mobile_number>."
+"Remit some money to <mobile_number> use upi."
+"Send money to <mobile_number>."
+"Wire money to <mobile_number>."
+"I want to use money transfer service to send money to <mobile_number>."
+Transfer <amount_of_money> to <mobile_number> use upi account.
+Remit <amount_of_money> to <mobile_number>.
+send <amount_of_money> to <mobile_number>.
+Using upi balance Make payment of <amount_of_money> to <mobile_number>.
+"<amount_of_money> I need to send."
+"<amount_of_money> transfer from upi account."
+"<amount_of_money> send to number <mobile_number>."
+"<amount_of_money> I am planning to remit number is <mobile_number>."
+"<amount_of_money> I want to transfer from upi balance."
+"<amount_of_money> I'd like to send to mobile <mobile_number>."
+"<amount_of_money> transfer to <mobile_number>."
+"<amount_of_money> transfer to <mobile_number>."
+
+
+# short sentences with amount_of_money and / or <bank_name>
+
+Transfer <amount_of_money> from account in <bank_name>.
+Remit <amount_of_money> from savings account in <bank_name>.
+send <amount_of_money> from current account in <bank_name>.
+"Want to make payment from an account in <bank_name>."
+"Remit some money from my current account in <bank_name>."
+"Send money from my saving account in <bank_name>."
+"Wire money from my savings account in <bank_name>."
+"I want to use money transfer service to send money from current account in <bank_name>."

@@ -1,0 +1,152 @@
+#short sentences
+
+
+Paying loan installment.
+Pay loan due
+Making payment for loan dues
+Making EMI payment.
+Clearing loan dues 
+Submitting installment payment .
+Settling loan EMI now.
+Transferring EMI amount.
+Sending loan installment payment.
+Finalizing EMI payment now.
+Sending loan installment amount.
+Making EMI payment from upi
+Paying loan installment from upi.
+Pay loan due using upi
+Upi for Making payment for loan dues
+Making EMI payment from upi balance.
+Clearing loan dues from upi account
+Upi pay for Submitting installment payment.
+Pay from upi to Settle loan EMI dues.
+Transferring from Upi EMI amount
+Sending loan installment payment using upi.
+Finalizing EMI due payment now using upi account.
+Send through upi loan installment amount.
+Making EMI due payment through upi
+
+
+#medium and long sentences
+
+
+like to make a payment for my loan installment.
+I want to remit a payment towards my loan installment.
+submit a payment for my loan dues.
+ready to transfer funds for loan dues.
+would like to settle loan due by making a payment.
+want to fulfill dues  obligation by making a payment.
+plan to remit a payment for loan.
+I am looking to make a payment to satisfy my loan payment.
+ready to remit a payment on loan.
+I'm interested in making a payment to fulfill loan obligation.
+Planning to remit the loan EMI payment.
+Intending to fulfill the loan EMI obligation by making a payment.
+Transferring funds to settle the loan EMI.
+Making a payment towards the loan EMI.
+Decided to submit a payment to fulfill the loan EMI obligation.
+Ready to fulfill the loan EMI obligation by remitting a payment.
+Intention to make a payment for the loan EMI.
+Interested in remitting a payment towards the loan EMI.
+Committed to making a payment for the loan EMI.
+Goal is to fulfill the loan EMI obligation by transferring funds.
+
+using upi like to make a payment for my loan installment.
+I want to remit a payment from upi towards my loan installment.
+submit a upi payment for my loan dues.
+ready to transfer funds from upi balance for loan dues.
+would like to settle loan due by making a payment from upi balance.
+want to fulfill dues  obligation by making a payment using upi account.
+using upi plan to remit a payment for loan.
+I am using upi to make a payment to satisfy my loan payment.
+use upi to remit a payment on loan.
+
+ # short sentences with  <mobile_number>.
+
+
+Paying loan installment for mobile number <mobile_number>.
+Fulfilling loan obligation for this phone <mobile_number>.
+Clearing loan EMI for <mobile_number>.
+Making loan payment against number <mobile_number>.
+Settling loan installment for <mobile_number>.
+Paying loan due <mobile_number>.
+Fulfilling loan commitment for <mobile_number>.
+Clearing loan obligation  number is <mobile_number>.
+Making payment for loan mobile numebr is <mobile_number>.
+Settling loan installment for <mobile_number>.
+
+Paying from upi loan installment for mobile number <mobile_number>.
+Fulfilling loan obligation using upi for this phone <mobile_number>.
+Clearing loan EMI from upi balance for <mobile_number>.
+Making loan payment against number <mobile_number> using upi account.
+Settling loan installment for <mobile_number> from upi balance.
+Paying from upi balance loan due <mobile_number>.
+
+ # short sentences with  <loan_account_number>.
+
+Paying loan installment loan number <loan_account_number>.
+Fulfilling loan obligation for <loan_account_number>.
+Clearing loan EMI for <loan_account_number>.
+Making loan payment for <loan_account_number>.
+Settling loan installment this number <loan_account_number>.
+Paying loan due <loan_account_number> is loan number
+Fulfilling loan commitment for <loan_account_number>.
+Clearing loan obligation for loan account number <loan_account_number>.
+Making payment <loan_account_number> is loan account number.
+Settling loan installment for number <loan_account_number>.
+
+Paying from upi account <loan_account_number> is loan number
+Fulfilling loan commitment for <loan_account_number> using upi balance.
+Clearing from upi account loan obligation for loan account number <loan_account_number>.
+Making payment using upi <loan_account_number> is loan account number.
+using upi balance to settle loan installment for number <loan_account_number>.
+
+
+ # medium and long sentences with  <mobile_number>.
+
+
+I would like to make a payment towards the loan associated with the phone number <mobile_number>.
+I am interested in paying off the loan dues linked to <mobile_number>.
+I intend to make a payment on the loan due amount that is connected to <mobile_number>.
+My goal is to settle the outstanding balance on the loan associated with <mobile_number>.
+ready to submit a EMI payment that is linked to <mobile_number>.
+clear the remaining EMI due amount connected to <mobile_number> by making a payment.
+I am planning to make a payment towards the loan that is associated with <mobile_number>.
+I would like to satisfy the debt on the loan that is tied to <mobile_number> by submitting a upi payment.
+I intend to fulfill my obligation by making a upi payment towards the installment linked to <mobile_number>.
+pay off using upi the dues associated with <mobile_number> by submitting a payment.
+I would like to fulfill my obligation by making a upi payment towards the due amount linked with <mobile_number>.
+To fulfill my obligation, I plan to make a payment from upi account for the loan linked with <mobile_number>.
+Use upi balance for Making the EMI payment for the loan associated with <mobile_number> is my priority.
+I am committed to clearing the installment payment for the loan connected to <mobile_number>.
+Settling one of the loan installments linked with <mobile_number> is on my to-do list.
+I am prepared to fulfill my loan obligation by making a payment for <mobile_number>.
+To meet my financial commitment, I will be making a payment towards the loan installment associated with <mobile_number>.
+Clearing my obligation for the loan linked with <mobile_number> is my intention.
+I am planning to pay off my loan EMI for <mobile_number>.
+Fulfilling my loan installment is a priority, and I am ready to make the payment for <mobile_number>.
+Settling my loan obligation by making a payment for <mobile_number> is my goal.
+
+ # medium and long sentences with  <loan_account_number>.
+
+I would like to make a payment towards the loan associated with the number <loan_account_number>.
+I am interested in paying off the loan dues linked to <loan_account_number>.
+I intend to make a payment on the loan due amount for <loan_account_number>.
+My goal is to settle the outstanding balance on the loan associated with <loan_account_number>.
+ready to submit a EMI payment loan number is <loan_account_number>.
+clear the remaining EMI due amount connected to <loan_account_number> by making a payment.
+I am planning to make a payment towards the loan that is associated with <loan_account_number>.
+I would like to satisfy the debt on the loan that is tied to <loan_account_number> by submitting a upi payment.
+I intend to fulfill my obligation by making a upi payment towards the installment for laon <loan_account_number>.
+pay off using upi the dues linked with <loan_account_number> by submitting a payment.
+I would like to fulfill my obligation by making a upi payment towards the due amount linked with <loan_account_number>.
+To fulfill my obligation, I plan to make a payment from upi account for the loan linked with <loan_account_number>.
+Use upi balance for Making the EMI payment for the loan associated with <loan_account_number> is my priority.
+I am committed to clearing the installment payment for the loan connected to <loan_account_number>.
+Settling one of the loan installments linked with <loan_account_number> is on my to-do list.
+I am prepared to fulfill my loan obligation by making a payment for <loan_account_number>.
+To meet my financial commitment, I will be making a payment towards the loan installment associated with <loan_account_number>.
+Clearing my obligation for the loan linked with <loan_account_number> is my intention.
+I am planning to pay off my loan EMI for <loan_account_number>.
+Fulfilling my loan installment is a priority, and I am ready to make the payment for <loan_account_number>.
+Settling my loan obligation by making a payment for <loan_account_number> is my goal.

@@ -1,0 +1,140 @@
+﻿# short sentences
+
+
+"Pay phone bill now."
+"Pay phone bill."
+"Settle mobile bill."
+Settle postpaid dues
+"Clear mobile phone bill."
+"Make payment towards mobile bill  ."
+"Pay mobile bill online."
+"Cover phone bill."
+"Pay postpaid mobile bill online."
+
+
+"Pay this phone bill now."
+"Pay this phone bill."
+"Settle mobile bill for this number."
+Settle postpaid dues for this number
+"For this mobile number Clear bill."
+"Make payment towards this number."
+"Pay this number mobile bill online."
+"Cover phone bill due for this number."
+"Pay postpaid mobile bill for this number."
+
+
+"Gotta pay my mobile phone bill."
+"Settling my phone bill now."
+"Making postpaid mobile bill payment  ."
+"Paying mobile phone bill online ASAP."
+"Clearing my phone bill balance."
+"Covering my postpaid mobile bill payment."
+"Settling my postpaid cellular bill now."
+"Allocating funds for postpaid phone bill."
+"Making prompt phone bill payment."
+"Committing to pay phone bill."
+Pay for postpaid connection
+Make payment for postpaid mobile connection
+Settle postpaid mobile dues
+
+
+"Pay phone bill now using upi."
+"Pay phone bill through upi account."
+"Use upi to Settle mobile bill."
+"Using upi Clear mobile phone bill."
+"Make payment towards mobile bill  from upi balance."
+"Pay mobile bill online using upi account."
+"Use upi balance to Cover phone bill."
+"Pay postpaid mobile bill online through upi account."
+
+
+"Gotta pay my postpaid mobile phone bill from upi."
+"Use upi to Settle my postpaid bill ."
+"Using upi for postpaid mobile payment  ."
+"Paying mobile phone bill using upi."
+"Clearing postpaid phone bill balance through upi payment."
+"Covering mobile bill dues using upi payment."
+"Upi payment for postpaid cellular bill."
+"funds through upi for phone bill."
+
+
+# medium and long length sentences
+
+
+"I need to settle my postpaid phone bill as it's due by the end of the month."
+"I'm planning to make a payment towards my postpaid mobile phone bill to avoid any disruptions in service."
+"I want to clear my outstanding mobile bill to maintain an active phone line."
+"looking to pay my monthly phone bill online for convenience."
+"ready to take care of my postpaid phone bill payment and ensure my phone service is uninterrupted."
+"intend to fulfill my responsibility by paying my phone bill on time."
+"make a payment towards my cellular bill to keep my account in good standing."
+"I'm aware my postpaid mobile phone bill is due and I'm prepared to make a payment to avoid any disruptions."
+"committed to paying my phone bill promptly to maintain my phone service."
+
+
+# short and medium length sentences with <mobile_number>
+
+
+"Paying <mobile_number> dues now."
+"Settling <mobile_number> postpaid dues."
+"Clearing bill for <mobile_number>."
+"Making payment to pay bill of <mobile_number>."
+"Intent to pay <mobile_number> bill."
+"Settling mobile number <mobile_number> balance."
+"Paying phone number  <mobile_number> bill online."
+"Making prompt payment to clear postpaid balance against <mobile_number>."
+"Committing to pay <mobile_number> bill."
+"Covering <mobile_number> bill payment."
+
+
+"Paying <mobile_number> dues now from upi."
+"Upi payment for Settling <mobile_number> postpaid dues."
+"Clearing bill for <mobile_number> using upi."
+"Making payment from upi to pay bill of <mobile_number>."
+"Intent to pay <mobile_number> bill using upi account."
+"Settling mobile number <mobile_number> balance."
+"Paying from upi phone number  <mobile_number> bill online."
+"upi payment to clear postpaid balance against <mobile_number>."
+
+
+"The bill for phone number <mobile_number> needs to be paid."
+"Planning to settle the bill for <mobile_number>."
+"Clearing the outstanding bill for mobile number <mobile_number>."
+"Making a payment for <mobile_number> bill."
+"Intending to pay the bill for mobile phone number <mobile_number>."
+"Ready to settle the postpaid bill for <mobile_number>."
+"Taking care of the outstanding bill for postpaid number <mobile_number>."
+"Making a payment towards <mobile_number> postpaid bill."
+"Ensuring the bill for phone number <mobile_number> is paid."
+"Committing to clear the outstanding bill for postpaid number <mobile_number>."
+
+
+# short and medium length sentences with <telephone_operator>
+
+
+"Pay <telephone_operator> phone bill now."
+"Pay <telephone_operator> bill."
+"Settle <telephone_operator> mobile bill."
+Settle <telephone_operator> postpaid dues
+"Clear <telephone_operator> mobile phone bill."
+"Make payment towards <telephone_operator> bill."
+"Pay <telephone_operator> bill online."
+"Cover <telephone_operator> bill."
+"Pay <telephone_operator> postpaid bill online."
+
+
+I want to settle the phone bill with <telephone_operator>.
+I would like to cover the mobile dues for <telephone_operator>.
+Want to make payment towards postpaid bill to <telephone_operator>.
+Clearing the postpaid dues with <telephone_operator>.
+I want to ensure all outstanding dues are cleared for <telephone_operator>.
+Settle the postpaid mobile phone bill for <telephone_operator>.
+pay the phone dues to <telephone_operator>.
+I want to settle the <telephone_operator> mobile bill.
+like to cover the <telephone_operator> phone bill.
+Want to make payment towards <telephone_operator> bill .
+Clearing the <telephone_operator> postpaid phone bill.
+I want to ensure all outstanding dues of <telephone_operator> are cleared.
+Settle the <telephone_operator> bill.
+pay the <telephone_operator> bill.
+Make payment for <telephone_operator> phone bill.

@@ -1,0 +1,269 @@
+﻿# short sentences
+
+Pay for insurance installment
+Pay for insurance policy
+Renew insurance
+Make payment for insurance
+Make Payment for insurance policy
+Pay for lic
+Pay for lic policy installment
+Renew lic insurance
+Make payment for lic
+Pay for premium
+Make Payment for insurance premium
+Pay for lic premium
+Pay for lic insurance premium
+Pay for term insurance installment
+Pay for money back policy
+Pay for endowment policy installment
+Renew term insurance
+Make payment for money back insurance policy
+Make Payment for endowment insurance policy
+Pay for lic endowment
+Pay for lic money back policy
+"renewing my endowment policy."
+"Please renew my life term plan."
+Making a payment to renew money back policy.
+Paying for life insurance plan.
+renew my LIC policy
+Renew policy please
+renew insurance plan
+Pay for lic installment
+Making payment for insurance premium
+paying for insurance premium
+Pay for lic endowment using upi
+Upi Payment for lic money back policy
+Upi Pay for term insurance installment
+Pay from upi money back policy
+Upi payment for endowment policy installment
+Renew term insurance through upi account
+Pay for ulip insurance installment
+Pay for ulip insurance policy
+Renew ulip insurance
+Make payment for ulip insurance
+Make Payment for ulip policy
+Pay for ulip 
+Pay for ulip policy installment
+Renew ulip insurance
+Make payment for ulip 
+Pay for ulip premium
+
+# medium and long sentences
+
+Make payment using upi balance for money back insurance policy
+Make Payment from upi balance for endowment insurance policy
+"Use upi for renewing my endowment policy."
+"Please renew my life term plan using upi."
+Making a payment through upi account to renew money back policy.
+Paying for life insurance plan using upi.
+Use upi to renew my LIC policy
+Pay through upi to Renew policy please
+Upi payment to renew insurance plan
+Pay for lic installment from upi account
+Making payment for insurance premium using upi balance
+paying from upi for insurance premium
+"Need to pay endowment plan premium."
+"Term policy premium payment pending."
+"Moneyback plan premium due soon. Pay from upi account"
+"Life policy premium needs payment."
+"Renewing endowment policy, pay premium from upi balance."
+"Term plan premium payment required through upi."
+"Money back policy premium overdue."
+"Life plan premium needs attention."
+"Endowment plan premium payment pending."
+"Term policy premium due for renewal."
+"Moneyback plan premium payment overdue."
+"Life policy premium requires immediate payment."
+"Renewing endowment policy, premium pending."
+"Term plan premium payment deadline approaching."
+"Money back policy premium payment required."
+"Life plan premium needs to be paid."
+"Endowment plan premium payment overdue."
+"Term policy premium payment pending renewal."
+"Moneyback plan premium due for payment."
+"Life policy premium requires prompt payment."
+"I'm interested in renewing my insurance policy."
+"I would like to continue my life insurance coverage and renew my plan."
+"I intend to extend my insurance policy by renewing it."
+"planning on renewing my insurance policy to maintain my coverage."
+renewing my insurance plan to ensure my protection."
+"looking to renew my life insurance policy for another term."
+"renew my insurance plan to keep my coverage up-to-date."
+"I'm ready to go ahead and renew my insurance policy."
+thinking about renewal of my insurance policy to safeguard my assets."
+"Want renewal of my insurance plan and maintain my peace of mind."
+
+
+"I would like to continue my insurance coverage and renew my plan."
+"I intend to extend my insurance policy by renewing it."
+"planning on renewing my insurance policy to maintain my coverage."
+renewing my insurance plan to ensure my protection."
+"looking to renew my insurance policy for another term."
+"renew my insurance plan to keep my coverage up-to-date."
+"I'm ready to go ahead and renew my insurance policy."
+thinking about renewal of my insurance policy to safeguard my assets."
+"Want renewal of my insurance plan and maintain my peace of mind."
+I need to make a payment for my insurance premium.
+I'd like to take care of my life insurance premium payment.
+Can I pay for my insurance plan now?
+I want to submit my term policy payment.
+I'd like to pay my insurance premium, please.
+I'm looking to pay my insurance premium today.
+I need to pay my insurance premium, can you help me?
+Can you assist me with paying my insurance premium?
+I'm ready to pay my insurance installment, how can I do it?
+I need to renew my insurance policy.
+I'm interested in renewing my insurance policy.
+I plan to renew my insurance policy.
+I want to extend my insurance policy.
+I am considering renewing my insurance policy.
+I am looking to renew my insurance policy.
+I wish to renew my insurance policy.
+Make a payment for the LIC policy
+Help me in policy renewal
+Help needed in paying insurance premium
+premium payment to be done. Can you help?
+Can you help me pay LIC premium?
+How much premium is to be paid for renewal?
+Insurance installment to be paid.
+LIC installment is to be paid.
+when is my policy due for renewal?
+I need to make a payment for my insurance plan.
+I'd like to pay for my endowment plan premium.
+Can I pay for my money back policy now?
+I want to submit my term plan payment.
+I want to pay insurance premium, please.
+pay my insurance premium for the term plan.
+pay insurance premium for the endowment policy.
+Renew my term insurance.
+I need to pay lic premium of moneyback policy, can you help me?
+Can you assist me with paying my insurance premium of term policy?
+ready to pay insurance installment, how can I do it?
+Paying for life insurance installment.
+I need to renew my life insurance term policy.
+Interested in renewing endowment insurance plan.
+plan to renew moneyback insurance policy.
+renewing money back insurance policy.
+I want to extend term policy.
+considering renewing my term plan.
+I want renewal of my insurance policy.
+I wish to renew life insurance policy.
+Make a payment for the L I C instalment
+Help me in term policy renewal
+Help needed in paying premium for insurance plan
+premium payment to be done. Can you help?
+Can you help me pay L I C premium?
+premium to be paid for renewal
+Insurance installment to be paid.
+LI C installment is to be paid.
+"interested in renewing my endowment plan."
+"I would like to continue my term policy and renew it."
+"extend my moneyback plan by renewing it."
+renewing my life policy to maintain my coverage."
+"renewal of my endowment policy to ensure my financial goals are met."
+"looking to renew my term plan for another term."
+"considering renewing my money back policy to receive periodic payouts."
+"go ahead and renew my life plan to protect my loved ones financially."
+"renewing my term policy to secure my family's future."
+"Renewal of my endowment policy and maximize my returns."
+"renew my moneyback plan and receive regular cashbacks."
+"continuing my life policy and renewing it for another term."
+"considering renewing my term plan to ensure my dependents are financially secure."
+"looking to renew my money back policy and avail of the guaranteed money back feature."
+"thinking about renewing my endowment plan to build my savings for the future."
+"go ahead and renew my term policy to protect my family from unforeseen events."
+"I'm actively exploring the option to renew my life plan and ensure my loved ones are financially protected."
+"renewing my moneyback policy and continue receiving periodic payouts."
+"Please renew my endowment policy to avail of the maturity benefit."
+"renew my term plan to maintain my coverage and financial security."
+"Renewing my term policy is a priority for me."
+"Maintaining my life policy is important, so I plan to renew it."
+"Protecting my loved ones financially is crucial, so I plan to renew my life plan."
+"exploring renewing my endowment policy."
+"Renewing my moneyback plan and receiving regular cashbacks is appealing."
+"Continuing my life policy and renewing it for another term is my plan."
+"Renewing my endowment plan to build savings for the future is on my mind."
+"Ensuring my loved ones are financially protected is a priority, and I'm actively exploring renewing my life plan."
+"Renewing my moneyback policy and continuing to receive periodic payouts is appealing."
+"Availing the maturity benefit is a consideration for renewing my endowment policy."
+"Maintaining my coverage and financial security is important, so I plan to renew my term plan."
+
+# short sentences with <mobile number>
+
+Pay for insurance installment with mobile <mobile_number>
+Pay for insurance policy linked with phone <mobile_number>
+Renew insurance for mobile number <mobile_number>
+Make payment for insurance attached with <mobile_number>
+Make Payment for insurance policy for phone number <mobile_number>
+Pay for lic with number <mobile_number>
+Pay for lic policy installment for <mobile_number>
+"renewing my endowment policy linked with <mobile_number>."
+"Please renew my life term plan attached with <mobile_number>."
+Making a payment to renew money back policy with this number <mobile_number>.
+Paying for life insurance plan for mobile <mobile_number>.
+Pay for ulip installment with mobile <mobile_number>
+Pay for ulip insurance policy linked with phone <mobile_number>
+Renew ulp for mobile number <mobile_number>
+Make payment for ulip  attached with <mobile_number>
+Make Payment for ulip insurance policy for phone number <mobile_number>
+
+# long sentences with <mobile_number> 
+
+"The insurance premium linked with <mobile_number> for my needs to be paid."
+"I'm looking to make the payment for my term policy premium linked with <mobile_number>."
+"The premium for my moneyback plan attached with <mobile_number> is due for payment."
+"I need to pay the premium for my life policy attached with <mobile_number>."
+"The insurance premium for my endowment policy associated with <mobile_number> is up for payment."
+"I'm planning to pay the premium for my term plan associated with <mobile_number>."
+"The premium for my money back policy linked with <mobile_number> needs to be paid."
+"I'm intending to make the payment for my life plan premium attached with <mobile_number>."
+"The insurance premium linked with <mobile_number> for my endowment plan is due."
+"I'm looking to make the payment for my term policy premium linked with <mobile_number>."
+"The premium for my moneyback plan linked with <mobile_number> needs to be paid on time."
+"I need to pay the premium for my life policy linked with <mobile_number> to maintain coverage."
+"The insurance premium for my endowment policy linked with <mobile_number> is up for payment."
+"I'm planning to pay the premium for my term plan linked with <mobile_number> to keep my policy active."
+"The premium for my money back policy linked with <mobile_number> is due for payment."
+"I'm intending to make the payment for my life plan premium linked with <mobile_number> to ensure protection."
+"The insurance premium linked with <mobile_number> for my endowment plan is due for renewal."
+"I'm looking to make the payment for my term policy premium associated with <mobile_number> to maintain coverage."
+"The premium for my moneyback plan associated with <mobile_number> needs to be paid promptly."
+"I need to pay the premium for my life policy associated with <mobile_number> to keep my policy in force."
+
+# short sentences with <insurance_policy_issuer>
+
+Pay for <insurance_policy_issuer> insurance installment 
+Pay for <insurance_policy_issuer> insurance policy
+Renew <insurance_policy_issuer> insurance
+Make payment for <insurance_policy_issuer> insurance
+Make Payment for <insurance_policy_issuer>policy 
+Pay for <insurance_policy_issuer> policy
+Payment for <insurance_policy_issuer> policy
+renewing my endowment policy from <insurance_policy_issuer>
+"Please renew my life term plan from <insurance_policy_issuer>."
+Making a payment to renew money back policy from <insurance_policy_issuer>.
+Paying for life insurance plan from <insurance_policy_issuer>.
+
+Pay for <insurance_policy_issuer> ulip policy
+Payment for <insurance_policy_issuer> ulip policy
+Paying for ulip life insurance plan from <insurance_policy_issuer>.
+
+# long sentences with <insurance_policy_issuer> 
+
+"The ulip premium from <insurance_policy_issuer> for my needs to be paid."
+"I'm looking to make the payment for my term policy premium from <insurance_policy_issuer>."
+"The premium for my moneyback plan from <insurance_policy_issuer> is due for payment."
+"I need to pay the premium for my life policy of <insurance_policy_issuer>."
+"The <insurance_policy_issuer> insurance premium for my endowment policy is up for payment."
+"I'm planning to pay the premium for my <insurance_policy_issuer> term plan.
+"The premium for my money back <insurance_policy_issuer> policy needs to be paid."
+"I'm intending to make the payment for my life plan premium from <insurance_policy_issuer>."
+"The insurance premium from <insurance_policy_issuer> for my endowment plan is due."
+"The premium for my money back policy linked with <insurance_policy_issuer> is due for payment."
+"I'm intending to make the payment for my life plan premium linked with <insurance_policy_issuer> to ensure protection."
+"The insurance premium linked with <insurance_policy_issuer> for my endowment plan is due for renewal."
+"I'm looking to make the payment for my term policy premium associated with <insurance_policy_issuer> to maintain coverage."
+"The premium for my moneyback plan associated with <insurance_policy_issuer> needs to be paid promptly."
+"I need to pay the premium for my life policy associated with <insurance_policy_issuer> to keep my policy in force."
+
+

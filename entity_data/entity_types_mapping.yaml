@@ -1,0 +1,17 @@
+open_set_entities:
+  - <amount_of_money>
+  - <mobile_number>
+  - <vehicle_number>
+  - <policy_number>
+  - <bank_account_number>
+  - <consumer_number>
+  - <bu_number_for_electricity>
+  - <loan_account_number>
+closed_set_entities:
+  - <bank_name>
+  - <electricity_board>
+  - <lpg_gas_provider_name>
+  - <pipe_gas_provider_name>
+  - <state_name>
+  - <insurance_policy_issuer>
+  - <telephone_operator>

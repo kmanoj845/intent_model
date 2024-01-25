@@ -1,0 +1,137 @@
+# short sentences
+
+
+part EMI due payment
+partial loan dues payment
+Part payment for due loan amount.
+Paying partial loan amount.
+EMI part payment
+Installment partial payment
+Part payment for installment.
+Paying partial EMI amount.
+Intend part payment for loan.
+Plan partial installment payment.
+Contributing partially towards EMI.
+Making part payment on installment.
+Fractional payment for EMI.
+Partial EMI payment dues.
+Partial payment remaining on loan.
+Paying part of installment.
+Partial payment for my debt.
+Paying partial amount towards my loan.
+Partial payment requested for my debt.
+Intend partial payment for my loan.
+Planning partial payment for my debt.
+"Pay portion of loan installment."
+"Meet loan obligation with partial payment."
+"Ready for loan partial payment."
+"Commit to EMI obligation part pay."
+"Determined for loan partial payment."
+"Prepared for installment part pay."
+"Eager to pay half loan portion."
+EMI due payment from upi
+partial loan due payment using upi account
+Part payment for dues loan amount from upi balance
+Use upi for Paying partial loan due amount.
+Paying fraction of my loan.
+Partial payment for my outstanding balance.
+Partial payment dues on my debt.
+Partial payment remaining on my loan.
+Using upi make EMI part payment
+Installment partial payment using upi balance
+Part payment for installment from upi account.
+Use upi for Paying partial EMI amount.
+Using upi balance Intend part payment for loan.
+Plan partial installment payment from upi account.
+Contributing partially towards EMI payment from upi.
+Making part payment on installment through upi.
+Upi payment Fractional payment for EMI.
+Make payment using upi for Partial EMI due.
+UPI payment for Partial payment remaining on loan.
+Paying part of installment from upi account.
+Partial payment for my debt through upi balance.
+Paying through UPI partial amount towards my loan.
+Partial payment through upi balance requested for my debt.
+Intend partial payment for my loan using upi.
+Make Partial upi payment dues on my debt.
+Partial payment from upi balance for remaining on my loan.
+"Contribute partial payment for loan obligation."
+
+
+# short sentences with <mobile_number>
+
+
+EMI part payment for loan for number <mobile_number>
+Installment partial payment dues on phone <mobile_number>
+Loan lined with <mobile_number>. Part payment for installment.
+Paying partial EMI amount on loan attached with <mobile_number>.
+Intend part payment for loan on mobile number <mobile_number>.
+Plan partial installment payment on <mobile_number>.
+Loan on mobile <mobile_number>. Contributing partially towards EMI.
+Making part payment on loan with <mobile_number>.
+Fractional payment for EMI for phone number <mobile_number>.
+
+
+"Part pay loan linked <mobile_number>."
+"EMI part payment for loan <mobile_number>."
+Partial payment for loan <mobile_number>.
+Part contributing to loan <mobile_number>.
+Making part payment for loan <mobile_number>.
+Partial EMI payment for loan <mobile_number>.
+Paying a portion of due for loan <mobile_number>.
+Fulfilling half loan due <mobile_number>.
+Settling half loan with part payment <mobile_number>.
+Loan payment in partial amount <mobile_number>.
+Repaying loan with partial due payment <mobile_number>.
+Meeting loan obligation partially <mobile_number>.
+
+
+# medium and long sentences
+
+
+I would like to make a partial payment towards my loan.
+intend to pay a part amount for my loan.
+plan to make a partial payment towards my loan due amount.
+wanting to pay a portion of my loan as a partial payment.
+like to make a part payment towards my remaining loan balance.
+I would like to pay a fraction of my loan as a partial payment.
+I intend to make a partial payment towards my outstanding loan due.
+paying a partial amount towards my remaining loan balance.
+Making payment of a portion of my outstanding dues as a partial payment.
+I want to make a part payment towards my remaining loan amount.
+make a part payment towards my EMI.
+I intend to pay a partial amount for my EMI.
+I plan to make a partial payment towards my EMI.
+want to pay a portion of my Installment as a partial payment.
+like to make a partial payment towards my outstanding EMI.
+I would like to pay a fraction of my Installment as a partial payment.
+make a partial payment towards my remaining EMI balance.
+I plan to pay a partial amount towards my remaining Installment balance.
+I would like to pay a portion of my outstanding EMI as a partial payment.
+I want to make a partial payment towards my remaining Installment amount.
+Making partial payment towards my obligation.
+I want to make a partial payment towards my installment.
+planning to pay a portion of my EMI as a partial dues amount.
+I intend to make a partial payment for my installment.
+like to contribute partially towards my EMI.
+I'm considering making a partial payment on my installment.
+make a partial remittance towards my EMI.
+I plan to pay a fraction of my installment as a partial amount.
+I'm intending to make a part payment towards my EMI.
+I'd like to make a part disbursement for my installment.
+I'm planning to chip in a part amount towards my EMI.
+
+
+# medium and long sentences with <mobile_number>
+
+
+"I'm looking to make a partial payment towards my loan linked with <mobile_number>."
+"To fulfill my loan obligation, I intend to make a part payment associated with <mobile_number>."
+"I'm interested in contributing a partial amount towards my loan's EMI associated with <mobile_number>."
+"Considering my loan installment, I plan to make a partial payment linked with <mobile_number>."
+"As part of my loan obligation, I'm considering making a part payment associated with <mobile_number>."
+"To meet my loan requirement, I intend to pay a portion of my loan installment linked with <mobile_number>."
+"I'm committed to making a partial payment towards my loan's EMI obligation associated with <mobile_number>."
+"With a determined approach, I'm inclined to contribute a partial amount towards my loan obligation linked with <mobile_number>."
+"In order to reduce my loan burden, I'm prepared to make a partial payment against my loan installment associated with <mobile_number>."
+"As part of my loan repayment plan, I'm eager to pay a portion of my loan's installment linked with <mobile_number>."

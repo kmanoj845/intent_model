@@ -1,0 +1,116 @@
+﻿#short sentences
+
+
+Buy diesel
+diesel oil buy
+Buy petrol
+Buy uFill
+uFill voucher buy
+Buy you Fill
+Buy you Fill voucher
+uFil buy
+Buy uFil voucher
+Voucher for diesel
+diesel oil Voucher
+Voucher for petrol
+You Fill service
+uFill service voucher
+uFil service buy
+
+
+Pay for diesel
+Payment for diesel oil
+Make payment for petrol
+Pay for uFill
+uFill voucher payment
+you Fill payment 
+Pay for you Fill voucher
+Make payment for uFil
+
+
+Buy diesel through upi
+Use upi for diesel oil payment
+Buy petrol using upi balance
+Upi account to Buy uFill
+uFill voucher buy using upi account
+Upi balance to Buy you Fill
+Make upi payment for you Fill voucher
+Pay from upi uFil buy 
+Buy uFil voucher payment from upi
+Pay for diesel through upi
+Upi pay for diesel oil Voucher
+You Fill service from upi
+Upi payment for uFill service voucher
+uFil service buy using upi
+
+
+
+
+Need diesel voucher, fifty nine litre.
+Thirty one litre diesel voucher, please.
+Voucher for twenty three litre petrol.
+Twenty five litre diesel voucher.
+One hundred twenty nine liter diesel voucher.
+Buy forty one litre diesel voucher.
+Fuel voucher, fifty four liter  petrol.
+buy a fifty five liter diesel voucher, please.
+Twelve liter ufill voucher
+You fill voucher for thirteen liter oil
+Ufill voucher fifteen liter petrol
+
+
+Pay for diesel voucher, fifty nine  litre.
+Upi payment for thirty one litre diesel voucher, please.
+Pay from upi Voucher for twenty eight liter petrol.
+Twenty seven liter diesel voucher payment using upi.
+Using upi pay for one hunderd and ten litre diesel voucher.
+Buy forty three litre diesel voucher through  upi payment.
+Pay from upi balance for Fuel voucher, fifty six liter  petrol.
+Pay using upi account to buy a nineteen litre diesel voucher, please.
+Buy eleven liter ufill voucher through upi balance
+You fill voucher for twenty liter oil using upi pay
+Use upi account for Ufill voucher fifteen liter petrol
+
+
+#medium and long sentences
+
+
+Hi, I would like to purchase a voucher for twenty eight liters of diesel, please.
+I need to buy a voucher for twenty nine litres of diesel for my upcoming road trip.
+any vouchers available for petrol? like to fill up my tank.
+would like to purchase a voucher for twenty liters of diesel for my work commute.
+I'm going on a long drive this weekend, can I purchase a voucher for eight litres of diesel?
+buy a voucher for ten liters of diesel to use in my farming equipment.
+Do you sell fuel vouchers? I need to purchase one for thirty liters of petrol for my motorcycle.
+Need a twenty nine Liter diesel voucher right now.
+Voucher for petrol to fill up my tank.
+Urgently need a thirty six Litre diesel voucher.
+Planning a road trip, need tenLiter diesel voucher.
+Buy a thirty sevenLitre diesel voucher as soon as possible.
+May I get a fifty three Liter petrol voucher, please?
+like to purchase a forty two Liter diesel voucher.
+Voucher for petrol, as a gift for my brother.
+I need to buy a seventeen Litre diesel voucher .
+Can I purchase a thirty three liter diesel voucher
+
+
+#medium and long sentences with <amount_of_money>
+
+
+Petrol ufill voucher, <amount_of_money> .
+Fuel you fill voucher, <amount_of_money>  petrol.
+Ufil Voucher, <amount_of_money>  diesel, low.
+Can I get a fuel voucher for <amount_of_money>  worth of petrol?
+Low on fuel, buying a <amount_of_money> diesel through uFill voucher .
+Please provide a <amount_of_money>  petrol voucher through you Fill.
+Can I buy a <amount_of_money>  voucher through uFil 
+want to gift a <amount_of_money>  diesel voucher for a family member road trip.
+Low on fuel, buying <amount_of_money>  petrol voucher.
+Can I buy a <amount_of_money> petrol voucher as a gift?
+I want to buy a <amount_of_money>  diesel voucher .
+Please provide a <amount_of_money>  petrol voucher.
+Low on fuel, require <amount_of_money>  petrol voucher.
+Please provide a <amount_of_money>  petrol voucher.
+Can I get a <amount_of_money>  petrol voucher?
+Can I buy a fuel voucher for <amount_of_money> worth of petrol? I need to top up my car.
+Hi, can I get a voucher for <amount_of_money>  worth of petrol? My tank is running low.

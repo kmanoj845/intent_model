@@ -1,0 +1,272 @@
+#short sentences
+
+
+Recharge fastag
+Fastag Recharge
+Recharge my fastag
+Add money to Fastag
+Recharge fast tag
+Fast tag Recharge
+Recharge my fast tag
+Add money to Fast tag
+Recharge first tag
+First tag Recharge
+Recharge my first tag
+Add money to First tag
+Firstag Recharge
+Recharge my firsttag
+Add money to Firsttag
+
+
+Recharge fastag from upi account
+Use upi for Fastag Recharge
+Recharge my fast tag using upi balance
+Add money to Fast tag from upi
+Using upi Recharge firstag
+From upi Add money to Firstag
+
+
+Pay for Recharge fastag
+Make payment for Fastag
+Recharge fast tag account
+Fast tag account Recharge
+Recharge my fast tag account
+Make payment for first tag
+Payment for First tag Recharge 
+Pay to Recharge my first tag
+
+
+Use upi to Pay for Recharge fastag
+Make payment from upi balance for Fastag
+using upi account Recharge fast tag account
+Fast tag account Recharge from upi balance
+Recharge my fast tag account using upi account
+Make payment for first tag from upi balance
+Payment for First tag Recharge  from upi account
+Upi Pay to Recharge my first tag 
+upi payment for Fastag
+Upi Payment for First tag
+Refill FASTag balance.
+Add FASTag funds.
+Reload FASTag account.
+Recharge FASTag wallet.
+Top up FASTag.
+Replenish FAST tag balance.
+Pay FASTag tolls.
+Add FASTag money.
+Reload FASTag funds.
+Top off FASTag
+
+
+Add FAST tag funds.
+Reload FAST tag account.
+Recharge FAST tag wallet.
+Top up FAST tag.
+Add FAST tag money.
+Reload FAST tag funds.
+Top off FAST tag
+
+
+Add First tag funds.
+Reload First tag account.
+Recharge First tag wallet.
+Top up First tag.
+Add First tag money.
+Reload First tag funds.
+Top off First tag
+
+
+#medium length sentences
+
+
+I need to add funds to my FASTag account.
+I want to top up my FASTag balance.
+like to recharge my FAST Tag.
+need to reload my FAST tag account.
+replenish my First Tag balance.
+I need to add money to my First Tag wallet.
+
+
+want to refill my FASTag account.
+I would like to top off my FAST tag balance.
+need to recharge my FAST tag for toll payments.
+I want to make a payment to my FAST tag account for tolls.
+Need to add funds to my First Tag account.
+Looking to top up my First Tag balance.
+
+
+Interested in recharging my FASTag.
+Require a recharge for my FASTag account.
+Want to replenish my FASt Tag balance.
+Looking to add money to my FAST tag wallet.
+Need to reload my First Tag account.
+Interested in topping off my First tag balance.
+Require a recharge for my FAST tag for toll payments.
+Want to make a payment to my FASTag account to cover tolls.
+
+
+# short length sentences with <amount_of_money> 
+
+
+Add <amount_of_money> to FASTag.
+Recharge FAST tag with <amount_of_money>.
+Load <amount_of_money> on FASTag.
+Top up FASTag with <amount_of_money>.
+Replenish <amount_of_money> in FAST tag.
+Add <amount_of_money> for tolls.
+Recharge with <amount_of_money>.
+Load <amount_of_money> for tolls.
+Top up <amount_of_money> on FAST tag.
+Replenish FAST tag with <amount_of_money>.
+Add <amount_of_money> to FAST tag.
+Recharge FAST tag with <amount_of_money>.
+Load <amount_of_money> on FAST tag.
+Top up FAST tag with <amount_of_money>.
+Replenish <amount_of_money> in FAST tag.
+Add <amount_of_money> for toll.
+Load <amount_of_money> for tolls.
+Top up <amount_of_money> on FAST tag.
+Replenish FAST tag with <amount_of_money>.
+Add <amount_of_money> to first tag.
+Recharge first tag with <amount_of_money>.
+Load <amount_of_money> on first tag.
+Top up first tag with <amount_of_money>.
+Replenish <amount_of_money> in first tag.
+Top up <amount_of_money> on first tag.
+Replenish first tag with <amount_of_money>.
+
+
+# medium length sentences with <amount_of_money> 
+
+
+"I need to add <amount_of_money> to my FAST tag account for tolls."
+"I want to fill <amount_of_money> to FAStag account for toll payment."
+"want to load <amount_of_money> to First tag account to pay for toll."
+"I want to recharge my vehicle's FAST tag with <amount_of_money> for toll payments."
+"looking to top up my FAST tag balance with <amount_of_money> for toll charges."
+"need to load <amount_of_money> onto my car's FAST tag for toll plaza payments."
+"want to replenish my FAST tag account with <amount_of_money> for toll booth transactions."
+"planning to add <amount_of_money> to my vehicle's FAST tag for toll payments."
+"need to recharge my first Tag with <amount_of_money> for toll plaza charges."
+"want to top up my car's first Tag balance with <amount_of_money> for toll booth payments."
+"I'm looking to load <amount_of_money> onto my first tag account for toll transactions."
+"I need to replenish <amount_of_money> in my vehicle's firstag for toll plaza payments."
+
+# short length sentences with <vehicle_number>
+
+Recharge FASTag for vehicle <vehicle_number>.
+Add funds to FASTag for <vehicle_number>.
+Top up FASTag for vehicle <vehicle_number>.
+Replenish FAST tag balance for vehicle <vehicle_number>.
+Payment to FASTag for <vehicle_number>.
+Reload FAST tag funds for <vehicle_number>.
+Top off FAST tag for vehicle <vehicle_number>.
+Recharge FASTag for <vehicle_number>.
+Use upi to Recharge FASTag for vehicle <vehicle_number>.
+Add funds to FASTag for <vehicle_number> from upi account.
+Top up FASTag using upi balance for vehicle <vehicle_number>.
+Replenish FAST tag balance for vehicle <vehicle_number> from upi.
+Upi Payment to FASTag for <vehicle_number>.
+Reload FAST tag funds from upi for <vehicle_number>.
+Use upi to Top off FAST tag for vehicle <vehicle_number>.
+Pay from upi Recharge FASTag for <vehicle_number>.
+
+Recharge first Tag for vehicle <vehicle_number>.
+Add funds to first Tag for <vehicle_number>.
+Top up first Tag for vehicle <vehicle_number>.
+Replenish first tag balance for vehicle <vehicle_number>.
+Payment to first Tag for <vehicle_number>.
+Reload FAST tag funds for <vehicle_number>.
+Top off first tag for vehicle <vehicle_number>.
+Recharge first Tag for <vehicle_number>.
+
+Recharge FASTag for car <vehicle_number>.
+Add funds to FASTag for bike <vehicle_number>.
+Top up FASTag for car <vehicle_number>.
+Replenish FAST tag balance for bike <vehicle_number>.
+Payment to FASTag for scooter <vehicle_number>.
+Reload FAST tag funds for scooter <vehicle_number>.
+Top off FAST tag for car <vehicle_number>.
+Recharge FASTag for scooter <vehicle_number>.
+Use upi to Recharge FASTag for bike <vehicle_number>.
+Add funds to FASTag for scooter <vehicle_number> from upi account.
+Top up FASTag using upi balance for bike <vehicle_number>.
+Replenish FAST tag balance for car <vehicle_number> from upi.
+Upi Payment to FASTag for scooter <vehicle_number>.
+Reload FAST tag funds from upi for biek <vehicle_number>.
+Use upi to Top off FAST tag for car <vehicle_number>.
+
+Recharge first Tag for scooter <vehicle_number>.
+Use upi to Recharge first Tag for bike <vehicle_number>.
+Add funds to first Tag for scooter <vehicle_number> from upi account.
+Top up first Tag using upi balance for bike <vehicle_number>.
+Replenish first tag balance for car <vehicle_number> from upi.
+Upi Payment to first Tag for scooter <vehicle_number>.
+Reload first tag funds from upi for biek <vehicle_number>.
+Use upi to Top off first tag for car <vehicle_number>.
+
+
+# short length sentences with <mobile_number>
+
+Recharge FASTag for mobile <mobile_number>.
+Add funds to FASTag for <mobile_number>.
+Top up FASTag linked with mobile <mobile_number>.
+Replenish FAST tag balance for mobile number <mobile_number>.
+Payment to FASTag for phone number <mobile_number>.
+Reload FAST tag funds. linked mobile is <mobile_number>.
+Top off FAST tag linked to mobile <mobile_number>.
+Recharge FASTag linked with <mobile_number>.
+Use upi to Recharge FASTag for mobile <mobile_number>.
+Add funds to FASTag for <mobile_number> from upi account.
+Top up FASTag using upi balance. number is <vehicle_number>.
+Replenish FAST tag balance mobile number <mobile_number> from upi.
+Upi Payment to FASTag for <mobile_number>.
+Reload FAST tag funds from upi for <mobile_number>.
+Use upi to Top off FAST tag. linked number <mobile_number>.
+Pay from upi Recharge FASTag for <mobile_number>.
+
+Recharge first Tag for mobile <mobile_number>.
+Add funds to first Tag for <mobile_number>.
+Top up first Tag linked with mobile <mobile_number>.
+Replenish first tag balance for mobile number <mobile_number>.
+Payment to first Tag for phone number <mobile_number>.
+Reload first tag funds. linked mobile is <mobile_number>.
+Top off first tag linked to mobile <mobile_number>.
+
+
+# medium length sentences with <amount_of_money> and <vehicle_number>
+
+
+Reload FASTag for <vehicle_number> with <amount_of_money> .
+Add <amount_of_money>  to FASTag wallet for vehicle <vehicle_number>.
+Reload FASt Tag for <vehicle_number> with <amount_of_money> .
+Add <amount_of_money>  to FAST tag wallet for vehicle <vehicle_number>.
+Reload first Tag for <vehicle_number> with <amount_of_money> .
+Add <amount_of_money>  to First Tag wallet for vehicle <vehicle_number>.
+Reload FASTag for <vehicle_number> with <amount_of_money> from upi balance .
+Add <amount_of_money>  to FASTag wallet for vehicle <vehicle_number> using upi payment.
+
+Reload first Tag for <vehicle_number> with <amount_of_money> .
+Add <amount_of_money>  to first Tag wallet for vehicle <vehicle_number>.
+Reload first Tag for <vehicle_number> with <amount_of_money> .
+Add <amount_of_money>  to first tag wallet for vehicle <vehicle_number>.
+
+# medium length sentences with <amount_of_money> and <mobile_number>
+
+Reload FASTag for <mobile_number> with <amount_of_money> .
+Add <amount_of_money>  to FASTag wallet for mobile <mobile_number>.
+Reload FASt Tag for number <mobile_number> with <amount_of_money> .
+Add <amount_of_money>  to FAST tag wallet for phone number <mobile_number>.
+Reload first Tag for <mobile_number> with <amount_of_money> .
+Add <amount_of_money>  to FirstTag wallet for mobile <mobile_number>.
+Reload FASTag for <vehicle_number> with <amount_of_money> from upi balance .
+Add <amount_of_money>  to FASTag wallet for <mobile_number> using upi payment.
+
+Reload FASTag for <mobile_number> linked with <amount_of_money> .
+Add <amount_of_money>  to FASTag wallet attached with mobile <mobile_number>.
+Reload FASt Tag for number <mobile_number> with <amount_of_money> .
+Add <amount_of_money>  to FAST tag wallet linked with phone number <mobile_number>.
+Reload first Tag  with <amount_of_money> . linked mobile is <mobile_number>
+Add <amount_of_money>  to FirstTag wallet. attached mobile number is <mobile_number>.
+Reload FASTag linked with <mobile_number> with <amount_of_money> from upi balance .
+using upi payment Add <amount_of_money>  to FASTag wallet. mobile number linked is <mobile_number>.
