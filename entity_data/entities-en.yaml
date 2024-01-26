@@ -298,8 +298,7 @@ bank_name:
   - idbi bank
   - idbi
   IDFC First Bank Limited:
-  - idfc first bank limited
-  - idfc first bank
+  - idfc first bank 
   - idfc bank
   - idfc
   India Post Payments Bank:
@@ -398,6 +397,7 @@ bank_name:
   - kokan merchantile cooperative bank
   Kolhapur District Central Co-operative Bank Limited:
   - kolhapur district central cooperative bank
+  - kolhapur district cooperative bank
   Kolhapur Mahila Sahakari Bank Ltd:
   - kolhapur mahila sahakari bank
   Kotak Mahindra Bank:
@@ -406,10 +406,13 @@ bank_name:
   - kotak bank
   Kottakkal Co- Op Urban Bank Ltd:
   - kottakkal co op urban bank
+  - kottakkal cooperative bank
   Krishna Bhima Samruddhi Local Area Bank:
   - krishna bhima samruddhi local area bank
+  - krishna bhima bank
   LivQuik Technology (India) Private Limited:
-  - livquik technology india private
+  - livquik technology india
+  - livquik technology
   Lonavala Sahakari Bank Ltd:
   - lonavala sahakari bank
   MAHAVEER CO-OPERATIVE URBAN BANK LIMITED:
@@ -426,7 +429,7 @@ bank_name:
   Maharashtra State Cooperative Bank:
   - maharashtra state cooperative bank
   Mahesh Sahakari Bank Limited:
-  - mahesh sahakari bank limited
+  - mahesh sahakari bank
   Mahila Nagrik Sahakari Bank Mahasamund:
   - mahila nagrik sahakari bank mahasamund
   - mahila nagrik sahakari bank
@@ -474,7 +477,7 @@ bank_name:
   - nutan nagriksahakari bank
   PDP BANK KARAD bank:
   - p d p bank karad
-  - P. D. Patilsaheb Sahakari Bank
+  - p d patilsaheb sahakari bank
   POORNAWADI NAGRIK SAHAKARI BANK M.BEED.:
   - poornawadi nagrik sahakari bank m beed
   - poornawadi nagrik sahakari bank beed
@@ -585,13 +588,14 @@ bank_name:
   Shree Mahalaxmi Urban Co-op Credit Bank Ltd.:
   - shree mahalaxmi urban co op credit bank
   Shree Mahavir Sahakari Bank Ltd:
-  - shree mahavir sahakari bank limited
+  - shree mahavir sahakari bank
   Shree Panchganga Nagari Sahakari Bank Ltd:
   - shree panchganga nagari sahakari bank
   Shree Warana Sahakari Bank Ltd:
-  - shree warana sahakari bank limited
+  - shree warana sahakari bank
   Shri Arihant Co-operative Bank Ltd:
   - shri arihant cooperative bank limited
+  - shri arihant cooperative bank
   Shri Basaveshwar Sahakari Bank Niyamit Bagalkot:
   - shri basaveshwar sahakari bank niyamit bagalkot
   Shri Bharat Urban Co-operative Bank Ltd Jaysingpur:
@@ -603,14 +607,18 @@ bank_name:
   - SHRI CHHATRAPATI RAJARSHI SHAHU URBAN CO-OP BANK LTD
   Shri Janata Sahakari Bank Limited Halol:
   - shri janata sahakari bank limited halol
+  - shri janata sahakari bank
   Shri Mahalaxmi Co-op Bank Ltd Kolhapur:
   - shri mahalaxmi co op bank limited kolhapur
   Shri Mahila Sewa Sahakari Bank Limited:
   - shri mahila sewa sahakari bank limited
+  - shri mahila sewa sahakari bank
   Shri Rajkot District Co op Bank Ltd:
   - shri rajkot district co op bank limited
+  - shri rajkot district co op bank
   Shri Veershaiv Co-op Bank Ltd.:
   - shri veershaiv co op bank limited
+  - shri veershaiv co op bank
   Sindhudurg Co-op Bank:
   - sindhudurg co op bank
   Smriti Nagrik Sahakari Bank Maryadit Mandsaur:
@@ -622,12 +630,15 @@ bank_name:
   - spice money
   Sree Charan Souhardha Co-operative Bank Limited:
   - sree charan souhardha cooperative bank limited
+  - sree charan souhardha cooperative bank
   Sri Rama Co-operative Bank Ltd:
   - sri rama cooperative bank limited
+  - sri rama cooperative bank
   Sri Sudha Cooperative Bank Ltd:
   - sri sudha cooperative bank limited
   Sri Vasavamba Cooperative Bank Ltd:
   - sri vasavamba cooperative bank limited
+  - sri vasavamba cooperative bank
   Standard Chartered Bank:
   - standard chartered bank
   - s c b
@@ -639,17 +650,22 @@ bank_name:
   - bhartiya state bank
   Sterling Urban Co-operative Bank Ltd:
   - sterling urban cooperative bank limited
+  - sterling urban cooperative bank 
   Suco Souharda Sahakari Bank Ltd:
   - suco souharda sahakari bank limited
   - Sindhanur Urban Co-operative bank
   Sudha Co-operative Urban Bank Ltd:
   - sudha cooperative urban bank limited
+  - sudha cooperative urban bank
   Sundarlal Sawaji Urban Co-Op Bank Ltd:
   - sundarlal sawaji urban co op bank limited
+  - sundarlal sawaji urban co op bank
   Surat National Co-operative Bank Limited:
   - surat national cooperative bank limited
+  - surat national cooperative bank
   Suryoday Small Finance Bank Ltd:
   - suryoday small finance bank limited
+  - suryoday small finance bank
   Suvarnayug Sahakari Bank Ltd.:
   - suvarnayug sahakari bank limited
   THE BARODA CITY CO OPERATIVE BANK LTD:
@@ -903,7 +919,7 @@ bank_name:
   - yes bank  
 lpg_gas_provider_name:
   Bharat Petroleum Corporation Ltd.:
-  - bharat petroleum corporation limited
+  - bharat petroleum corporation
   - b p c l
   - bharat gas
   - bharat petroleum
@@ -1004,7 +1020,7 @@ pipe_gas_provider_name:
   - tripura natural gas
   - tripura natural
   Unique Central Piped Gases Pvt Ltd (UCPGPL):
-  - unique central piped gases private limited
+  - unique central piped gases
   - unique central piped gas
   - u c p g p l
   Vadodara Gas Limited:
@@ -1060,15 +1076,15 @@ electricity_board:
   - yamuna power limited
   - b s e s yamuna power
   Bangalore Electricity Supply Co. Ltd (BESCOM):
-  - bangalore electricity supply co limited
+  - bangalore electricity supply
   - bescom
   - bangalore electricity
   Bharatpur Electricity Services Ltd. (BESL):
-  - bharatpur electricity services limited
+  - bharatpur electricity services
   - bharatpur electricity
   - b e s l
   Bikaner Electricity Supply Limited (BkESL):
-  - bikaner electricity supply limited
+  - bikaner electricity supply
   - bikaner electricity
   - b k e s l
   Calcutta Electric Supply Corporation (CESC):
