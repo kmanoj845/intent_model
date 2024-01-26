@@ -1,5 +1,40 @@
 ﻿# short sentences
 
+English language 
+Hindi language
+Gujarati language
+Marathi language
+Panjabi language
+Punjabi language
+Tamil language
+Telugu language
+Kannada language
+Kannad language
+Bengali language
+Bangla language
+Oriya language
+Malayalam language
+Malayali language
+Urdu language
+Sanskrit language
+English 
+Hindi 
+Gujarati 
+Marathi 
+Panjabi 
+Punjabi 
+Tamil 
+Telugu 
+Kannada 
+Kannad 
+Bengali 
+Bangla 
+Oriya 
+Malayalam 
+Malayali 
+Urdu 
+Sanskrit
+
 <mobile_number>
 <mobile_number>
 <mobile_number>
