@@ -30,9 +30,9 @@ def number_to_words(number_list, lang):
     num_in_words = list()
     for lst in number_list:
         joined_list = ''.join(lst)
-        num_in_words.append(num_to_word(joined_list, lang=lang))
+        num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
     num_in_words = ' '.join(num_in_words)
-    num_in_words = num_in_words.replace(',', '')
+    # num_in_words = num_in_words.replace(',', '')
     num_in_words = num_in_words.replace('-', ' ')
     if lang == 'hi':
         zero = random.choice([ 'शून्य', 'ज़िरो', 'जिरो', 'जीरो', 'ज़ीरो'])
