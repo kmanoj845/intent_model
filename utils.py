@@ -6,7 +6,8 @@ import numpy as np
 import pandas as pd
 from num_to_words import num_to_word
 import pickle
-
+import config
+import requests
 
 def generate_number(num_length, generate_from=range(0,10)):
     if num_length == 0:
@@ -26,19 +27,54 @@ def get_chuncked_list(lst):
         return chunked_list
 
 
-def number_to_words(number_list, lang):
+def number_to_words(number_list, lang, xlit = 0.4):
     num_in_words = list()
-    for lst in number_list:
-        joined_list = ''.join(lst)
-        num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
-    num_in_words = ' '.join(num_in_words)
-    # num_in_words = num_in_words.replace(',', '')
-    num_in_words = num_in_words.replace('-', ' ')
+    xlit_lang = lang
+    if xlit:
+        lang = random.choices(['en', lang], weights=[xlit, 1-xlit], k=1)[0]
+        if lang == 'en':
+            print('in EN')
+            for lst in number_list:
+                joined_list = ''.join(lst)
+                num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
+            num_in_words = ' '.join(num_in_words)
+            num_in_words = num_in_words.replace('-', ' ')
+            print(num_in_words)
+            xlit_words = [xlit_to_indic(word, xlit_lang, numSuggestions = 1) for word in num_in_words.split(" ")]
+            num_in_words = ' '.join(xlit_words)
+        else:
+            print('in LANG')
+            for lst in number_list:
+                joined_list = ''.join(lst)
+                num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
+            num_in_words = ' '.join(num_in_words)
+            num_in_words = num_in_words.replace('-', ' ')
+            print(num_in_words)
+        
     if lang == 'hi':
         zero = random.choice([ 'शून्य', 'ज़िरो', 'जिरो', 'जीरो', 'ज़ीरो'])
         if 'शून्य' in num_in_words:
             num_in_words = num_in_words.replace('शून्य', zero, 1)
     return num_in_words.replace('\u200b', '')
+
+
+
+
+    
+            
+    # for lst in number_list:
+    #     joined_list = ''.join(lst)
+    #     num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
+    # num_in_words = ' '.join(num_in_words)
+    # # num_in_words = num_in_words.replace(',', '')
+    # num_in_words = num_in_words.replace('-', ' ')
+    # print(num_in_words)
+    # print([xlit_to_indic(word, lang, numSuggestions = 1) for word in num_in_words.split(" ")])
+    # if lang == 'hi':
+    #     zero = random.choice([ 'शून्य', 'ज़िरो', 'जिरो', 'जीरो', 'ज़ीरो'])
+    #     if 'शून्य' in num_in_words:
+    #         num_in_words = num_in_words.replace('शून्य', zero, 1)
+    # return num_in_words.replace('\u200b', '')
 
 
 def get_mobile_number(lang):
@@ -49,7 +85,9 @@ def get_mobile_number(lang):
     return mobile_number
 
 
-def get_amount_of_money(lang, rs_variations_dict, num_length=random.choice(range(1, 5))):
+def get_amount_of_money(lang, rs_variations_dict, num_length=None):
+    if num_length == None:
+        num_length = random.choice(range(1, 5))
     if num_length == 0:
         raise ValueError('can not generate 0 length amount of money')
     elif num_length == 1:
@@ -59,6 +97,7 @@ def get_amount_of_money(lang, rs_variations_dict, num_length=random.choice(range
 
     number = list(map(str, number))
     number = [''.join(number)]
+    print(number)
     amount_of_money = number_to_words(number, lang=lang)
     rs_varirations = rs_variations_dict[lang]
     rs_variation = random.choice(rs_varirations)
@@ -267,9 +306,41 @@ def fill_placeholders(lang):
 
 
 
+def xlit_to_indic(word, lang, numSuggestions = 2):
+    url = "https://dhruva-api.bhashini.gov.in/services/inference/pipeline"
+    service_id = "ai4bharat/indicxlit--cpu-fsv2" 
+    payload = {
+        "pipelineTasks": [
+            {
+                "taskType": "transliteration",
+                "config": {
+                    "language": {
+                        "sourceLanguage": "en",
+                        "targetLanguage": lang
+                    },
+                    "serviceId": service_id,
+                    "isSentence": False,
+                    "numSuggestions": numSuggestions
+                }
+            }
+        ],
+        "inputData": {
+            "input": [
+                {
+                    "source": word
+                }
+            ]
+        }
+    }
+    print(config.headers)
+    r = requests.post(url = url, json = payload, headers=config.headers).json()
+    print(r)
+    xlit_words = r['pipelineResponse'][0]['output'][0]['target']
+    return random.choice(xlit_words)
+
+
 
 import torch
-
 class Dataset(torch.utils.data.Dataset):
     def __init__(self, encodings, labels=None, labels_to_ids=None):
         self.encodings = encodings
@@ -287,6 +358,3 @@ class Dataset(torch.utils.data.Dataset):
 ##
 
             
-
-
-
