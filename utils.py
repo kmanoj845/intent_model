@@ -9,6 +9,9 @@ import pickle
 import config
 import requests
 
+with open("entity_data/zero_variations.yaml") as f:
+    zero_variations_dict = yaml.load(f, yaml.BaseLoader)
+
 def generate_number(num_length, generate_from=range(0,10)):
     if num_length == 0:
         raise ValueError('can not generate 0 length number')
@@ -27,54 +30,23 @@ def get_chuncked_list(lst):
         return chunked_list
 
 
-def number_to_words(number_list, lang, xlit = 0.4):
+def number_to_words(number_list, lang):
     num_in_words = list()
-    xlit_lang = lang
-    if xlit:
-        lang = random.choices(['en', lang], weights=[xlit, 1-xlit], k=1)[0]
-        if lang == 'en':
-            print('in EN')
-            for lst in number_list:
-                joined_list = ''.join(lst)
-                num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
-            num_in_words = ' '.join(num_in_words)
-            num_in_words = num_in_words.replace('-', ' ')
-            print(num_in_words)
-            xlit_words = [xlit_to_indic(word, xlit_lang, numSuggestions = 1) for word in num_in_words.split(" ")]
-            num_in_words = ' '.join(xlit_words)
-        else:
-            print('in LANG')
-            for lst in number_list:
-                joined_list = ''.join(lst)
-                num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
-            num_in_words = ' '.join(num_in_words)
-            num_in_words = num_in_words.replace('-', ' ')
-            print(num_in_words)
+    for lst in number_list:
+        joined_list = ''.join(lst)
+        num_in_words.append(num_to_word(joined_list, lang=lang))
+    num_in_words = ' '.join(num_in_words)
+    num_in_words = num_in_words.replace(',', '')
+    num_in_words = num_in_words.replace('-', ' ')
+        # print(num_in_words)
         
-    if lang == 'hi':
-        zero = random.choice([ 'शून्य', 'ज़िरो', 'जिरो', 'जीरो', 'ज़ीरो'])
-        if 'शून्य' in num_in_words:
-            num_in_words = num_in_words.replace('शून्य', zero, 1)
+    if lang != 'en':
+        zero_variations = zero_variations_dict[lang]
+        zero = random.choice(zero_variations)
+        # print(zero_variations)
+        if zero_variations[0] in num_in_words:
+            num_in_words = num_in_words.replace(zero_variations[0], zero, 1)
     return num_in_words.replace('\u200b', '')
-
-
-
-
-    
-            
-    # for lst in number_list:
-    #     joined_list = ''.join(lst)
-    #     num_in_words.append(num_to_word(joined_list, lang=lang, separator=' '))
-    # num_in_words = ' '.join(num_in_words)
-    # # num_in_words = num_in_words.replace(',', '')
-    # num_in_words = num_in_words.replace('-', ' ')
-    # print(num_in_words)
-    # print([xlit_to_indic(word, lang, numSuggestions = 1) for word in num_in_words.split(" ")])
-    # if lang == 'hi':
-    #     zero = random.choice([ 'शून्य', 'ज़िरो', 'जिरो', 'जीरो', 'ज़ीरो'])
-    #     if 'शून्य' in num_in_words:
-    #         num_in_words = num_in_words.replace('शून्य', zero, 1)
-    # return num_in_words.replace('\u200b', '')
 
 
 def get_mobile_number(lang):
@@ -97,7 +69,7 @@ def get_amount_of_money(lang, rs_variations_dict, num_length=None):
 
     number = list(map(str, number))
     number = [''.join(number)]
-    print(number)
+    # print(number)
     amount_of_money = number_to_words(number, lang=lang)
     rs_varirations = rs_variations_dict[lang]
     rs_variation = random.choice(rs_varirations)
@@ -112,6 +84,8 @@ def get_amount_of_money(lang, rs_variations_dict, num_length=None):
 
 def get_alphanumeric_number(lang, num_length, alpha_length, alphabets_dict = None):
     if alpha_length > 0:
+        if alphabets_dict == None:
+            raise ValueError('alphabets_dict is not provided.')
         lang_alphabets = alphabets_dict[lang]
         alphabets_list = random.choices(lang_alphabets, k=alpha_length)
         alphabets_str = random.choice([' ', '']).join(alphabets_list)
@@ -140,8 +114,8 @@ def get_vehicle_number(lang, rto_dict, alphabets_dict):
     four_digit_number_in_words = number_to_words(chuncked_list, lang=lang)
 
     one_two_alphabets = get_alphanumeric_number(
-                                lang, 
-                                num_length = 0, 
+                                lang,
+                                num_length=0, 
                                 alpha_length = random.choice([1, 2]),
                                 alphabets_dict = alphabets_dict
                                 )
@@ -150,8 +124,10 @@ def get_vehicle_number(lang, rto_dict, alphabets_dict):
         reg_year = ['2'] + [str(random.choice(range(10)))]
         chuncked_list = get_chuncked_list(reg_year)
         reg_year_in_words = number_to_words(chuncked_list, lang=lang)
-        if lang == 'hi':
-            vehicle_number = vehicle_number = f'{reg_year_in_words} बी एच {four_digit_number_in_words} {one_two_alphabets}' 
+        if lang != 'en':
+            b = alphabets_dict[lang][1]
+            h = alphabets_dict[lang][7]
+            vehicle_number = f'{reg_year_in_words} {b} {h} {four_digit_number_in_words} {one_two_alphabets}' 
         else:
             vehicle_number = f'{reg_year_in_words} b h {four_digit_number_in_words} {one_two_alphabets}'
     else:    
@@ -204,15 +180,19 @@ def get_entity_input_data(lang):
   with open("entity_data/alphabets.yaml") as f:
       alphabets_dict = yaml.load(f, yaml.BaseLoader)
 
+  # with open("entity_data/zero_variations.yaml") as f:
+  #     zero_variations_dict = yaml.load(f, yaml.BaseLoader)
+
   entity_data =  (
                   entities_dict,
                   entity_variations_dict,
                   rto_dict,
                   rs_variations_dict,
                   entity_mapping_dict,
-                  alphabets_dict
+                  alphabets_dict,
+                  # zero_variations_dict
                   )
-  print('--- entity input data prepared ---')
+  print('--- placeholder input data prepared ---')
   return entity_data
 
 
@@ -231,7 +211,7 @@ def get_lines(data_file_path, file_name):
     lines = [line for line in lines if len(line) > 0]
     lines = [line.strip('."|') for line in lines]
     lines = [line.replace('"?', '') for line in lines]
-    lines = [line.replace('|', ' ') for line in lines]  # repleace Poorn Viraam with space
+    lines = [line.replace('|', ' ') for line in lines]  # repleace in between Poorn Viraam with space
     return lines
 
 
@@ -245,6 +225,7 @@ def fill_placeholders(lang):
   rs_variations_dict = entity_data[3]
   entity_mapping_dict = entity_data[4]
   alphabets_dict = entity_data[5]
+  # zero_variations_dict = entity_data[6]
 
   data_files, data_file_path = get_data_file_list(lang)
 
@@ -274,8 +255,12 @@ def fill_placeholders(lang):
                         line = line.replace(placeholder, vehicle_number)
 
                     elif placeholder == '<policy_number>':
-                        policy_number = generate_number(random.choice(range(8,14)))
-                        policy_number = number_to_words(policy_number, lang)
+                        policy_number = get_alphanumeric_number(lang, 
+                                                                num_length=random.choice(range(6,10)),
+                                                                alpha_length=random.choice(range(1,4)),
+                                                                alphabets_dict=alphabets_dict
+                                                                 )
+                        # policy_number = number_to_words(policy_number, lang)
                         line = line.replace(placeholder, policy_number)
 
                     elif placeholder == '<bank_account_number>':
@@ -289,12 +274,20 @@ def fill_placeholders(lang):
                         line = line.replace(placeholder, bu_number)
 
                     elif placeholder == '<consumer_number>':
-                        consumer_number = generate_number(random.choice(range(6,10)))
-                        consumer_number = number_to_words(consumer_number, lang)
+                        consumer_number = get_alphanumeric_number(lang, 
+                                                                  num_length=random.choice(range(4,8)),
+                                                                  alpha_length=random.choice(range(1,4)),
+                                                                  alphabets_dict=alphabets_dict
+                                                                 )
+                        # consumer_number = number_to_words(consumer_number, lang)
                         line = line.replace(placeholder, consumer_number)
 
                     elif placeholder == '<loan_account_number>':
-                        loan_account_number = get_alphanumeric_number(lang, 6, 2, alphabets_dict)
+                        loan_account_number = get_alphanumeric_number(lang, 
+                                                                      num_length=random.choice(range(4,8)), 
+                                                                      alpha_length=random.choice(range(1,3)), 
+                                                                      alphabets_dict=alphabets_dict
+                                                                     )
                         line = line.replace(placeholder, loan_account_number)
                 else:
                     raise ValueError(f'placeholder: {placeholder} not in any entity type.')
@@ -332,9 +325,9 @@ def xlit_to_indic(word, lang, numSuggestions = 2):
             ]
         }
     }
-    print(config.headers)
+    # print(config.headers)
     r = requests.post(url = url, json = payload, headers=config.headers).json()
-    print(r)
+    # print(r)
     xlit_words = r['pipelineResponse'][0]['output'][0]['target']
     return random.choice(xlit_words)
 
@@ -358,3 +351,6 @@ class Dataset(torch.utils.data.Dataset):
 ##
 
             
+
+
+

@@ -1,4 +1,4 @@
-﻿# short sentence
+# short sentence
 
 electricity bill
 i want to pay my electricity bill
@@ -131,3 +131,25 @@ Making payment to <electricity_board> for electricity expenses.
 Settling pending electricity bill with <electricity_board>.
 Paying electricity charges to <electricity_board>.
 Clearing outstanding amount with <electricity_board> for electricity usage.
+
+# sentence with <bu_number_for_electricity>
+
+want to pay electricity bill linked with <bu_number_for_electricity>
+pay electricity bill for <bu_number_for_electricity>
+"bu number is <bu_number_for_electricity> Settling power bill online."
+"Covering electricity bill for number <bu_number_for_electricity>."
+ for billingunit number <bu_number_for_electricity> Clearing power bill balance."
+
+
+Make payment for <electricity_board> and bu number is <bu_number_for_electricity>
+my billing unit number is <bu_number_for_electricity>. payment for electricity bill
+<electricity_board> bill payment for <bu_number_for_electricity>
+
+"Paying <electricity_board> bill through upi. bu number is <bu_number_for_electricity>"
+for number <bu_number_for_electricity>, Covering <electricity_board> dues from upi balance."
+"paying power bill for <electricity_board> through upi account and number is <bu_number_for_electricity>."
+"for <bu_number_for_electricity> Upi pay to Handle <electricity_board> bill payment."
+
+Pay electricity bill for b u number <bu_number_for_electricity>
+Pay for electricity with billing number <bu_number_for_electricity>
+Make payment for electricity linked with <bu_number_for_electricity>
